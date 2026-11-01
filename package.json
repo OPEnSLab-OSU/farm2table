@@ -1,0 +1,9 @@
+{
+  "name": "farm2table",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Farm2Table initial CI scaffold",
+  "scripts": {
+    "test": "node --test"
+  }
+}
