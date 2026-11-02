@@ -1,5 +1,8 @@
 # Farm2Table-Capstone
-Browser-based map and time-series explorer for farm and environmental sensor data, built on the open-source Ear2Earth platform.
+Farm2Table is a new application developed independently from
+Ear2Earth. The project reuses limited database query logic
+from Ear2Earth to retrieve agricultural sensor data, but does
+not inherit or extend the Ear2Earth application codebase.
 
 ## Status
 Checkpoint 1: scaffold only. No product features yet.
