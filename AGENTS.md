@@ -2,7 +2,10 @@
 Context for AI coding tools working in this repository. Per-tool files should point here instead of duplicating it.
 
 ## Project
-Farm2Table is a browser-based app that makes agricultural and environmental sensor data as easy to explore as a map. Users find sensor stations on an interactive map, inspect current conditions, view time-series data, compare locations, and investigate relationships between variables (for example rainfall and soil moisture) without downloading CSVs or writing scripts. It builds on the open-source Ear2Earth platform and is also meant to support agricultural and environmental education.
+Farm2Table is a new application developed independently from
+Ear2Earth. The project reuses limited database query logic
+from Ear2Earth to retrieve agricultural sensor data, but does
+not inherit or extend the Ear2Earth application codebase.
 
 Main features:
 - Interactive map of sensor stations, with last-update time and device status
@@ -13,19 +16,32 @@ Main features:
 - Works on desktop, tablet, and mobile
 
 ## Stack
-The team has not finalized the technology stack yet.
 
-- Language: TBD
+The full application technology stack has not been finalized.
+
+Current setup:
+- Language: JavaScript (initial scaffold)
+- Runtime: Node.js 22
+- Testing: Node.js built-in test runner
+- CI: GitHub Actions
+
+Planned or under evaluation:
 - Frontend: TBD
 - Mapping: TBD
 - Plotting: TBD
 - Backend / API: TBD
-- Database: TBD
-- Hosting: TBD
+- Database: MongoDB (planned sensor data source)
+- Hosting: OPEnS Lab VPS (planned, pending confirmation)
 
 ## Setup commands
-Development commands have not been established yet.
-This section will be updated once the project setup is complete.
+
+The initial testing scaffold can be run locally:
+
+npm install
+npm test
+
+Application development and deployment commands
+will be documented once the stack is finalized.
 
 ## Code style
 - TypeScript strict mode
