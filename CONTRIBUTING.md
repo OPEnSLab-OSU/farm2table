@@ -34,11 +34,18 @@ Examples:
 
 ## Testing
 
-- Test changes before submitting a pull request.
-- Add or update tests for new features and bug fixes when the testing framework is available.
-- Until automated tests are configured, describe manual testing steps in the pull request.
-- The Quality Owner will coordinate the testing setup.
-- Testing commands and coverage requirements will be documented once the team selects the framework.
+Automated testing is configured using Node.js's built-in test runner.
+
+To run tests locally:
+
+```bash
+npm install
+npm test
+```
+
+Current tests are located in `tests/coordinates.test.js` and validate station coordinates.
+
+Contributors should run tests before opening a pull request and add or update tests when changing relevant functionality.
 
 ## Definition of Done
 
@@ -49,22 +56,20 @@ A contribution is considered complete when:
 - Relevant testing has been completed and documented.
 - Related documentation has been updated when necessary.
 - No secrets or sensitive information are exposed.
-- Required automated checks pass once CI is configured.
+- Required GitHub Actions CI checks must pass before merging.
 
-### Planned Quality Checks
+## Quality Checks
 
-The following checks are not yet implemented:
+| Check | Status |
+|---|---|
+| Automated tests | Implemented |
+| GitHub Actions CI | Implemented |
+| Code review | Conducted through pull requests |
+| Linting | Not configured yet |
+| Security scanning | Not configured yet |
+| Continuous Deployment | Not configured yet |
 
-| Check | Planned Enforcement | Owner | Target Sprint |
-|---|---|---|---|
-| Code review | GitHub PR approval | Quality Owner | TBD |
-| Documentation | PR review checklist | Documentation Owner | TBD |
-| Linting | CI lint job | Quality Owner | TBD |
-| Automated tests | CI test job | Quality Owner | TBD |
-| Security checks | Secret/dependency scanning | Quality Owner | TBD |
-| Merge checks | GitHub branch protection | Quality Owner | TBD |
-
-The Quality Owner will work with the team to select the tools, confirm implementation sprints, and document the exact CI configuration.
+All contributors should check that CI passes before merging pull requests.
 
 ## Contribution Norm
 
@@ -93,13 +98,21 @@ The team will confirm PR approval requirements and review turnaround expectation
 
 ## CI/CD
 
-- CI/CD has not been configured yet.
-- The Quality Owner is responsible for CI health and coordinating automated quality checks.
-- The Deployment Owner manages deployment setup and environments.
-- Once the technology stack is selected, the team will decide which CI/CD tools to use.
-- Planned CI checks include linting, automated tests, and security scanning.
-- The CI configuration location, required jobs, and instructions for viewing logs or rerunning checks will be documented after implementation.
-- Required checks must pass before merging or releasing once they are enabled.
+GitHub Actions Continuous Integration (CI) is configured in `.github/workflows/ci.yml`.
+
+The **Farm2Table CI** workflow runs automatically on:
+- Pushes to the `main` branch.
+- Pull requests.
+
+The workflow:
+1. Checks out the repository.
+2. Sets up Node.js 22.
+3. Installs dependencies using `npm install`.
+4. Runs automated tests using `npm test`.
+
+The team has verified that CI passes with valid code and fails when an intentional defect is introduced.
+
+Continuous Deployment (CD) has not been implemented yet.
 
 ## Security & Secrets
 
@@ -114,7 +127,7 @@ The team will confirm PR approval requirements and review turnaround expectation
 ## Documentation Expectations
 
 - Update `README.md` when setup or usage instructions change.
-- Document significant technical decisions using Architecture Decision Records (ADRs) in `docs/decisions/`.
+- Document significant technical decisions using RFCs in `docs/rfcs/`.
 - Update relevant documentation when adding or modifying features.
 - Use comments to explain code that is not immediately clear.
 - The Documentation Owner is responsible for keeping project documentation current.
@@ -124,7 +137,8 @@ The team will confirm PR approval requirements and review turnaround expectation
 
 - The Quality Owner oversees release quality and ensures the Definition of Done is satisfied.
 - The Deployment Owner manages deployment environments and deployment procedures.
-- The hosting platform and release process have not been finalized.
+- The planned hosting target is OPEnS Lab infrastructure associated with farm2table.com, coordinated with Sarvesh.
+- The deployment configuration, approval, and release process have not been finalized.
 - Before the first release, the team will document versioning, release tags, deployment steps, and rollback procedures.
 - Releases should be tested before being demonstrated to the project partner.
 
