@@ -44,6 +44,6 @@ Application development and deployment commands
 will be documented once the stack is finalized.
 
 ## Code style
-- TypeScript strict mode
+- JavaScript strict mode
 - Single quotes, no semicolons
 - Use functional patterns where possible
