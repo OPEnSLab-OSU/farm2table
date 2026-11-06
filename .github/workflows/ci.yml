@@ -2,9 +2,9 @@ name: Farm2Table CI
 
 on:
   push:
-    branches: [migrate-team-repo]
+    branches: [main]
   pull_request:
-    branches: [migrate-team-repo]
+    branches: [main]
 
 permissions:
   contents: read
