@@ -1,0 +1,4476 @@
+{
+  "metadata": {
+    "stationId": "CRVO-DEMO",
+    "locationContext": "Simulation informed by CRVO weather observations; NOT a real soil sensor at CRVO",
+    "dataType": "synthetic",
+    "measurement": "soil moisture percent (illustrative)",
+    "model": "toy_rainfall_evaporation_v1",
+    "disclaimer": "Generated demo data for UI testing, not measured, validated or suitable for scientific analysis."
+  },
+  "observations": [
+    {
+      "timestampLocal": "2026-10-01T00:00:00",
+      "soilMoisturePercent": 30.99,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-01T01:00:00",
+      "soilMoisturePercent": 30.98,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-01T02:00:00",
+      "soilMoisturePercent": 30.96,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-01T03:00:00",
+      "soilMoisturePercent": 30.95,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-01T04:00:00",
+      "soilMoisturePercent": 30.94,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-01T05:00:00",
+      "soilMoisturePercent": 30.93,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-01T06:00:00",
+      "soilMoisturePercent": 30.92,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-01T07:00:00",
+      "soilMoisturePercent": 30.9,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-01T08:00:00",
+      "soilMoisturePercent": 30.89,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-01T09:00:00",
+      "soilMoisturePercent": 30.88,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-01T10:00:00",
+      "soilMoisturePercent": 30.86,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-01T11:00:00",
+      "soilMoisturePercent": 30.83,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-01T12:00:00",
+      "soilMoisturePercent": 30.81,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-01T13:00:00",
+      "soilMoisturePercent": 30.78,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-01T14:00:00",
+      "soilMoisturePercent": 30.75,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-01T15:00:00",
+      "soilMoisturePercent": 30.72,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-01T16:00:00",
+      "soilMoisturePercent": 30.69,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-01T17:00:00",
+      "soilMoisturePercent": 30.66,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-01T18:00:00",
+      "soilMoisturePercent": 30.64,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-01T19:00:00",
+      "soilMoisturePercent": 30.62,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-01T20:00:00",
+      "soilMoisturePercent": 30.61,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-01T21:00:00",
+      "soilMoisturePercent": 30.59,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-01T22:00:00",
+      "soilMoisturePercent": 30.58,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-01T23:00:00",
+      "soilMoisturePercent": 30.57,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-02T00:00:00",
+      "soilMoisturePercent": 30.56,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-02T01:00:00",
+      "soilMoisturePercent": 30.54,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-02T02:00:00",
+      "soilMoisturePercent": 30.53,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-02T03:00:00",
+      "soilMoisturePercent": 30.52,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-02T04:00:00",
+      "soilMoisturePercent": 30.51,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-02T05:00:00",
+      "soilMoisturePercent": 30.5,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-02T06:00:00",
+      "soilMoisturePercent": 30.48,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-02T07:00:00",
+      "soilMoisturePercent": 30.47,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-02T08:00:00",
+      "soilMoisturePercent": 30.46,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-02T09:00:00",
+      "soilMoisturePercent": 30.44,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-02T10:00:00",
+      "soilMoisturePercent": 30.42,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-02T11:00:00",
+      "soilMoisturePercent": 30.4,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-02T12:00:00",
+      "soilMoisturePercent": 30.37,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-02T13:00:00",
+      "soilMoisturePercent": 30.34,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-02T14:00:00",
+      "soilMoisturePercent": 30.31,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-02T15:00:00",
+      "soilMoisturePercent": 30.28,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-02T16:00:00",
+      "soilMoisturePercent": 30.25,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-02T17:00:00",
+      "soilMoisturePercent": 30.22,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-02T18:00:00",
+      "soilMoisturePercent": 30.2,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-02T19:00:00",
+      "soilMoisturePercent": 30.18,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-02T20:00:00",
+      "soilMoisturePercent": 30.16,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-02T21:00:00",
+      "soilMoisturePercent": 30.15,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-02T22:00:00",
+      "soilMoisturePercent": 30.13,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-02T23:00:00",
+      "soilMoisturePercent": 30.12,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-03T00:00:00",
+      "soilMoisturePercent": 30.11,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-03T01:00:00",
+      "soilMoisturePercent": 30.09,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-03T02:00:00",
+      "soilMoisturePercent": 30.08,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-03T03:00:00",
+      "soilMoisturePercent": 30.07,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-03T04:00:00",
+      "soilMoisturePercent": 30.06,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-03T05:00:00",
+      "soilMoisturePercent": 30.04,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-03T06:00:00",
+      "soilMoisturePercent": 30.03,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-03T07:00:00",
+      "soilMoisturePercent": 30.02,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-03T08:00:00",
+      "soilMoisturePercent": 30.01,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-03T09:00:00",
+      "soilMoisturePercent": 29.99,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-03T10:00:00",
+      "soilMoisturePercent": 29.97,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-03T11:00:00",
+      "soilMoisturePercent": 29.95,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-03T12:00:00",
+      "soilMoisturePercent": 29.92,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-03T13:00:00",
+      "soilMoisturePercent": 29.89,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-03T14:00:00",
+      "soilMoisturePercent": 29.86,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-03T15:00:00",
+      "soilMoisturePercent": 29.83,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-03T16:00:00",
+      "soilMoisturePercent": 29.8,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-03T17:00:00",
+      "soilMoisturePercent": 29.77,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-03T18:00:00",
+      "soilMoisturePercent": 29.75,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-03T19:00:00",
+      "soilMoisturePercent": 29.73,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-03T20:00:00",
+      "soilMoisturePercent": 29.71,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-03T21:00:00",
+      "soilMoisturePercent": 29.7,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-03T22:00:00",
+      "soilMoisturePercent": 29.69,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-03T23:00:00",
+      "soilMoisturePercent": 29.68,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-04T00:00:00",
+      "soilMoisturePercent": 29.67,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-04T01:00:00",
+      "soilMoisturePercent": 29.65,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-04T02:00:00",
+      "soilMoisturePercent": 29.64,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-04T03:00:00",
+      "soilMoisturePercent": 29.63,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-04T04:00:00",
+      "soilMoisturePercent": 29.62,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-04T05:00:00",
+      "soilMoisturePercent": 29.61,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-04T06:00:00",
+      "soilMoisturePercent": 29.59,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-04T07:00:00",
+      "soilMoisturePercent": 29.58,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-04T08:00:00",
+      "soilMoisturePercent": 29.57,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-04T09:00:00",
+      "soilMoisturePercent": 29.55,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-04T10:00:00",
+      "soilMoisturePercent": 29.53,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-04T11:00:00",
+      "soilMoisturePercent": 29.51,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-04T12:00:00",
+      "soilMoisturePercent": 29.48,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-04T13:00:00",
+      "soilMoisturePercent": 29.45,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-04T14:00:00",
+      "soilMoisturePercent": 29.42,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-04T15:00:00",
+      "soilMoisturePercent": 29.39,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-04T16:00:00",
+      "soilMoisturePercent": 29.36,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-04T17:00:00",
+      "soilMoisturePercent": 29.33,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-04T18:00:00",
+      "soilMoisturePercent": 29.31,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-04T19:00:00",
+      "soilMoisturePercent": 29.29,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-04T20:00:00",
+      "soilMoisturePercent": 29.27,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-04T21:00:00",
+      "soilMoisturePercent": 29.26,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-04T22:00:00",
+      "soilMoisturePercent": 29.25,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-04T23:00:00",
+      "soilMoisturePercent": 29.23,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-05T00:00:00",
+      "soilMoisturePercent": 29.22,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-05T01:00:00",
+      "soilMoisturePercent": 29.21,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-05T02:00:00",
+      "soilMoisturePercent": 29.2,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-05T03:00:00",
+      "soilMoisturePercent": 29.19,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-05T04:00:00",
+      "soilMoisturePercent": 29.17,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-05T05:00:00",
+      "soilMoisturePercent": 29.16,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-05T06:00:00",
+      "soilMoisturePercent": 29.15,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-05T07:00:00",
+      "soilMoisturePercent": 29.14,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-05T08:00:00",
+      "soilMoisturePercent": 29.13,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-05T09:00:00",
+      "soilMoisturePercent": 29.11,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-05T10:00:00",
+      "soilMoisturePercent": 29.09,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-05T11:00:00",
+      "soilMoisturePercent": 29.07,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-05T12:00:00",
+      "soilMoisturePercent": 29.04,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-05T13:00:00",
+      "soilMoisturePercent": 29.01,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-05T14:00:00",
+      "soilMoisturePercent": 28.98,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-05T15:00:00",
+      "soilMoisturePercent": 28.95,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-05T16:00:00",
+      "soilMoisturePercent": 28.92,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-05T17:00:00",
+      "soilMoisturePercent": 28.89,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-05T18:00:00",
+      "soilMoisturePercent": 28.86,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-05T19:00:00",
+      "soilMoisturePercent": 28.85,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-05T20:00:00",
+      "soilMoisturePercent": 28.83,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-05T21:00:00",
+      "soilMoisturePercent": 28.82,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-05T22:00:00",
+      "soilMoisturePercent": 28.8,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-05T23:00:00",
+      "soilMoisturePercent": 28.79,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-06T00:00:00",
+      "soilMoisturePercent": 28.77,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-06T01:00:00",
+      "soilMoisturePercent": 28.76,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-06T02:00:00",
+      "soilMoisturePercent": 28.75,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-06T03:00:00",
+      "soilMoisturePercent": 28.74,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-06T04:00:00",
+      "soilMoisturePercent": 28.72,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-06T05:00:00",
+      "soilMoisturePercent": 28.71,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-06T06:00:00",
+      "soilMoisturePercent": 28.7,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-06T07:00:00",
+      "soilMoisturePercent": 28.69,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-06T08:00:00",
+      "soilMoisturePercent": 28.68,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-06T09:00:00",
+      "soilMoisturePercent": 28.66,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-06T10:00:00",
+      "soilMoisturePercent": 28.65,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-06T11:00:00",
+      "soilMoisturePercent": 28.63,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-06T12:00:00",
+      "soilMoisturePercent": 28.62,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-06T13:00:00",
+      "soilMoisturePercent": 28.59,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-06T14:00:00",
+      "soilMoisturePercent": 28.57,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-06T15:00:00",
+      "soilMoisturePercent": 28.54,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-06T16:00:00",
+      "soilMoisturePercent": 28.51,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-06T17:00:00",
+      "soilMoisturePercent": 28.49,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-06T18:00:00",
+      "soilMoisturePercent": 28.46,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-06T19:00:00",
+      "soilMoisturePercent": 28.45,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-06T20:00:00",
+      "soilMoisturePercent": 28.43,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-06T21:00:00",
+      "soilMoisturePercent": 28.41,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-06T22:00:00",
+      "soilMoisturePercent": 28.4,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-06T23:00:00",
+      "soilMoisturePercent": 28.39,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-07T00:00:00",
+      "soilMoisturePercent": 28.37,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-07T01:00:00",
+      "soilMoisturePercent": 28.36,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-07T02:00:00",
+      "soilMoisturePercent": 28.35,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-07T03:00:00",
+      "soilMoisturePercent": 28.34,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-07T04:00:00",
+      "soilMoisturePercent": 28.33,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-07T05:00:00",
+      "soilMoisturePercent": 28.31,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-07T06:00:00",
+      "soilMoisturePercent": 28.3,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-07T07:00:00",
+      "soilMoisturePercent": 28.29,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-07T08:00:00",
+      "soilMoisturePercent": 28.28,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-07T09:00:00",
+      "soilMoisturePercent": 28.26,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-07T10:00:00",
+      "soilMoisturePercent": 28.24,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-07T11:00:00",
+      "soilMoisturePercent": 28.22,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-07T12:00:00",
+      "soilMoisturePercent": 28.19,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-07T13:00:00",
+      "soilMoisturePercent": 28.17,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-07T14:00:00",
+      "soilMoisturePercent": 28.14,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-07T15:00:00",
+      "soilMoisturePercent": 28.11,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-07T16:00:00",
+      "soilMoisturePercent": 28.08,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-07T17:00:00",
+      "soilMoisturePercent": 28.05,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-07T18:00:00",
+      "soilMoisturePercent": 28.03,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-07T19:00:00",
+      "soilMoisturePercent": 28.01,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-07T20:00:00",
+      "soilMoisturePercent": 28.0,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-07T21:00:00",
+      "soilMoisturePercent": 27.99,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-07T22:00:00",
+      "soilMoisturePercent": 27.97,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-07T23:00:00",
+      "soilMoisturePercent": 27.96,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-08T00:00:00",
+      "soilMoisturePercent": 27.95,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-08T01:00:00",
+      "soilMoisturePercent": 27.94,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-08T02:00:00",
+      "soilMoisturePercent": 27.92,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-08T03:00:00",
+      "soilMoisturePercent": 27.91,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-08T04:00:00",
+      "soilMoisturePercent": 27.9,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-08T05:00:00",
+      "soilMoisturePercent": 27.89,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-08T06:00:00",
+      "soilMoisturePercent": 27.88,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-08T07:00:00",
+      "soilMoisturePercent": 27.86,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-08T08:00:00",
+      "soilMoisturePercent": 27.85,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-08T09:00:00",
+      "soilMoisturePercent": 27.83,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-08T10:00:00",
+      "soilMoisturePercent": 27.82,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-08T11:00:00",
+      "soilMoisturePercent": 27.79,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-08T12:00:00",
+      "soilMoisturePercent": 27.77,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-08T13:00:00",
+      "soilMoisturePercent": 27.74,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-08T14:00:00",
+      "soilMoisturePercent": 27.71,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-08T15:00:00",
+      "soilMoisturePercent": 27.68,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-08T16:00:00",
+      "soilMoisturePercent": 27.65,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-08T17:00:00",
+      "soilMoisturePercent": 27.62,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-08T18:00:00",
+      "soilMoisturePercent": 27.6,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-08T19:00:00",
+      "soilMoisturePercent": 27.58,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-08T20:00:00",
+      "soilMoisturePercent": 27.57,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-08T21:00:00",
+      "soilMoisturePercent": 27.56,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-08T22:00:00",
+      "soilMoisturePercent": 27.54,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-08T23:00:00",
+      "soilMoisturePercent": 27.53,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-09T00:00:00",
+      "soilMoisturePercent": 27.52,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-09T01:00:00",
+      "soilMoisturePercent": 27.51,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-09T02:00:00",
+      "soilMoisturePercent": 27.5,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-09T03:00:00",
+      "soilMoisturePercent": 27.48,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-09T04:00:00",
+      "soilMoisturePercent": 27.47,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-09T05:00:00",
+      "soilMoisturePercent": 27.46,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-09T06:00:00",
+      "soilMoisturePercent": 27.45,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-09T07:00:00",
+      "soilMoisturePercent": 27.44,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-09T08:00:00",
+      "soilMoisturePercent": 27.42,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-09T09:00:00",
+      "soilMoisturePercent": 27.41,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-09T10:00:00",
+      "soilMoisturePercent": 27.39,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-09T11:00:00",
+      "soilMoisturePercent": 27.37,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-09T12:00:00",
+      "soilMoisturePercent": 27.36,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-09T13:00:00",
+      "soilMoisturePercent": 27.34,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-09T14:00:00",
+      "soilMoisturePercent": 27.33,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-09T15:00:00",
+      "soilMoisturePercent": 27.49,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-09T16:00:00",
+      "soilMoisturePercent": 27.66,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-09T17:00:00",
+      "soilMoisturePercent": 27.65,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-09T18:00:00",
+      "soilMoisturePercent": 27.63,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-09T19:00:00",
+      "soilMoisturePercent": 27.62,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-09T20:00:00",
+      "soilMoisturePercent": 27.61,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-09T21:00:00",
+      "soilMoisturePercent": 27.6,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-09T22:00:00",
+      "soilMoisturePercent": 27.58,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-09T23:00:00",
+      "soilMoisturePercent": 27.57,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-10T00:00:00",
+      "soilMoisturePercent": 27.56,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-10T01:00:00",
+      "soilMoisturePercent": 27.55,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-10T02:00:00",
+      "soilMoisturePercent": 27.54,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-10T03:00:00",
+      "soilMoisturePercent": 27.52,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-10T04:00:00",
+      "soilMoisturePercent": 27.51,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-10T05:00:00",
+      "soilMoisturePercent": 27.5,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-10T06:00:00",
+      "soilMoisturePercent": 27.49,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-10T07:00:00",
+      "soilMoisturePercent": 27.48,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-10T08:00:00",
+      "soilMoisturePercent": 27.46,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-10T09:00:00",
+      "soilMoisturePercent": 27.45,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-10T10:00:00",
+      "soilMoisturePercent": 27.43,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-10T11:00:00",
+      "soilMoisturePercent": 27.41,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-10T12:00:00",
+      "soilMoisturePercent": 27.4,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-10T13:00:00",
+      "soilMoisturePercent": 27.38,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-10T14:00:00",
+      "soilMoisturePercent": 27.36,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-10T15:00:00",
+      "soilMoisturePercent": 27.34,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-10T16:00:00",
+      "soilMoisturePercent": 28.05,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-10T17:00:00",
+      "soilMoisturePercent": 28.4,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-10T18:00:00",
+      "soilMoisturePercent": 28.38,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-10T19:00:00",
+      "soilMoisturePercent": 28.37,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-10T20:00:00",
+      "soilMoisturePercent": 28.36,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-10T21:00:00",
+      "soilMoisturePercent": 28.35,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-10T22:00:00",
+      "soilMoisturePercent": 28.33,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-10T23:00:00",
+      "soilMoisturePercent": 28.32,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-11T00:00:00",
+      "soilMoisturePercent": 28.31,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-11T01:00:00",
+      "soilMoisturePercent": 28.3,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-11T02:00:00",
+      "soilMoisturePercent": 28.29,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-11T03:00:00",
+      "soilMoisturePercent": 28.27,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-11T04:00:00",
+      "soilMoisturePercent": 28.26,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-11T05:00:00",
+      "soilMoisturePercent": 28.25,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-11T06:00:00",
+      "soilMoisturePercent": 28.24,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-11T07:00:00",
+      "soilMoisturePercent": 28.23,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-11T08:00:00",
+      "soilMoisturePercent": 28.21,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-11T09:00:00",
+      "soilMoisturePercent": 28.2,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-11T10:00:00",
+      "soilMoisturePercent": 28.18,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-11T11:00:00",
+      "soilMoisturePercent": 28.16,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-11T12:00:00",
+      "soilMoisturePercent": 28.14,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-11T13:00:00",
+      "soilMoisturePercent": 28.12,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-11T14:00:00",
+      "soilMoisturePercent": 28.1,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-11T15:00:00",
+      "soilMoisturePercent": 28.08,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-11T16:00:00",
+      "soilMoisturePercent": 28.05,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-11T17:00:00",
+      "soilMoisturePercent": 28.04,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-11T18:00:00",
+      "soilMoisturePercent": 28.02,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-11T19:00:00",
+      "soilMoisturePercent": 28.01,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-11T20:00:00",
+      "soilMoisturePercent": 28.0,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-11T21:00:00",
+      "soilMoisturePercent": 27.99,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-11T22:00:00",
+      "soilMoisturePercent": 27.97,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-11T23:00:00",
+      "soilMoisturePercent": 27.96,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-12T00:00:00",
+      "soilMoisturePercent": 27.95,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-12T01:00:00",
+      "soilMoisturePercent": 27.94,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-12T02:00:00",
+      "soilMoisturePercent": 27.93,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-12T03:00:00",
+      "soilMoisturePercent": 27.91,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-12T04:00:00",
+      "soilMoisturePercent": 27.9,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-12T05:00:00",
+      "soilMoisturePercent": 27.89,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-12T06:00:00",
+      "soilMoisturePercent": 27.88,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-12T07:00:00",
+      "soilMoisturePercent": 27.87,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-12T08:00:00",
+      "soilMoisturePercent": 27.85,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-12T09:00:00",
+      "soilMoisturePercent": 27.84,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-12T10:00:00",
+      "soilMoisturePercent": 27.82,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-12T11:00:00",
+      "soilMoisturePercent": 27.8,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-12T12:00:00",
+      "soilMoisturePercent": 27.78,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-12T13:00:00",
+      "soilMoisturePercent": 27.76,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-12T14:00:00",
+      "soilMoisturePercent": 27.74,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-12T15:00:00",
+      "soilMoisturePercent": 27.71,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-12T16:00:00",
+      "soilMoisturePercent": 27.69,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-12T17:00:00",
+      "soilMoisturePercent": 27.67,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-12T18:00:00",
+      "soilMoisturePercent": 27.66,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-12T19:00:00",
+      "soilMoisturePercent": 27.65,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-12T20:00:00",
+      "soilMoisturePercent": 27.63,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-12T21:00:00",
+      "soilMoisturePercent": 27.62,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-12T22:00:00",
+      "soilMoisturePercent": 27.61,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-12T23:00:00",
+      "soilMoisturePercent": 27.6,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-13T00:00:00",
+      "soilMoisturePercent": 27.59,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-13T01:00:00",
+      "soilMoisturePercent": 27.57,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-13T02:00:00",
+      "soilMoisturePercent": 27.56,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-13T03:00:00",
+      "soilMoisturePercent": 27.55,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-13T04:00:00",
+      "soilMoisturePercent": 27.54,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-13T05:00:00",
+      "soilMoisturePercent": 27.53,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-13T06:00:00",
+      "soilMoisturePercent": 27.51,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-13T07:00:00",
+      "soilMoisturePercent": 27.5,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-13T08:00:00",
+      "soilMoisturePercent": 27.49,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-13T09:00:00",
+      "soilMoisturePercent": 27.48,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-13T10:00:00",
+      "soilMoisturePercent": 27.46,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-13T11:00:00",
+      "soilMoisturePercent": 27.44,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-13T12:00:00",
+      "soilMoisturePercent": 27.42,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-13T13:00:00",
+      "soilMoisturePercent": 27.4,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-13T14:00:00",
+      "soilMoisturePercent": 27.37,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-13T15:00:00",
+      "soilMoisturePercent": 27.35,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-13T16:00:00",
+      "soilMoisturePercent": 27.33,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-13T17:00:00",
+      "soilMoisturePercent": 27.31,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-13T18:00:00",
+      "soilMoisturePercent": 27.29,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-13T19:00:00",
+      "soilMoisturePercent": 27.28,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-13T20:00:00",
+      "soilMoisturePercent": 27.27,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-13T21:00:00",
+      "soilMoisturePercent": 27.26,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-13T22:00:00",
+      "soilMoisturePercent": 27.25,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-13T23:00:00",
+      "soilMoisturePercent": 27.23,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-14T00:00:00",
+      "soilMoisturePercent": 27.22,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-14T01:00:00",
+      "soilMoisturePercent": 27.21,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-14T02:00:00",
+      "soilMoisturePercent": 27.2,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-14T03:00:00",
+      "soilMoisturePercent": 27.19,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-14T04:00:00",
+      "soilMoisturePercent": 27.17,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-14T05:00:00",
+      "soilMoisturePercent": 27.16,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-14T06:00:00",
+      "soilMoisturePercent": 27.15,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-14T07:00:00",
+      "soilMoisturePercent": 27.14,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-14T08:00:00",
+      "soilMoisturePercent": 27.13,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-14T09:00:00",
+      "soilMoisturePercent": 27.11,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-14T10:00:00",
+      "soilMoisturePercent": 27.1,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-14T11:00:00",
+      "soilMoisturePercent": 27.08,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-14T12:00:00",
+      "soilMoisturePercent": 27.06,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-14T13:00:00",
+      "soilMoisturePercent": 27.04,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-14T14:00:00",
+      "soilMoisturePercent": 27.02,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-14T15:00:00",
+      "soilMoisturePercent": 26.99,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-14T16:00:00",
+      "soilMoisturePercent": 26.97,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-14T17:00:00",
+      "soilMoisturePercent": 26.95,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-14T18:00:00",
+      "soilMoisturePercent": 26.93,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-14T19:00:00",
+      "soilMoisturePercent": 26.91,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-14T20:00:00",
+      "soilMoisturePercent": 26.9,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-14T21:00:00",
+      "soilMoisturePercent": 26.89,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-14T22:00:00",
+      "soilMoisturePercent": 26.87,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-14T23:00:00",
+      "soilMoisturePercent": 26.86,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-15T00:00:00",
+      "soilMoisturePercent": 26.84,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-15T01:00:00",
+      "soilMoisturePercent": 26.83,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-15T02:00:00",
+      "soilMoisturePercent": 26.82,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-15T03:00:00",
+      "soilMoisturePercent": 26.81,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-15T04:00:00",
+      "soilMoisturePercent": 26.8,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-15T05:00:00",
+      "soilMoisturePercent": 26.78,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-15T06:00:00",
+      "soilMoisturePercent": 26.77,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-15T07:00:00",
+      "soilMoisturePercent": 26.76,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-15T08:00:00",
+      "soilMoisturePercent": 26.75,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-15T09:00:00",
+      "soilMoisturePercent": 26.73,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-15T10:00:00",
+      "soilMoisturePercent": 26.71,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-15T11:00:00",
+      "soilMoisturePercent": 26.69,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-15T12:00:00",
+      "soilMoisturePercent": 26.66,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-15T13:00:00",
+      "soilMoisturePercent": 26.64,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-15T14:00:00",
+      "soilMoisturePercent": 26.6,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-15T15:00:00",
+      "soilMoisturePercent": 26.57,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-15T16:00:00",
+      "soilMoisturePercent": 26.54,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-15T17:00:00",
+      "soilMoisturePercent": 26.52,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-15T18:00:00",
+      "soilMoisturePercent": 26.49,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-15T19:00:00",
+      "soilMoisturePercent": 26.47,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-15T20:00:00",
+      "soilMoisturePercent": 26.45,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-15T21:00:00",
+      "soilMoisturePercent": 26.43,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-15T22:00:00",
+      "soilMoisturePercent": 26.42,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-15T23:00:00",
+      "soilMoisturePercent": 26.4,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-16T00:00:00",
+      "soilMoisturePercent": 26.39,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-16T01:00:00",
+      "soilMoisturePercent": 26.37,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-16T02:00:00",
+      "soilMoisturePercent": 26.36,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-16T03:00:00",
+      "soilMoisturePercent": 26.35,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-16T04:00:00",
+      "soilMoisturePercent": 26.34,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-16T05:00:00",
+      "soilMoisturePercent": 26.33,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-16T06:00:00",
+      "soilMoisturePercent": 26.31,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-16T07:00:00",
+      "soilMoisturePercent": 26.3,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-16T08:00:00",
+      "soilMoisturePercent": 26.29,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-16T09:00:00",
+      "soilMoisturePercent": 26.27,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-16T10:00:00",
+      "soilMoisturePercent": 26.26,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-16T11:00:00",
+      "soilMoisturePercent": 26.24,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-16T12:00:00",
+      "soilMoisturePercent": 26.21,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-16T13:00:00",
+      "soilMoisturePercent": 26.18,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-16T14:00:00",
+      "soilMoisturePercent": 26.16,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-16T15:00:00",
+      "soilMoisturePercent": 26.13,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-16T16:00:00",
+      "soilMoisturePercent": 26.1,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-16T17:00:00",
+      "soilMoisturePercent": 26.07,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-16T18:00:00",
+      "soilMoisturePercent": 26.05,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-16T19:00:00",
+      "soilMoisturePercent": 26.03,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-16T20:00:00",
+      "soilMoisturePercent": 26.02,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-16T21:00:00",
+      "soilMoisturePercent": 26.01,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-16T22:00:00",
+      "soilMoisturePercent": 26.0,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-16T23:00:00",
+      "soilMoisturePercent": 25.98,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-17T00:00:00",
+      "soilMoisturePercent": 25.97,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-17T01:00:00",
+      "soilMoisturePercent": 25.96,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-17T02:00:00",
+      "soilMoisturePercent": 25.95,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-17T03:00:00",
+      "soilMoisturePercent": 25.94,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-17T04:00:00",
+      "soilMoisturePercent": 25.92,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-17T05:00:00",
+      "soilMoisturePercent": 25.91,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-17T06:00:00",
+      "soilMoisturePercent": 25.9,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-17T07:00:00",
+      "soilMoisturePercent": 25.89,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-17T08:00:00",
+      "soilMoisturePercent": 25.87,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-17T09:00:00",
+      "soilMoisturePercent": 25.86,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-17T10:00:00",
+      "soilMoisturePercent": 25.85,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-17T11:00:00",
+      "soilMoisturePercent": 25.83,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-17T12:00:00",
+      "soilMoisturePercent": 25.82,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-17T13:00:00",
+      "soilMoisturePercent": 25.79,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-17T14:00:00",
+      "soilMoisturePercent": 25.77,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-17T15:00:00",
+      "soilMoisturePercent": 25.75,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-17T16:00:00",
+      "soilMoisturePercent": 25.73,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-17T17:00:00",
+      "soilMoisturePercent": 25.71,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-17T18:00:00",
+      "soilMoisturePercent": 25.7,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-17T19:00:00",
+      "soilMoisturePercent": 25.69,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-17T20:00:00",
+      "soilMoisturePercent": 25.67,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-17T21:00:00",
+      "soilMoisturePercent": 25.66,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-17T22:00:00",
+      "soilMoisturePercent": 25.65,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-17T23:00:00",
+      "soilMoisturePercent": 25.64,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-18T00:00:00",
+      "soilMoisturePercent": 25.63,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-18T01:00:00",
+      "soilMoisturePercent": 25.61,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-18T02:00:00",
+      "soilMoisturePercent": 25.6,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-18T03:00:00",
+      "soilMoisturePercent": 25.59,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-18T04:00:00",
+      "soilMoisturePercent": 25.58,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-18T05:00:00",
+      "soilMoisturePercent": 25.57,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-18T06:00:00",
+      "soilMoisturePercent": 25.55,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-18T07:00:00",
+      "soilMoisturePercent": 25.54,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-18T08:00:00",
+      "soilMoisturePercent": 25.53,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-18T09:00:00",
+      "soilMoisturePercent": 25.52,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-18T10:00:00",
+      "soilMoisturePercent": 25.5,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-18T11:00:00",
+      "soilMoisturePercent": 25.48,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-18T12:00:00",
+      "soilMoisturePercent": 25.46,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-18T13:00:00",
+      "soilMoisturePercent": 25.44,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-18T14:00:00",
+      "soilMoisturePercent": 25.42,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-18T15:00:00",
+      "soilMoisturePercent": 25.4,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-18T16:00:00",
+      "soilMoisturePercent": 25.38,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-18T17:00:00",
+      "soilMoisturePercent": 25.36,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-18T18:00:00",
+      "soilMoisturePercent": 25.35,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-18T19:00:00",
+      "soilMoisturePercent": 25.33,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-18T20:00:00",
+      "soilMoisturePercent": 25.32,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-18T21:00:00",
+      "soilMoisturePercent": 25.31,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-18T22:00:00",
+      "soilMoisturePercent": 25.3,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-18T23:00:00",
+      "soilMoisturePercent": 25.29,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-19T00:00:00",
+      "soilMoisturePercent": 25.27,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-19T01:00:00",
+      "soilMoisturePercent": 25.26,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-19T02:00:00",
+      "soilMoisturePercent": 25.25,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-19T03:00:00",
+      "soilMoisturePercent": 25.24,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-19T04:00:00",
+      "soilMoisturePercent": 25.23,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-19T05:00:00",
+      "soilMoisturePercent": 25.21,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-19T06:00:00",
+      "soilMoisturePercent": 25.2,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-19T07:00:00",
+      "soilMoisturePercent": 25.19,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-19T08:00:00",
+      "soilMoisturePercent": 25.18,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-19T09:00:00",
+      "soilMoisturePercent": 25.16,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-19T10:00:00",
+      "soilMoisturePercent": 25.15,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-19T11:00:00",
+      "soilMoisturePercent": 25.13,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-19T12:00:00",
+      "soilMoisturePercent": 25.11,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-19T13:00:00",
+      "soilMoisturePercent": 25.09,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-19T14:00:00",
+      "soilMoisturePercent": 25.07,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-19T15:00:00",
+      "soilMoisturePercent": 25.04,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-19T16:00:00",
+      "soilMoisturePercent": 25.02,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-19T17:00:00",
+      "soilMoisturePercent": 25.01,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-19T18:00:00",
+      "soilMoisturePercent": 24.99,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-19T19:00:00",
+      "soilMoisturePercent": 24.98,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-19T20:00:00",
+      "soilMoisturePercent": 24.97,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-19T21:00:00",
+      "soilMoisturePercent": 24.96,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-19T22:00:00",
+      "soilMoisturePercent": 24.94,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-19T23:00:00",
+      "soilMoisturePercent": 24.93,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-20T00:00:00",
+      "soilMoisturePercent": 24.92,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-20T01:00:00",
+      "soilMoisturePercent": 24.91,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-20T02:00:00",
+      "soilMoisturePercent": 24.9,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-20T03:00:00",
+      "soilMoisturePercent": 24.88,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-20T04:00:00",
+      "soilMoisturePercent": 24.87,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-20T05:00:00",
+      "soilMoisturePercent": 24.86,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-20T06:00:00",
+      "soilMoisturePercent": 24.85,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-20T07:00:00",
+      "soilMoisturePercent": 24.84,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-20T08:00:00",
+      "soilMoisturePercent": 24.82,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-20T09:00:00",
+      "soilMoisturePercent": 24.81,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-20T10:00:00",
+      "soilMoisturePercent": 24.79,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-20T11:00:00",
+      "soilMoisturePercent": 24.77,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-20T12:00:00",
+      "soilMoisturePercent": 24.76,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-20T13:00:00",
+      "soilMoisturePercent": 24.73,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-20T14:00:00",
+      "soilMoisturePercent": 24.71,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-20T15:00:00",
+      "soilMoisturePercent": 24.69,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-20T16:00:00",
+      "soilMoisturePercent": 24.67,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-20T17:00:00",
+      "soilMoisturePercent": 24.65,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-20T18:00:00",
+      "soilMoisturePercent": 24.63,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-20T19:00:00",
+      "soilMoisturePercent": 24.62,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-20T20:00:00",
+      "soilMoisturePercent": 24.6,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-20T21:00:00",
+      "soilMoisturePercent": 24.59,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-20T22:00:00",
+      "soilMoisturePercent": 24.58,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-20T23:00:00",
+      "soilMoisturePercent": 24.57,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-21T00:00:00",
+      "soilMoisturePercent": 24.56,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-21T01:00:00",
+      "soilMoisturePercent": 24.54,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-21T02:00:00",
+      "soilMoisturePercent": 24.53,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-21T03:00:00",
+      "soilMoisturePercent": 24.52,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-21T04:00:00",
+      "soilMoisturePercent": 24.51,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-21T05:00:00",
+      "soilMoisturePercent": 24.5,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-21T06:00:00",
+      "soilMoisturePercent": 24.48,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-21T07:00:00",
+      "soilMoisturePercent": 24.47,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-21T08:00:00",
+      "soilMoisturePercent": 24.46,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-21T09:00:00",
+      "soilMoisturePercent": 24.45,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-21T10:00:00",
+      "soilMoisturePercent": 24.43,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-21T11:00:00",
+      "soilMoisturePercent": 24.41,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-21T12:00:00",
+      "soilMoisturePercent": 24.39,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-21T13:00:00",
+      "soilMoisturePercent": 24.37,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-21T14:00:00",
+      "soilMoisturePercent": 24.34,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-21T15:00:00",
+      "soilMoisturePercent": 24.32,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-21T16:00:00",
+      "soilMoisturePercent": 24.29,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-21T17:00:00",
+      "soilMoisturePercent": 24.27,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-21T18:00:00",
+      "soilMoisturePercent": 24.25,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-21T19:00:00",
+      "soilMoisturePercent": 24.24,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-21T20:00:00",
+      "soilMoisturePercent": 24.23,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-21T21:00:00",
+      "soilMoisturePercent": 24.22,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-21T22:00:00",
+      "soilMoisturePercent": 24.21,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-21T23:00:00",
+      "soilMoisturePercent": 24.19,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-22T00:00:00",
+      "soilMoisturePercent": 24.18,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-22T01:00:00",
+      "soilMoisturePercent": 24.17,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-22T02:00:00",
+      "soilMoisturePercent": 24.16,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-22T03:00:00",
+      "soilMoisturePercent": 24.15,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-22T04:00:00",
+      "soilMoisturePercent": 24.13,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-22T05:00:00",
+      "soilMoisturePercent": 24.12,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-22T06:00:00",
+      "soilMoisturePercent": 24.11,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-22T07:00:00",
+      "soilMoisturePercent": 24.1,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-22T08:00:00",
+      "soilMoisturePercent": 24.09,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-22T09:00:00",
+      "soilMoisturePercent": 24.07,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-22T10:00:00",
+      "soilMoisturePercent": 24.06,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-22T11:00:00",
+      "soilMoisturePercent": 24.04,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-22T12:00:00",
+      "soilMoisturePercent": 24.02,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-22T13:00:00",
+      "soilMoisturePercent": 24.01,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-22T14:00:00",
+      "soilMoisturePercent": 23.98,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-22T15:00:00",
+      "soilMoisturePercent": 23.96,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-22T16:00:00",
+      "soilMoisturePercent": 23.95,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-22T17:00:00",
+      "soilMoisturePercent": 23.93,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-22T18:00:00",
+      "soilMoisturePercent": 23.92,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-22T19:00:00",
+      "soilMoisturePercent": 23.91,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-22T20:00:00",
+      "soilMoisturePercent": 23.89,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-22T21:00:00",
+      "soilMoisturePercent": 23.88,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-22T22:00:00",
+      "soilMoisturePercent": 23.87,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-22T23:00:00",
+      "soilMoisturePercent": 23.86,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-23T00:00:00",
+      "soilMoisturePercent": 23.85,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-23T01:00:00",
+      "soilMoisturePercent": 23.83,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-23T02:00:00",
+      "soilMoisturePercent": 23.82,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-23T03:00:00",
+      "soilMoisturePercent": 23.81,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-23T04:00:00",
+      "soilMoisturePercent": 23.8,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-23T05:00:00",
+      "soilMoisturePercent": 23.79,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-23T06:00:00",
+      "soilMoisturePercent": 23.77,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-23T07:00:00",
+      "soilMoisturePercent": 23.76,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-23T08:00:00",
+      "soilMoisturePercent": 23.75,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-23T09:00:00",
+      "soilMoisturePercent": 23.73,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-23T10:00:00",
+      "soilMoisturePercent": 23.72,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-23T11:00:00",
+      "soilMoisturePercent": 23.7,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-23T12:00:00",
+      "soilMoisturePercent": 23.68,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-23T13:00:00",
+      "soilMoisturePercent": 23.66,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-23T14:00:00",
+      "soilMoisturePercent": 23.64,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-23T15:00:00",
+      "soilMoisturePercent": 23.62,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-23T16:00:00",
+      "soilMoisturePercent": 23.6,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-23T17:00:00",
+      "soilMoisturePercent": 23.59,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-23T18:00:00",
+      "soilMoisturePercent": 23.57,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-23T19:00:00",
+      "soilMoisturePercent": 23.56,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-23T20:00:00",
+      "soilMoisturePercent": 23.55,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-23T21:00:00",
+      "soilMoisturePercent": 23.54,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-23T22:00:00",
+      "soilMoisturePercent": 23.53,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-23T23:00:00",
+      "soilMoisturePercent": 23.51,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-24T00:00:00",
+      "soilMoisturePercent": 23.5,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-24T01:00:00",
+      "soilMoisturePercent": 23.49,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-24T02:00:00",
+      "soilMoisturePercent": 23.48,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-24T03:00:00",
+      "soilMoisturePercent": 23.47,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-24T04:00:00",
+      "soilMoisturePercent": 23.45,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-24T05:00:00",
+      "soilMoisturePercent": 23.44,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-24T06:00:00",
+      "soilMoisturePercent": 23.43,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-24T07:00:00",
+      "soilMoisturePercent": 23.42,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-24T08:00:00",
+      "soilMoisturePercent": 23.41,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-24T09:00:00",
+      "soilMoisturePercent": 23.39,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-24T10:00:00",
+      "soilMoisturePercent": 23.38,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-24T11:00:00",
+      "soilMoisturePercent": 23.36,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-24T12:00:00",
+      "soilMoisturePercent": 23.34,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-24T13:00:00",
+      "soilMoisturePercent": 23.32,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-24T14:00:00",
+      "soilMoisturePercent": 23.31,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-24T15:00:00",
+      "soilMoisturePercent": 23.29,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-24T16:00:00",
+      "soilMoisturePercent": 23.27,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-24T17:00:00",
+      "soilMoisturePercent": 23.26,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-24T18:00:00",
+      "soilMoisturePercent": 23.25,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-24T19:00:00",
+      "soilMoisturePercent": 23.23,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-24T20:00:00",
+      "soilMoisturePercent": 23.22,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-24T21:00:00",
+      "soilMoisturePercent": 23.21,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-24T22:00:00",
+      "soilMoisturePercent": 23.2,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-24T23:00:00",
+      "soilMoisturePercent": 23.19,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-25T00:00:00",
+      "soilMoisturePercent": 23.17,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-25T01:00:00",
+      "soilMoisturePercent": 23.16,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-25T02:00:00",
+      "soilMoisturePercent": 23.15,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-25T03:00:00",
+      "soilMoisturePercent": 23.14,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-25T04:00:00",
+      "soilMoisturePercent": 23.13,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-25T05:00:00",
+      "soilMoisturePercent": 23.11,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-25T06:00:00",
+      "soilMoisturePercent": 23.1,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-25T07:00:00",
+      "soilMoisturePercent": 23.09,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-25T08:00:00",
+      "soilMoisturePercent": 23.08,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-25T09:00:00",
+      "soilMoisturePercent": 23.07,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-25T10:00:00",
+      "soilMoisturePercent": 23.05,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-25T11:00:00",
+      "soilMoisturePercent": 23.94,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-25T12:00:00",
+      "soilMoisturePercent": 24.47,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-25T13:00:00",
+      "soilMoisturePercent": 25.45,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-25T14:00:00",
+      "soilMoisturePercent": 25.8,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-25T15:00:00",
+      "soilMoisturePercent": 25.79,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-25T16:00:00",
+      "soilMoisturePercent": 25.77,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-25T17:00:00",
+      "soilMoisturePercent": 26.12,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-25T18:00:00",
+      "soilMoisturePercent": 26.11,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-25T19:00:00",
+      "soilMoisturePercent": 26.1,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-25T20:00:00",
+      "soilMoisturePercent": 26.26,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-25T21:00:00",
+      "soilMoisturePercent": 26.25,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-25T22:00:00",
+      "soilMoisturePercent": 26.24,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-25T23:00:00",
+      "soilMoisturePercent": 27.23,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-26T00:00:00",
+      "soilMoisturePercent": 27.58,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-26T01:00:00",
+      "soilMoisturePercent": 27.92,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-26T02:00:00",
+      "soilMoisturePercent": 27.91,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-26T03:00:00",
+      "soilMoisturePercent": 27.9,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-26T04:00:00",
+      "soilMoisturePercent": 28.07,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-26T05:00:00",
+      "soilMoisturePercent": 28.06,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-26T06:00:00",
+      "soilMoisturePercent": 28.04,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-26T07:00:00",
+      "soilMoisturePercent": 28.03,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-26T08:00:00",
+      "soilMoisturePercent": 28.2,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-26T09:00:00",
+      "soilMoisturePercent": 28.19,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-26T10:00:00",
+      "soilMoisturePercent": 28.17,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-26T11:00:00",
+      "soilMoisturePercent": 28.16,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-26T12:00:00",
+      "soilMoisturePercent": 28.14,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-26T13:00:00",
+      "soilMoisturePercent": 28.31,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-26T14:00:00",
+      "soilMoisturePercent": 28.48,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-26T15:00:00",
+      "soilMoisturePercent": 28.46,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-26T16:00:00",
+      "soilMoisturePercent": 28.45,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-26T17:00:00",
+      "soilMoisturePercent": 29.16,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-26T18:00:00",
+      "soilMoisturePercent": 29.14,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-26T19:00:00",
+      "soilMoisturePercent": 29.31,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-26T20:00:00",
+      "soilMoisturePercent": 29.3,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-26T21:00:00",
+      "soilMoisturePercent": 29.29,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-26T22:00:00",
+      "soilMoisturePercent": 29.28,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-26T23:00:00",
+      "soilMoisturePercent": 29.26,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-27T00:00:00",
+      "soilMoisturePercent": 29.25,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-27T01:00:00",
+      "soilMoisturePercent": 29.24,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-27T02:00:00",
+      "soilMoisturePercent": 29.23,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-27T03:00:00",
+      "soilMoisturePercent": 29.58,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-27T04:00:00",
+      "soilMoisturePercent": 29.56,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-27T05:00:00",
+      "soilMoisturePercent": 30.45,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-27T06:00:00",
+      "soilMoisturePercent": 30.44,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-27T07:00:00",
+      "soilMoisturePercent": 30.61,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-27T08:00:00",
+      "soilMoisturePercent": 30.6,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-27T09:00:00",
+      "soilMoisturePercent": 30.58,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-27T10:00:00",
+      "soilMoisturePercent": 30.57,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-27T11:00:00",
+      "soilMoisturePercent": 30.55,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-27T12:00:00",
+      "soilMoisturePercent": 30.71,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-27T13:00:00",
+      "soilMoisturePercent": 30.7,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-27T14:00:00",
+      "soilMoisturePercent": 30.86,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-27T15:00:00",
+      "soilMoisturePercent": 30.85,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-27T16:00:00",
+      "soilMoisturePercent": 30.84,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-27T17:00:00",
+      "soilMoisturePercent": 30.82,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-27T18:00:00",
+      "soilMoisturePercent": 30.81,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-27T19:00:00",
+      "soilMoisturePercent": 30.8,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-27T20:00:00",
+      "soilMoisturePercent": 30.79,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-27T21:00:00",
+      "soilMoisturePercent": 30.77,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-27T22:00:00",
+      "soilMoisturePercent": 30.76,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-27T23:00:00",
+      "soilMoisturePercent": 30.75,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-28T00:00:00",
+      "soilMoisturePercent": 30.74,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-28T01:00:00",
+      "soilMoisturePercent": 30.73,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-28T02:00:00",
+      "soilMoisturePercent": 30.71,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-28T03:00:00",
+      "soilMoisturePercent": 31.6,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-28T04:00:00",
+      "soilMoisturePercent": 31.77,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-28T05:00:00",
+      "soilMoisturePercent": 31.76,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-28T06:00:00",
+      "soilMoisturePercent": 31.93,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-28T07:00:00",
+      "soilMoisturePercent": 32.63,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-28T08:00:00",
+      "soilMoisturePercent": 32.62,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-28T09:00:00",
+      "soilMoisturePercent": 32.61,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-28T10:00:00",
+      "soilMoisturePercent": 32.6,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-28T11:00:00",
+      "soilMoisturePercent": 33.48,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-28T12:00:00",
+      "soilMoisturePercent": 33.46,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-28T13:00:00",
+      "soilMoisturePercent": 33.45,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-28T14:00:00",
+      "soilMoisturePercent": 33.43,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-28T15:00:00",
+      "soilMoisturePercent": 33.41,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-28T16:00:00",
+      "soilMoisturePercent": 33.4,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-28T17:00:00",
+      "soilMoisturePercent": 33.39,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-28T18:00:00",
+      "soilMoisturePercent": 33.37,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-28T19:00:00",
+      "soilMoisturePercent": 33.36,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-28T20:00:00",
+      "soilMoisturePercent": 33.35,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-28T21:00:00",
+      "soilMoisturePercent": 33.34,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-28T22:00:00",
+      "soilMoisturePercent": 33.33,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-28T23:00:00",
+      "soilMoisturePercent": 33.31,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-29T00:00:00",
+      "soilMoisturePercent": 33.3,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-29T01:00:00",
+      "soilMoisturePercent": 33.29,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-29T02:00:00",
+      "soilMoisturePercent": 33.28,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-29T03:00:00",
+      "soilMoisturePercent": 33.27,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-29T04:00:00",
+      "soilMoisturePercent": 33.25,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-29T05:00:00",
+      "soilMoisturePercent": 33.24,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-29T06:00:00",
+      "soilMoisturePercent": 33.23,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-29T07:00:00",
+      "soilMoisturePercent": 33.22,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-29T08:00:00",
+      "soilMoisturePercent": 33.21,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-29T09:00:00",
+      "soilMoisturePercent": 33.19,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-29T10:00:00",
+      "soilMoisturePercent": 33.18,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-29T11:00:00",
+      "soilMoisturePercent": 33.16,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-29T12:00:00",
+      "soilMoisturePercent": 33.15,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-29T13:00:00",
+      "soilMoisturePercent": 33.13,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-29T14:00:00",
+      "soilMoisturePercent": 33.11,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-29T15:00:00",
+      "soilMoisturePercent": 33.1,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-29T16:00:00",
+      "soilMoisturePercent": 34.09,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-29T17:00:00",
+      "soilMoisturePercent": 34.07,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-29T18:00:00",
+      "soilMoisturePercent": 34.06,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-29T19:00:00",
+      "soilMoisturePercent": 34.05,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-29T20:00:00",
+      "soilMoisturePercent": 34.04,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-29T21:00:00",
+      "soilMoisturePercent": 34.03,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-29T22:00:00",
+      "soilMoisturePercent": 34.01,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-29T23:00:00",
+      "soilMoisturePercent": 34.0,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-30T00:00:00",
+      "soilMoisturePercent": 33.99,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-30T01:00:00",
+      "soilMoisturePercent": 33.98,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-30T02:00:00",
+      "soilMoisturePercent": 33.97,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-30T03:00:00",
+      "soilMoisturePercent": 33.95,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-30T04:00:00",
+      "soilMoisturePercent": 34.12,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-30T05:00:00",
+      "soilMoisturePercent": 34.11,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-30T06:00:00",
+      "soilMoisturePercent": 34.1,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-30T07:00:00",
+      "soilMoisturePercent": 34.09,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-30T08:00:00",
+      "soilMoisturePercent": 34.07,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-30T09:00:00",
+      "soilMoisturePercent": 34.06,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-30T10:00:00",
+      "soilMoisturePercent": 34.05,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-30T11:00:00",
+      "soilMoisturePercent": 34.03,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-30T12:00:00",
+      "soilMoisturePercent": 34.01,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-30T13:00:00",
+      "soilMoisturePercent": 34.0,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-30T14:00:00",
+      "soilMoisturePercent": 33.98,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-30T15:00:00",
+      "soilMoisturePercent": 34.15,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-30T16:00:00",
+      "soilMoisturePercent": 34.13,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-30T17:00:00",
+      "soilMoisturePercent": 34.12,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-30T18:00:00",
+      "soilMoisturePercent": 34.11,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-30T19:00:00",
+      "soilMoisturePercent": 34.09,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-30T20:00:00",
+      "soilMoisturePercent": 34.08,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-30T21:00:00",
+      "soilMoisturePercent": 34.07,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-30T22:00:00",
+      "soilMoisturePercent": 34.06,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-30T23:00:00",
+      "soilMoisturePercent": 34.05,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-31T00:00:00",
+      "soilMoisturePercent": 34.03,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-31T01:00:00",
+      "soilMoisturePercent": 34.02,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-31T02:00:00",
+      "soilMoisturePercent": 34.01,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-31T03:00:00",
+      "soilMoisturePercent": 34.0,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-31T04:00:00",
+      "soilMoisturePercent": 33.99,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-31T05:00:00",
+      "soilMoisturePercent": 33.97,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-31T06:00:00",
+      "soilMoisturePercent": 33.96,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-31T07:00:00",
+      "soilMoisturePercent": 33.95,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-31T08:00:00",
+      "soilMoisturePercent": 33.94,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-31T09:00:00",
+      "soilMoisturePercent": 33.92,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-31T10:00:00",
+      "soilMoisturePercent": 33.91,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-31T11:00:00",
+      "soilMoisturePercent": 33.9,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-31T12:00:00",
+      "soilMoisturePercent": 33.88,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-31T13:00:00",
+      "soilMoisturePercent": 33.87,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-31T14:00:00",
+      "soilMoisturePercent": 33.85,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-31T15:00:00",
+      "soilMoisturePercent": 33.83,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-31T16:00:00",
+      "soilMoisturePercent": 33.81,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-31T17:00:00",
+      "soilMoisturePercent": 33.8,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-31T18:00:00",
+      "soilMoisturePercent": 33.79,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-31T19:00:00",
+      "soilMoisturePercent": 33.78,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-31T20:00:00",
+      "soilMoisturePercent": 33.76,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-31T21:00:00",
+      "soilMoisturePercent": 33.75,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-31T22:00:00",
+      "soilMoisturePercent": 33.74,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    },
+    {
+      "timestampLocal": "2026-10-31T23:00:00",
+      "soilMoisturePercent": 33.73,
+      "origin": "synthetic",
+      "model": "toy_rainfall_evaporation_v1"
+    }
+  ]
+}
