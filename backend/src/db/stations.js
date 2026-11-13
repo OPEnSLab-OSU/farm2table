@@ -7,7 +7,7 @@ import { getDb } from './client.js'
 import { toReadings, toMetadata, summarizeSensors } from './translate.js'
 
 // Device and radio info we never send to the frontend
-const HIDDEN_FIELDS = { Packet: 0, WiFi: 0, LTE: 0 }
+const HIDDEN_FIELDS = { Packet: 0, WiFi: 0, LTE: 0, LoRa: 0, Bringup: 0 }
 
 // How many recent packets to scan when building a station's sensor list
 const SENSOR_SAMPLE_SIZE = 100 //todo This can be changed or maybe use a different system
