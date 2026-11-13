@@ -1,0 +1,20 @@
+{
+  "Type": "data",
+  "Timestamp": {
+    "time_utc": "2026-11-12T18:00:00Z",
+    "time_local": "2026-11-12T10:00:00"
+  },
+  "Packet": {
+    "Number": 1
+  },
+  "TEROS54": {
+    "VWC_15cm_m3_m3": 0.22,
+    "VWC_30cm_m3_m3": 0.26,
+    "VWC_45cm_m3_m3": 0.29,
+    "VWC_60cm_m3_m3": 0.32,
+    "Soil_Temperature_15cm_C": 14.8,
+    "Soil_Temperature_30cm_C": 13.9,
+    "Soil_Temperature_45cm_C": 13.2,
+    "Soil_Temperature_60cm_C": 12.7
+  }
+}

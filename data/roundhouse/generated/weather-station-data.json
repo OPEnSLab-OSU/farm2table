@@ -1,0 +1,5042 @@
+[
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-05T07:00:00Z",
+      "time_local": "2026-10-05T00:00:00"
+    },
+    "Packet": {
+      "Number": 1
+    },
+    "Analog": {
+      "Vbat": 4.02,
+      "Vbat_MV": 4020.0
+    },
+    "LTE": {
+      "RSSI": 20
+    },
+    "WeatherStation": {
+      "Air_Temperature_C": 7.65,
+      "Relative_Humidity_%RH": 72.078,
+      "Atmospheric_Pressure_mbar": 1013.459,
+      "Wind_Speed_m_s": 2.753,
+      "Wind_Direction_degrees": 238.4,
+      "Wind_Gust_m_s": 4.113,
+      "Solar_Radiation_W_m2": 0
+    },
+    "TippingBucket": {
+      "Tips": 0,
+      "Hourly_Rainfall_mm": 0.0
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-05T08:00:00Z",
+      "time_local": "2026-10-05T01:00:00"
+    },
+    "Packet": {
+      "Number": 2
+    },
+    "Analog": {
+      "Vbat": 4.0198,
+      "Vbat_MV": 4019.8
+    },
+    "LTE": {
+      "RSSI": 20
+    },
+    "WeatherStation": {
+      "Air_Temperature_C": 5.79,
+      "Relative_Humidity_%RH": 74.985,
+      "Atmospheric_Pressure_mbar": 1014.316,
+      "Wind_Speed_m_s": 2.05,
+      "Wind_Direction_degrees": 249.0,
+      "Wind_Gust_m_s": 4.828,
+      "Solar_Radiation_W_m2": 0
+    },
+    "TippingBucket": {
+      "Tips": 0,
+      "Hourly_Rainfall_mm": 0.0
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-05T09:00:00Z",
+      "time_local": "2026-10-05T02:00:00"
+    },
+    "Packet": {
+      "Number": 3
+    },
+    "Analog": {
+      "Vbat": 4.0196,
+      "Vbat_MV": 4019.6
+    },
+    "LTE": {
+      "RSSI": 20
+    },
+    "WeatherStation": {
+      "Air_Temperature_C": 5.35,
+      "Relative_Humidity_%RH": 80.93,
+      "Atmospheric_Pressure_mbar": 1013.448,
+      "Wind_Speed_m_s": 2.958,
+      "Wind_Direction_degrees": 257.0,
+      "Wind_Gust_m_s": 3.693,
+      "Solar_Radiation_W_m2": 0
+    },
+    "TippingBucket": {
+      "Tips": 0,
+      "Hourly_Rainfall_mm": 0.0
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-05T10:00:00Z",
+      "time_local": "2026-10-05T03:00:00"
+    },
+    "Packet": {
+      "Number": 4
+    },
+    "Analog": {
+      "Vbat": 4.0194,
+      "Vbat_MV": 4019.4
+    },
+    "LTE": {
+      "RSSI": 20
+    },
+    "WeatherStation": {
+      "Air_Temperature_C": 5.84,
+      "Relative_Humidity_%RH": 78.975,
+      "Atmospheric_Pressure_mbar": 1015.438,
+      "Wind_Speed_m_s": 3.543,
+      "Wind_Direction_degrees": 234.3,
+      "Wind_Gust_m_s": 6.129,
+      "Solar_Radiation_W_m2": 0
+    },
+    "TippingBucket": {
+      "Tips": 0,
+      "Hourly_Rainfall_mm": 0.0
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-05T11:00:00Z",
+      "time_local": "2026-10-05T04:00:00"
+    },
+    "Packet": {
+      "Number": 5
+    },
+    "Analog": {
+      "Vbat": 4.0192,
+      "Vbat_MV": 4019.2
+    },
+    "LTE": {
+      "RSSI": 20
+    },
+    "WeatherStation": {
+      "Air_Temperature_C": 5.24,
+      "Relative_Humidity_%RH": 80.471,
+      "Atmospheric_Pressure_mbar": 1013.742,
+      "Wind_Speed_m_s": 2.509,
+      "Wind_Direction_degrees": 262.9,
+      "Wind_Gust_m_s": 4.035,
+      "Solar_Radiation_W_m2": 0
+    },
+    "TippingBucket": {
+      "Tips": 0,
+      "Hourly_Rainfall_mm": 0.0
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-05T12:00:00Z",
+      "time_local": "2026-10-05T05:00:00"
+    },
+    "Packet": {
+      "Number": 6
+    },
+    "Analog": {
+      "Vbat": 4.019,
+      "Vbat_MV": 4019.0
+    },
+    "LTE": {
+      "RSSI": 20
+    },
+    "WeatherStation": {
+      "Air_Temperature_C": 5.91,
+      "Relative_Humidity_%RH": 81.288,
+      "Atmospheric_Pressure_mbar": 1015.231,
+      "Wind_Speed_m_s": 2.274,
+      "Wind_Direction_degrees": 244.8,
+      "Wind_Gust_m_s": 4.612,
+      "Solar_Radiation_W_m2": 5.269
+    },
+    "TippingBucket": {
+      "Tips": 0,
+      "Hourly_Rainfall_mm": 0.0
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-05T13:00:00Z",
+      "time_local": "2026-10-05T06:00:00"
+    },
+    "Packet": {
+      "Number": 7
+    },
+    "Analog": {
+      "Vbat": 4.0188,
+      "Vbat_MV": 4018.8
+    },
+    "LTE": {
+      "RSSI": 20
+    },
+    "WeatherStation": {
+      "Air_Temperature_C": 7.5,
+      "Relative_Humidity_%RH": 77.158,
+      "Atmospheric_Pressure_mbar": 1015.048,
+      "Wind_Speed_m_s": 2.093,
+      "Wind_Direction_degrees": 244.5,
+      "Wind_Gust_m_s": 4.504,
+      "Solar_Radiation_W_m2": 0
+    },
+    "TippingBucket": {
+      "Tips": 0,
+      "Hourly_Rainfall_mm": 0.0
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-05T14:00:00Z",
+      "time_local": "2026-10-05T07:00:00"
+    },
+    "Packet": {
+      "Number": 8
+    },
+    "Analog": {
+      "Vbat": 4.0186,
+      "Vbat_MV": 4018.6
+    },
+    "LTE": {
+      "RSSI": 20
+    },
+    "WeatherStation": {
+      "Air_Temperature_C": 8.65,
+      "Relative_Humidity_%RH": 75.602,
+      "Atmospheric_Pressure_mbar": 1015.635,
+      "Wind_Speed_m_s": 3.665,
+      "Wind_Direction_degrees": 257.7,
+      "Wind_Gust_m_s": 5.343,
+      "Solar_Radiation_W_m2": 137.061
+    },
+    "TippingBucket": {
+      "Tips": 0,
+      "Hourly_Rainfall_mm": 0.0
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-05T15:00:00Z",
+      "time_local": "2026-10-05T08:00:00"
+    },
+    "Packet": {
+      "Number": 9
+    },
+    "Analog": {
+      "Vbat": 4.0184,
+      "Vbat_MV": 4018.4
+    },
+    "LTE": {
+      "RSSI": 20
+    },
+    "WeatherStation": {
+      "Air_Temperature_C": 10.37,
+      "Relative_Humidity_%RH": 72.241,
+      "Atmospheric_Pressure_mbar": 1016.073,
+      "Wind_Speed_m_s": 3.398,
+      "Wind_Direction_degrees": 251.3,
+      "Wind_Gust_m_s": 5.163,
+      "Solar_Radiation_W_m2": 295.046
+    },
+    "TippingBucket": {
+      "Tips": 0,
+      "Hourly_Rainfall_mm": 0.0
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-05T16:00:00Z",
+      "time_local": "2026-10-05T09:00:00"
+    },
+    "Packet": {
+      "Number": 10
+    },
+    "Analog": {
+      "Vbat": 4.0182,
+      "Vbat_MV": 4018.2
+    },
+    "LTE": {
+      "RSSI": 20
+    },
+    "WeatherStation": {
+      "Air_Temperature_C": 12.45,
+      "Relative_Humidity_%RH": 64.33,
+      "Atmospheric_Pressure_mbar": 1014.638,
+      "Wind_Speed_m_s": 3.466,
+      "Wind_Direction_degrees": 247.3,
+      "Wind_Gust_m_s": 4.551,
+      "Solar_Radiation_W_m2": 434.395
+    },
+    "TippingBucket": {
+      "Tips": 0,
+      "Hourly_Rainfall_mm": 0.0
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-05T17:00:00Z",
+      "time_local": "2026-10-05T10:00:00"
+    },
+    "Packet": {
+      "Number": 11
+    },
+    "Analog": {
+      "Vbat": 4.018,
+      "Vbat_MV": 4018.0
+    },
+    "LTE": {
+      "RSSI": 20
+    },
+    "WeatherStation": {
+      "Air_Temperature_C": 14.48,
+      "Relative_Humidity_%RH": 65.405,
+      "Atmospheric_Pressure_mbar": 1016.028,
+      "Wind_Speed_m_s": 4.222,
+      "Wind_Direction_degrees": 267.6,
+      "Wind_Gust_m_s": 5.91,
+      "Solar_Radiation_W_m2": 543.314
+    },
+    "TippingBucket": {
+      "Tips": 0,
+      "Hourly_Rainfall_mm": 0.0
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-05T18:00:00Z",
+      "time_local": "2026-10-05T11:00:00"
+    },
+    "Packet": {
+      "Number": 12
+    },
+    "Analog": {
+      "Vbat": 4.0178,
+      "Vbat_MV": 4017.8
+    },
+    "LTE": {
+      "RSSI": 20
+    },
+    "WeatherStation": {
+      "Air_Temperature_C": 15.89,
+      "Relative_Humidity_%RH": 61.781,
+      "Atmospheric_Pressure_mbar": 1015.2,
+      "Wind_Speed_m_s": 4.267,
+      "Wind_Direction_degrees": 270.2,
+      "Wind_Gust_m_s": 5.295,
+      "Solar_Radiation_W_m2": 563.515
+    },
+    "TippingBucket": {
+      "Tips": 0,
+      "Hourly_Rainfall_mm": 0.0
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-05T19:00:00Z",
+      "time_local": "2026-10-05T12:00:00"
+    },
+    "Packet": {
+      "Number": 13
+    },
+    "Analog": {
+      "Vbat": 4.0176,
+      "Vbat_MV": 4017.6
+    },
+    "LTE": {
+      "RSSI": 20
+    },
+    "WeatherStation": {
+      "Air_Temperature_C": 17.11,
+      "Relative_Humidity_%RH": 53.425,
+      "Atmospheric_Pressure_mbar": 1015.308,
+      "Wind_Speed_m_s": 4.478,
+      "Wind_Direction_degrees": 254.3,
+      "Wind_Gust_m_s": 5.009,
+      "Solar_Radiation_W_m2": 621.415
+    },
+    "TippingBucket": {
+      "Tips": 0,
+      "Hourly_Rainfall_mm": 0.0
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-05T20:00:00Z",
+      "time_local": "2026-10-05T13:00:00"
+    },
+    "Packet": {
+      "Number": 14
+    },
+    "Analog": {
+      "Vbat": 4.0174,
+      "Vbat_MV": 4017.4
+    },
+    "LTE": {
+      "RSSI": 20
+    },
+    "WeatherStation": {
+      "Air_Temperature_C": 18.23,
+      "Relative_Humidity_%RH": 56.18,
+      "Atmospheric_Pressure_mbar": 1016.848,
+      "Wind_Speed_m_s": 4.703,
+      "Wind_Direction_degrees": 256.8,
+      "Wind_Gust_m_s": 6.102,
+      "Solar_Radiation_W_m2": 598.715
+    },
+    "TippingBucket": {
+      "Tips": 0,
+      "Hourly_Rainfall_mm": 0.0
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-05T21:00:00Z",
+      "time_local": "2026-10-05T14:00:00"
+    },
+    "Packet": {
+      "Number": 15
+    },
+    "Analog": {
+      "Vbat": 4.0172,
+      "Vbat_MV": 4017.2
+    },
+    "LTE": {
+      "RSSI": 20
+    },
+    "WeatherStation": {
+      "Air_Temperature_C": 18.93,
+      "Relative_Humidity_%RH": 51.853,
+      "Atmospheric_Pressure_mbar": 1015.761,
+      "Wind_Speed_m_s": 3.369,
+      "Wind_Direction_degrees": 271.5,
+      "Wind_Gust_m_s": 5.597,
+      "Solar_Radiation_W_m2": 509.671
+    },
+    "TippingBucket": {
+      "Tips": 0,
+      "Hourly_Rainfall_mm": 0.0
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-05T22:00:00Z",
+      "time_local": "2026-10-05T15:00:00"
+    },
+    "Packet": {
+      "Number": 16
+    },
+    "Analog": {
+      "Vbat": 4.017,
+      "Vbat_MV": 4017.0
+    },
+    "LTE": {
+      "RSSI": 20
+    },
+    "WeatherStation": {
+      "Air_Temperature_C": 20.07,
+      "Relative_Humidity_%RH": 52.668,
+      "Atmospheric_Pressure_mbar": 1017.397,
+      "Wind_Speed_m_s": 4.533,
+      "Wind_Direction_degrees": 258.9,
+      "Wind_Gust_m_s": 5.319,
+      "Solar_Radiation_W_m2": 446.687
+    },
+    "TippingBucket": {
+      "Tips": 0,
+      "Hourly_Rainfall_mm": 0.0
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-05T23:00:00Z",
+      "time_local": "2026-10-05T16:00:00"
+    },
+    "Packet": {
+      "Number": 17
+    },
+    "Analog": {
+      "Vbat": 4.0168,
+      "Vbat_MV": 4016.8
+    },
+    "LTE": {
+      "RSSI": 20
+    },
+    "WeatherStation": {
+      "Air_Temperature_C": 19.74,
+      "Relative_Humidity_%RH": 49.754,
+      "Atmospheric_Pressure_mbar": 1016.857,
+      "Wind_Speed_m_s": 5.008,
+      "Wind_Direction_degrees": 267.3,
+      "Wind_Gust_m_s": 6.657,
+      "Solar_Radiation_W_m2": 287.032
+    },
+    "TippingBucket": {
+      "Tips": 0,
+      "Hourly_Rainfall_mm": 0.0
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-06T00:00:00Z",
+      "time_local": "2026-10-05T17:00:00"
+    },
+    "Packet": {
+      "Number": 18
+    },
+    "Analog": {
+      "Vbat": 4.0166,
+      "Vbat_MV": 4016.6
+    },
+    "LTE": {
+      "RSSI": 20
+    },
+    "WeatherStation": {
+      "Air_Temperature_C": 18.51,
+      "Relative_Humidity_%RH": 56.214,
+      "Atmospheric_Pressure_mbar": 1017.638,
+      "Wind_Speed_m_s": 3.46,
+      "Wind_Direction_degrees": 272.5,
+      "Wind_Gust_m_s": 6.308,
+      "Solar_Radiation_W_m2": 159.916
+    },
+    "TippingBucket": {
+      "Tips": 0,
+      "Hourly_Rainfall_mm": 0.0
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-06T01:00:00Z",
+      "time_local": "2026-10-05T18:00:00"
+    },
+    "Packet": {
+      "Number": 19
+    },
+    "Analog": {
+      "Vbat": 4.0164,
+      "Vbat_MV": 4016.4
+    },
+    "LTE": {
+      "RSSI": 20
+    },
+    "WeatherStation": {
+      "Air_Temperature_C": 17.54,
+      "Relative_Humidity_%RH": 58.81,
+      "Atmospheric_Pressure_mbar": 1016.782,
+      "Wind_Speed_m_s": 4.711,
+      "Wind_Direction_degrees": 286.0,
+      "Wind_Gust_m_s": 5.286,
+      "Solar_Radiation_W_m2": 0
+    },
+    "TippingBucket": {
+      "Tips": 0,
+      "Hourly_Rainfall_mm": 0.0
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-06T02:00:00Z",
+      "time_local": "2026-10-05T19:00:00"
+    },
+    "Packet": {
+      "Number": 20
+    },
+    "Analog": {
+      "Vbat": 4.0162,
+      "Vbat_MV": 4016.2
+    },
+    "LTE": {
+      "RSSI": 20
+    },
+    "WeatherStation": {
+      "Air_Temperature_C": 16.82,
+      "Relative_Humidity_%RH": 56.281,
+      "Atmospheric_Pressure_mbar": 1017.098,
+      "Wind_Speed_m_s": 3.56,
+      "Wind_Direction_degrees": 288.3,
+      "Wind_Gust_m_s": 5.737,
+      "Solar_Radiation_W_m2": 5.536
+    },
+    "TippingBucket": {
+      "Tips": 0,
+      "Hourly_Rainfall_mm": 0.0
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-06T03:00:00Z",
+      "time_local": "2026-10-05T20:00:00"
+    },
+    "Packet": {
+      "Number": 21
+    },
+    "Analog": {
+      "Vbat": 4.016,
+      "Vbat_MV": 4016.0
+    },
+    "LTE": {
+      "RSSI": 20
+    },
+    "WeatherStation": {
+      "Air_Temperature_C": 14.05,
+      "Relative_Humidity_%RH": 60.91,
+      "Atmospheric_Pressure_mbar": 1017.777,
+      "Wind_Speed_m_s": 1.875,
+      "Wind_Direction_degrees": 271.4,
+      "Wind_Gust_m_s": 3.571,
+      "Solar_Radiation_W_m2": 0
+    },
+    "TippingBucket": {
+      "Tips": 0,
+      "Hourly_Rainfall_mm": 0.0
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-06T04:00:00Z",
+      "time_local": "2026-10-05T21:00:00"
+    },
+    "Packet": {
+      "Number": 22
+    },
+    "Analog": {
+      "Vbat": 4.0158,
+      "Vbat_MV": 4015.8
+    },
+    "LTE": {
+      "RSSI": 20
+    },
+    "WeatherStation": {
+      "Air_Temperature_C": 12.44,
+      "Relative_Humidity_%RH": 62.73,
+      "Atmospheric_Pressure_mbar": 1018.033,
+      "Wind_Speed_m_s": 1.682,
+      "Wind_Direction_degrees": 293.0,
+      "Wind_Gust_m_s": 3.376,
+      "Solar_Radiation_W_m2": 0
+    },
+    "TippingBucket": {
+      "Tips": 0,
+      "Hourly_Rainfall_mm": 0.0
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-06T05:00:00Z",
+      "time_local": "2026-10-05T22:00:00"
+    },
+    "Packet": {
+      "Number": 23
+    },
+    "Analog": {
+      "Vbat": 4.0156,
+      "Vbat_MV": 4015.6
+    },
+    "LTE": {
+      "RSSI": 20
+    },
+    "WeatherStation": {
+      "Air_Temperature_C": 11.47,
+      "Relative_Humidity_%RH": 63.489,
+      "Atmospheric_Pressure_mbar": 1016.845,
+      "Wind_Speed_m_s": 3.291,
+      "Wind_Direction_degrees": 272.7,
+      "Wind_Gust_m_s": 5.273,
+      "Solar_Radiation_W_m2": 6.519
+    },
+    "TippingBucket": {
+      "Tips": 0,
+      "Hourly_Rainfall_mm": 0.0
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-06T06:00:00Z",
+      "time_local": "2026-10-05T23:00:00"
+    },
+    "Packet": {
+      "Number": 24
+    },
+    "Analog": {
+      "Vbat": 4.0154,
+      "Vbat_MV": 4015.4
+    },
+    "LTE": {
+      "RSSI": 20
+    },
+    "WeatherStation": {
+      "Air_Temperature_C": 8.93,
+      "Relative_Humidity_%RH": 72.599,
+      "Atmospheric_Pressure_mbar": 1017.443,
+      "Wind_Speed_m_s": 3.425,
+      "Wind_Direction_degrees": 277.4,
+      "Wind_Gust_m_s": 4.788,
+      "Solar_Radiation_W_m2": 0
+    },
+    "TippingBucket": {
+      "Tips": 0,
+      "Hourly_Rainfall_mm": 0.0
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-06T07:00:00Z",
+      "time_local": "2026-10-06T00:00:00"
+    },
+    "Packet": {
+      "Number": 25
+    },
+    "Analog": {
+      "Vbat": 4.0152,
+      "Vbat_MV": 4015.2
+    },
+    "LTE": {
+      "RSSI": 20
+    },
+    "WeatherStation": {
+      "Air_Temperature_C": 7.28,
+      "Relative_Humidity_%RH": 77.552,
+      "Atmospheric_Pressure_mbar": 1017.491,
+      "Wind_Speed_m_s": 2.235,
+      "Wind_Direction_degrees": 294.7,
+      "Wind_Gust_m_s": 3.001,
+      "Solar_Radiation_W_m2": 0
+    },
+    "TippingBucket": {
+      "Tips": 0,
+      "Hourly_Rainfall_mm": 0.0
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-06T08:00:00Z",
+      "time_local": "2026-10-06T01:00:00"
+    },
+    "Packet": {
+      "Number": 26
+    },
+    "Analog": {
+      "Vbat": 4.015,
+      "Vbat_MV": 4015.0
+    },
+    "LTE": {
+      "RSSI": 20
+    },
+    "WeatherStation": {
+      "Air_Temperature_C": 6.3,
+      "Relative_Humidity_%RH": 75.825,
+      "Atmospheric_Pressure_mbar": 1018.081,
+      "Wind_Speed_m_s": 3.693,
+      "Wind_Direction_degrees": 278.9,
+      "Wind_Gust_m_s": 6.441,
+      "Solar_Radiation_W_m2": 0
+    },
+    "TippingBucket": {
+      "Tips": 3,
+      "Hourly_Rainfall_mm": 0.6
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-06T09:00:00Z",
+      "time_local": "2026-10-06T02:00:00"
+    },
+    "Packet": {
+      "Number": 27
+    },
+    "Analog": {
+      "Vbat": 4.0148,
+      "Vbat_MV": 4014.8
+    },
+    "LTE": {
+      "RSSI": 20
+    },
+    "WeatherStation": {
+      "Air_Temperature_C": 6.06,
+      "Relative_Humidity_%RH": 73.3,
+      "Atmospheric_Pressure_mbar": 1017.952,
+      "Wind_Speed_m_s": 3.949,
+      "Wind_Direction_degrees": 280.5,
+      "Wind_Gust_m_s": 4.593,
+      "Solar_Radiation_W_m2": 0
+    },
+    "TippingBucket": {
+      "Tips": 5,
+      "Hourly_Rainfall_mm": 1.0
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-06T10:00:00Z",
+      "time_local": "2026-10-06T03:00:00"
+    },
+    "Packet": {
+      "Number": 28
+    },
+    "Analog": {
+      "Vbat": 4.0146,
+      "Vbat_MV": 4014.6
+    },
+    "LTE": {
+      "RSSI": 20
+    },
+    "WeatherStation": {
+      "Air_Temperature_C": 5.51,
+      "Relative_Humidity_%RH": 75.445,
+      "Atmospheric_Pressure_mbar": 1017.647,
+      "Wind_Speed_m_s": 2.03,
+      "Wind_Direction_degrees": 274.9,
+      "Wind_Gust_m_s": 4.429,
+      "Solar_Radiation_W_m2": 21.794
+    },
+    "TippingBucket": {
+      "Tips": 2,
+      "Hourly_Rainfall_mm": 0.4
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-06T11:00:00Z",
+      "time_local": "2026-10-06T04:00:00"
+    },
+    "Packet": {
+      "Number": 29
+    },
+    "Analog": {
+      "Vbat": 4.0144,
+      "Vbat_MV": 4014.4
+    },
+    "LTE": {
+      "RSSI": 20
+    },
+    "WeatherStation": {
+      "Air_Temperature_C": 5.97,
+      "Relative_Humidity_%RH": 77.023,
+      "Atmospheric_Pressure_mbar": 1018.947,
+      "Wind_Speed_m_s": 3.466,
+      "Wind_Direction_degrees": 276.8,
+      "Wind_Gust_m_s": 5.437,
+      "Solar_Radiation_W_m2": 14.821
+    },
+    "TippingBucket": {
+      "Tips": 0,
+      "Hourly_Rainfall_mm": 0.0
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-06T12:00:00Z",
+      "time_local": "2026-10-06T05:00:00"
+    },
+    "Packet": {
+      "Number": 30
+    },
+    "Analog": {
+      "Vbat": 4.0142,
+      "Vbat_MV": 4014.2
+    },
+    "LTE": {
+      "RSSI": 20
+    },
+    "WeatherStation": {
+      "Air_Temperature_C": 7.27,
+      "Relative_Humidity_%RH": 78.393,
+      "Atmospheric_Pressure_mbar": 1017.882,
+      "Wind_Speed_m_s": 3.627,
+      "Wind_Direction_degrees": 273.6,
+      "Wind_Gust_m_s": 4.708,
+      "Solar_Radiation_W_m2": 8.638
+    },
+    "TippingBucket": {
+      "Tips": 0,
+      "Hourly_Rainfall_mm": 0.0
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-06T13:00:00Z",
+      "time_local": "2026-10-06T06:00:00"
+    },
+    "Packet": {
+      "Number": 31
+    },
+    "Analog": {
+      "Vbat": 4.014,
+      "Vbat_MV": 4014.0
+    },
+    "LTE": {
+      "RSSI": 20
+    },
+    "WeatherStation": {
+      "Air_Temperature_C": 7.99,
+      "Relative_Humidity_%RH": 75.625,
+      "Atmospheric_Pressure_mbar": 1018.926,
+      "Wind_Speed_m_s": 2.927,
+      "Wind_Direction_degrees": 270.2,
+      "Wind_Gust_m_s": 3.466,
+      "Solar_Radiation_W_m2": 0
+    },
+    "TippingBucket": {
+      "Tips": 0,
+      "Hourly_Rainfall_mm": 0.0
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-06T14:00:00Z",
+      "time_local": "2026-10-06T07:00:00"
+    },
+    "Packet": {
+      "Number": 32
+    },
+    "Analog": {
+      "Vbat": 4.0138,
+      "Vbat_MV": 4013.8
+    },
+    "LTE": {
+      "RSSI": 20
+    },
+    "WeatherStation": {
+      "Air_Temperature_C": 9.61,
+      "Relative_Humidity_%RH": 71.561,
+      "Atmospheric_Pressure_mbar": 1018.13,
+      "Wind_Speed_m_s": 2.3,
+      "Wind_Direction_degrees": 299.2,
+      "Wind_Gust_m_s": 3.338,
+      "Solar_Radiation_W_m2": 177.814
+    },
+    "TippingBucket": {
+      "Tips": 0,
+      "Hourly_Rainfall_mm": 0.0
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-06T15:00:00Z",
+      "time_local": "2026-10-06T08:00:00"
+    },
+    "Packet": {
+      "Number": 33
+    },
+    "Analog": {
+      "Vbat": 4.0136,
+      "Vbat_MV": 4013.6
+    },
+    "LTE": {
+      "RSSI": 20
+    },
+    "WeatherStation": {
+      "Air_Temperature_C": 11.75,
+      "Relative_Humidity_%RH": 69.894,
+      "Atmospheric_Pressure_mbar": 1019.18,
+      "Wind_Speed_m_s": 3.261,
+      "Wind_Direction_degrees": 295.5,
+      "Wind_Gust_m_s": 4.765,
+      "Solar_Radiation_W_m2": 278.332
+    },
+    "TippingBucket": {
+      "Tips": 0,
+      "Hourly_Rainfall_mm": 0.0
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-06T16:00:00Z",
+      "time_local": "2026-10-06T09:00:00"
+    },
+    "Packet": {
+      "Number": 34
+    },
+    "Analog": {
+      "Vbat": 4.0134,
+      "Vbat_MV": 4013.4
+    },
+    "LTE": {
+      "RSSI": 20
+    },
+    "WeatherStation": {
+      "Air_Temperature_C": 13.11,
+      "Relative_Humidity_%RH": 60.901,
+      "Atmospheric_Pressure_mbar": 1018.412,
+      "Wind_Speed_m_s": 1.793,
+      "Wind_Direction_degrees": 291.9,
+      "Wind_Gust_m_s": 4.455,
+      "Solar_Radiation_W_m2": 448.884
+    },
+    "TippingBucket": {
+      "Tips": 0,
+      "Hourly_Rainfall_mm": 0.0
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-06T17:00:00Z",
+      "time_local": "2026-10-06T10:00:00"
+    },
+    "Packet": {
+      "Number": 35
+    },
+    "Analog": {
+      "Vbat": 4.0132,
+      "Vbat_MV": 4013.2
+    },
+    "LTE": {
+      "RSSI": 20
+    },
+    "WeatherStation": {
+      "Air_Temperature_C": 15.33,
+      "Relative_Humidity_%RH": 61.8,
+      "Atmospheric_Pressure_mbar": 1018.738,
+      "Wind_Speed_m_s": 2.461,
+      "Wind_Direction_degrees": 296.8,
+      "Wind_Gust_m_s": 3.383,
+      "Solar_Radiation_W_m2": 520.722
+    },
+    "TippingBucket": {
+      "Tips": 0,
+      "Hourly_Rainfall_mm": 0.0
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-06T18:00:00Z",
+      "time_local": "2026-10-06T11:00:00"
+    },
+    "Packet": {
+      "Number": 36
+    },
+    "Analog": {
+      "Vbat": 4.013,
+      "Vbat_MV": 4013.0
+    },
+    "LTE": {
+      "RSSI": 20
+    },
+    "WeatherStation": {
+      "Air_Temperature_C": 16.8,
+      "Relative_Humidity_%RH": 55.841,
+      "Atmospheric_Pressure_mbar": 1018.717,
+      "Wind_Speed_m_s": 2.315,
+      "Wind_Direction_degrees": 273.0,
+      "Wind_Gust_m_s": 4.354,
+      "Solar_Radiation_W_m2": 570.898
+    },
+    "TippingBucket": {
+      "Tips": 0,
+      "Hourly_Rainfall_mm": 0.0
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-06T19:00:00Z",
+      "time_local": "2026-10-06T12:00:00"
+    },
+    "Packet": {
+      "Number": 37
+    },
+    "Analog": {
+      "Vbat": 4.0128,
+      "Vbat_MV": 4012.8
+    },
+    "LTE": {
+      "RSSI": 20
+    },
+    "WeatherStation": {
+      "Air_Temperature_C": 17.79,
+      "Relative_Humidity_%RH": 52.591,
+      "Atmospheric_Pressure_mbar": 1018.076,
+      "Wind_Speed_m_s": 4.48,
+      "Wind_Direction_degrees": 273.9,
+      "Wind_Gust_m_s": 6.313,
+      "Solar_Radiation_W_m2": 601.674
+    },
+    "TippingBucket": {
+      "Tips": 0,
+      "Hourly_Rainfall_mm": 0.0
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-06T20:00:00Z",
+      "time_local": "2026-10-06T13:00:00"
+    },
+    "Packet": {
+      "Number": 38
+    },
+    "Analog": {
+      "Vbat": 4.0126,
+      "Vbat_MV": 4012.6
+    },
+    "LTE": {
+      "RSSI": 20
+    },
+    "WeatherStation": {
+      "Air_Temperature_C": 19.52,
+      "Relative_Humidity_%RH": 55.66,
+      "Atmospheric_Pressure_mbar": 1017.736,
+      "Wind_Speed_m_s": 3.283,
+      "Wind_Direction_degrees": 296.6,
+      "Wind_Gust_m_s": 5.952,
+      "Solar_Radiation_W_m2": 595.296
+    },
+    "TippingBucket": {
+      "Tips": 0,
+      "Hourly_Rainfall_mm": 0.0
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-06T21:00:00Z",
+      "time_local": "2026-10-06T14:00:00"
+    },
+    "Packet": {
+      "Number": 39
+    },
+    "Analog": {
+      "Vbat": 4.0124,
+      "Vbat_MV": 4012.4
+    },
+    "LTE": {
+      "RSSI": 20
+    },
+    "WeatherStation": {
+      "Air_Temperature_C": 19.92,
+      "Relative_Humidity_%RH": 50.252,
+      "Atmospheric_Pressure_mbar": 1019.483,
+      "Wind_Speed_m_s": 5.016,
+      "Wind_Direction_degrees": 278.1,
+      "Wind_Gust_m_s": 6.752,
+      "Solar_Radiation_W_m2": 505.096
+    },
+    "TippingBucket": {
+      "Tips": 0,
+      "Hourly_Rainfall_mm": 0.0
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-06T22:00:00Z",
+      "time_local": "2026-10-06T15:00:00"
+    },
+    "Packet": {
+      "Number": 40
+    },
+    "Analog": {
+      "Vbat": 4.0122,
+      "Vbat_MV": 4012.2
+    },
+    "LTE": {
+      "RSSI": 20
+    },
+    "WeatherStation": {
+      "Air_Temperature_C": 20.29,
+      "Relative_Humidity_%RH": 47.832,
+      "Atmospheric_Pressure_mbar": 1019.369,
+      "Wind_Speed_m_s": 4.922,
+      "Wind_Direction_degrees": 279.2,
+      "Wind_Gust_m_s": 5.71,
+      "Solar_Radiation_W_m2": 433.737
+    },
+    "TippingBucket": {
+      "Tips": 0,
+      "Hourly_Rainfall_mm": 0.0
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-06T23:00:00Z",
+      "time_local": "2026-10-06T16:00:00"
+    },
+    "Packet": {
+      "Number": 41
+    },
+    "Analog": {
+      "Vbat": 4.012,
+      "Vbat_MV": 4012.0
+    },
+    "LTE": {
+      "RSSI": 20
+    },
+    "WeatherStation": {
+      "Air_Temperature_C": 20.24,
+      "Relative_Humidity_%RH": 48.163,
+      "Atmospheric_Pressure_mbar": 1018.254,
+      "Wind_Speed_m_s": 4.584,
+      "Wind_Direction_degrees": 265.9,
+      "Wind_Gust_m_s": 6.573,
+      "Solar_Radiation_W_m2": 283.005
+    },
+    "TippingBucket": {
+      "Tips": 0,
+      "Hourly_Rainfall_mm": 0.0
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-07T00:00:00Z",
+      "time_local": "2026-10-06T17:00:00"
+    },
+    "Packet": {
+      "Number": 42
+    },
+    "Analog": {
+      "Vbat": 4.0118,
+      "Vbat_MV": 4011.8
+    },
+    "LTE": {
+      "RSSI": 20
+    },
+    "WeatherStation": {
+      "Air_Temperature_C": 19.14,
+      "Relative_Humidity_%RH": 53.416,
+      "Atmospheric_Pressure_mbar": 1019.629,
+      "Wind_Speed_m_s": 3.74,
+      "Wind_Direction_degrees": 288.8,
+      "Wind_Gust_m_s": 5.48,
+      "Solar_Radiation_W_m2": 158.374
+    },
+    "TippingBucket": {
+      "Tips": 0,
+      "Hourly_Rainfall_mm": 0.0
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-07T01:00:00Z",
+      "time_local": "2026-10-06T18:00:00"
+    },
+    "Packet": {
+      "Number": 43
+    },
+    "Analog": {
+      "Vbat": 4.0116,
+      "Vbat_MV": 4011.6
+    },
+    "LTE": {
+      "RSSI": 20
+    },
+    "WeatherStation": {
+      "Air_Temperature_C": 18.31,
+      "Relative_Humidity_%RH": 58.884,
+      "Atmospheric_Pressure_mbar": 1018.778,
+      "Wind_Speed_m_s": 4.78,
+      "Wind_Direction_degrees": 269.8,
+      "Wind_Gust_m_s": 7.579,
+      "Solar_Radiation_W_m2": 21.839
+    },
+    "TippingBucket": {
+      "Tips": 0,
+      "Hourly_Rainfall_mm": 0.0
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-07T02:00:00Z",
+      "time_local": "2026-10-06T19:00:00"
+    },
+    "Packet": {
+      "Number": 44
+    },
+    "Analog": {
+      "Vbat": 4.0114,
+      "Vbat_MV": 4011.4
+    },
+    "LTE": {
+      "RSSI": 20
+    },
+    "WeatherStation": {
+      "Air_Temperature_C": 16.7,
+      "Relative_Humidity_%RH": 61.072,
+      "Atmospheric_Pressure_mbar": 1019.387,
+      "Wind_Speed_m_s": 3.171,
+      "Wind_Direction_degrees": 267.7,
+      "Wind_Gust_m_s": 3.714,
+      "Solar_Radiation_W_m2": 0
+    },
+    "TippingBucket": {
+      "Tips": 0,
+      "Hourly_Rainfall_mm": 0.0
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-07T03:00:00Z",
+      "time_local": "2026-10-06T20:00:00"
+    },
+    "Packet": {
+      "Number": 45
+    },
+    "Analog": {
+      "Vbat": 4.0112,
+      "Vbat_MV": 4011.2
+    },
+    "LTE": {
+      "RSSI": 20
+    },
+    "WeatherStation": {
+      "Air_Temperature_C": 14.9,
+      "Relative_Humidity_%RH": 61.688,
+      "Atmospheric_Pressure_mbar": 1018.663,
+      "Wind_Speed_m_s": 3.414,
+      "Wind_Direction_degrees": 274.4,
+      "Wind_Gust_m_s": 6.334,
+      "Solar_Radiation_W_m2": 5.535
+    },
+    "TippingBucket": {
+      "Tips": 0,
+      "Hourly_Rainfall_mm": 0.0
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-07T04:00:00Z",
+      "time_local": "2026-10-06T21:00:00"
+    },
+    "Packet": {
+      "Number": 46
+    },
+    "Analog": {
+      "Vbat": 4.011,
+      "Vbat_MV": 4011.0
+    },
+    "LTE": {
+      "RSSI": 20
+    },
+    "WeatherStation": {
+      "Air_Temperature_C": 13.34,
+      "Relative_Humidity_%RH": 60.647,
+      "Atmospheric_Pressure_mbar": 1019.566,
+      "Wind_Speed_m_s": 3.139,
+      "Wind_Direction_degrees": 261.5,
+      "Wind_Gust_m_s": 4.632,
+      "Solar_Radiation_W_m2": 16.544
+    },
+    "TippingBucket": {
+      "Tips": 0,
+      "Hourly_Rainfall_mm": 0.0
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-07T05:00:00Z",
+      "time_local": "2026-10-06T22:00:00"
+    },
+    "Packet": {
+      "Number": 47
+    },
+    "Analog": {
+      "Vbat": 4.0108,
+      "Vbat_MV": 4010.8
+    },
+    "LTE": {
+      "RSSI": 20
+    },
+    "WeatherStation": {
+      "Air_Temperature_C": 12.02,
+      "Relative_Humidity_%RH": 67.023,
+      "Atmospheric_Pressure_mbar": 1018.861,
+      "Wind_Speed_m_s": 2.041,
+      "Wind_Direction_degrees": 266.0,
+      "Wind_Gust_m_s": 3.803,
+      "Solar_Radiation_W_m2": 14.727
+    },
+    "TippingBucket": {
+      "Tips": 0,
+      "Hourly_Rainfall_mm": 0.0
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-07T06:00:00Z",
+      "time_local": "2026-10-06T23:00:00"
+    },
+    "Packet": {
+      "Number": 48
+    },
+    "Analog": {
+      "Vbat": 4.0106,
+      "Vbat_MV": 4010.6
+    },
+    "LTE": {
+      "RSSI": 20
+    },
+    "WeatherStation": {
+      "Air_Temperature_C": 10.34,
+      "Relative_Humidity_%RH": 70.776,
+      "Atmospheric_Pressure_mbar": 1019.537,
+      "Wind_Speed_m_s": 2.354,
+      "Wind_Direction_degrees": 255.7,
+      "Wind_Gust_m_s": 5.26,
+      "Solar_Radiation_W_m2": 0
+    },
+    "TippingBucket": {
+      "Tips": 0,
+      "Hourly_Rainfall_mm": 0.0
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-07T07:00:00Z",
+      "time_local": "2026-10-07T00:00:00"
+    },
+    "Packet": {
+      "Number": 49
+    },
+    "Analog": {
+      "Vbat": 4.0104,
+      "Vbat_MV": 4010.4
+    },
+    "LTE": {
+      "RSSI": 20
+    },
+    "WeatherStation": {
+      "Air_Temperature_C": 8.68,
+      "Relative_Humidity_%RH": 72.256,
+      "Atmospheric_Pressure_mbar": 1018.604,
+      "Wind_Speed_m_s": 2.694,
+      "Wind_Direction_degrees": 254.0,
+      "Wind_Gust_m_s": 3.54,
+      "Solar_Radiation_W_m2": 0
+    },
+    "TippingBucket": {
+      "Tips": 0,
+      "Hourly_Rainfall_mm": 0.0
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-07T08:00:00Z",
+      "time_local": "2026-10-07T01:00:00"
+    },
+    "Packet": {
+      "Number": 50
+    },
+    "Analog": {
+      "Vbat": 4.0102,
+      "Vbat_MV": 4010.2
+    },
+    "LTE": {
+      "RSSI": 20
+    },
+    "WeatherStation": {
+      "Air_Temperature_C": 7.58,
+      "Relative_Humidity_%RH": 72.847,
+      "Atmospheric_Pressure_mbar": 1019.602,
+      "Wind_Speed_m_s": 2.684,
+      "Wind_Direction_degrees": 271.2,
+      "Wind_Gust_m_s": 4.761,
+      "Solar_Radiation_W_m2": 0
+    },
+    "TippingBucket": {
+      "Tips": 0,
+      "Hourly_Rainfall_mm": 0.0
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-07T09:00:00Z",
+      "time_local": "2026-10-07T02:00:00"
+    },
+    "Packet": {
+      "Number": 51
+    },
+    "Analog": {
+      "Vbat": 4.01,
+      "Vbat_MV": 4010.0
+    },
+    "LTE": {
+      "RSSI": 20
+    },
+    "WeatherStation": {
+      "Air_Temperature_C": 6.5,
+      "Relative_Humidity_%RH": 77.149,
+      "Atmospheric_Pressure_mbar": 1018.07,
+      "Wind_Speed_m_s": 1.837,
+      "Wind_Direction_degrees": 247.8,
+      "Wind_Gust_m_s": 2.92,
+      "Solar_Radiation_W_m2": 23.155
+    },
+    "TippingBucket": {
+      "Tips": 0,
+      "Hourly_Rainfall_mm": 0.0
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-07T10:00:00Z",
+      "time_local": "2026-10-07T03:00:00"
+    },
+    "Packet": {
+      "Number": 52
+    },
+    "Analog": {
+      "Vbat": 4.0098,
+      "Vbat_MV": 4009.8
+    },
+    "LTE": {
+      "RSSI": 20
+    },
+    "WeatherStation": {
+      "Air_Temperature_C": 6.3,
+      "Relative_Humidity_%RH": 73.968,
+      "Atmospheric_Pressure_mbar": 1018.811,
+      "Wind_Speed_m_s": 2.55,
+      "Wind_Direction_degrees": 265.0,
+      "Wind_Gust_m_s": 5.457,
+      "Solar_Radiation_W_m2": 0
+    },
+    "TippingBucket": {
+      "Tips": 0,
+      "Hourly_Rainfall_mm": 0.0
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-07T11:00:00Z",
+      "time_local": "2026-10-07T04:00:00"
+    },
+    "Packet": {
+      "Number": 53
+    },
+    "Analog": {
+      "Vbat": 4.0096,
+      "Vbat_MV": 4009.6
+    },
+    "LTE": {
+      "RSSI": 20
+    },
+    "WeatherStation": {
+      "Air_Temperature_C": 6.37,
+      "Relative_Humidity_%RH": 77.986,
+      "Atmospheric_Pressure_mbar": 1019.889,
+      "Wind_Speed_m_s": 2.989,
+      "Wind_Direction_degrees": 265.8,
+      "Wind_Gust_m_s": 5.282,
+      "Solar_Radiation_W_m2": 6.631
+    },
+    "TippingBucket": {
+      "Tips": 0,
+      "Hourly_Rainfall_mm": 0.0
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-07T12:00:00Z",
+      "time_local": "2026-10-07T05:00:00"
+    },
+    "Packet": {
+      "Number": 54
+    },
+    "Analog": {
+      "Vbat": 4.0094,
+      "Vbat_MV": 4009.4
+    },
+    "LTE": {
+      "RSSI": 20
+    },
+    "WeatherStation": {
+      "Air_Temperature_C": 7.17,
+      "Relative_Humidity_%RH": 76.109,
+      "Atmospheric_Pressure_mbar": 1019.528,
+      "Wind_Speed_m_s": 2.92,
+      "Wind_Direction_degrees": 257.5,
+      "Wind_Gust_m_s": 3.99,
+      "Solar_Radiation_W_m2": 12.64
+    },
+    "TippingBucket": {
+      "Tips": 0,
+      "Hourly_Rainfall_mm": 0.0
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-07T13:00:00Z",
+      "time_local": "2026-10-07T06:00:00"
+    },
+    "Packet": {
+      "Number": 55
+    },
+    "Analog": {
+      "Vbat": 4.0092,
+      "Vbat_MV": 4009.2
+    },
+    "LTE": {
+      "RSSI": 20
+    },
+    "WeatherStation": {
+      "Air_Temperature_C": 7.98,
+      "Relative_Humidity_%RH": 74.36,
+      "Atmospheric_Pressure_mbar": 1019.048,
+      "Wind_Speed_m_s": 3.351,
+      "Wind_Direction_degrees": 243.5,
+      "Wind_Gust_m_s": 3.952,
+      "Solar_Radiation_W_m2": 0
+    },
+    "TippingBucket": {
+      "Tips": 0,
+      "Hourly_Rainfall_mm": 0.0
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-07T14:00:00Z",
+      "time_local": "2026-10-07T07:00:00"
+    },
+    "Packet": {
+      "Number": 56
+    },
+    "Analog": {
+      "Vbat": 4.009,
+      "Vbat_MV": 4009.0
+    },
+    "LTE": {
+      "RSSI": 20
+    },
+    "WeatherStation": {
+      "Air_Temperature_C": 9.68,
+      "Relative_Humidity_%RH": 70.437,
+      "Atmospheric_Pressure_mbar": 1018.251,
+      "Wind_Speed_m_s": 3.676,
+      "Wind_Direction_degrees": 256.3,
+      "Wind_Gust_m_s": 5.741,
+      "Solar_Radiation_W_m2": 135.875
+    },
+    "TippingBucket": {
+      "Tips": 0,
+      "Hourly_Rainfall_mm": 0.0
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-07T15:00:00Z",
+      "time_local": "2026-10-07T08:00:00"
+    },
+    "Packet": {
+      "Number": 57
+    },
+    "Analog": {
+      "Vbat": 4.0088,
+      "Vbat_MV": 4008.8
+    },
+    "LTE": {
+      "RSSI": 20
+    },
+    "WeatherStation": {
+      "Air_Temperature_C": 11.62,
+      "Relative_Humidity_%RH": 68.218,
+      "Atmospheric_Pressure_mbar": 1018.759,
+      "Wind_Speed_m_s": 2.24,
+      "Wind_Direction_degrees": 242.7,
+      "Wind_Gust_m_s": 4.399,
+      "Solar_Radiation_W_m2": 314.5
+    },
+    "TippingBucket": {
+      "Tips": 0,
+      "Hourly_Rainfall_mm": 0.0
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-07T16:00:00Z",
+      "time_local": "2026-10-07T09:00:00"
+    },
+    "Packet": {
+      "Number": 58
+    },
+    "Analog": {
+      "Vbat": 4.0086,
+      "Vbat_MV": 4008.6
+    },
+    "LTE": {
+      "RSSI": 20
+    },
+    "WeatherStation": {
+      "Air_Temperature_C": 13.25,
+      "Relative_Humidity_%RH": 62.737,
+      "Atmospheric_Pressure_mbar": 1019.625,
+      "Wind_Speed_m_s": 1.756,
+      "Wind_Direction_degrees": 247.5,
+      "Wind_Gust_m_s": 3.418,
+      "Solar_Radiation_W_m2": 425.171
+    },
+    "TippingBucket": {
+      "Tips": 0,
+      "Hourly_Rainfall_mm": 0.0
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-07T17:00:00Z",
+      "time_local": "2026-10-07T10:00:00"
+    },
+    "Packet": {
+      "Number": 59
+    },
+    "Analog": {
+      "Vbat": 4.0084,
+      "Vbat_MV": 4008.4
+    },
+    "LTE": {
+      "RSSI": 20
+    },
+    "WeatherStation": {
+      "Air_Temperature_C": 15.9,
+      "Relative_Humidity_%RH": 58.105,
+      "Atmospheric_Pressure_mbar": 1019.471,
+      "Wind_Speed_m_s": 3.689,
+      "Wind_Direction_degrees": 254.8,
+      "Wind_Gust_m_s": 5.588,
+      "Solar_Radiation_W_m2": 528.914
+    },
+    "TippingBucket": {
+      "Tips": 0,
+      "Hourly_Rainfall_mm": 0.0
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-07T18:00:00Z",
+      "time_local": "2026-10-07T11:00:00"
+    },
+    "Packet": {
+      "Number": 60
+    },
+    "Analog": {
+      "Vbat": 4.0082,
+      "Vbat_MV": 4008.2
+    },
+    "LTE": {
+      "RSSI": 20
+    },
+    "WeatherStation": {
+      "Air_Temperature_C": 16.93,
+      "Relative_Humidity_%RH": 60.9,
+      "Atmospheric_Pressure_mbar": 1017.984,
+      "Wind_Speed_m_s": 4.378,
+      "Wind_Direction_degrees": 227.9,
+      "Wind_Gust_m_s": 6.181,
+      "Solar_Radiation_W_m2": 574.752
+    },
+    "TippingBucket": {
+      "Tips": 0,
+      "Hourly_Rainfall_mm": 0.0
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-07T19:00:00Z",
+      "time_local": "2026-10-07T12:00:00"
+    },
+    "Packet": {
+      "Number": 61
+    },
+    "Analog": {
+      "Vbat": 4.008,
+      "Vbat_MV": 4008.0
+    },
+    "LTE": {
+      "RSSI": 20
+    },
+    "WeatherStation": {
+      "Air_Temperature_C": 18.02,
+      "Relative_Humidity_%RH": 58.168,
+      "Atmospheric_Pressure_mbar": 1018.888,
+      "Wind_Speed_m_s": 4.242,
+      "Wind_Direction_degrees": 247.2,
+      "Wind_Gust_m_s": 5.067,
+      "Solar_Radiation_W_m2": 593.307
+    },
+    "TippingBucket": {
+      "Tips": 0,
+      "Hourly_Rainfall_mm": 0.0
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-07T20:00:00Z",
+      "time_local": "2026-10-07T13:00:00"
+    },
+    "Packet": {
+      "Number": 62
+    },
+    "Analog": {
+      "Vbat": 4.0078,
+      "Vbat_MV": 4007.8
+    },
+    "LTE": {
+      "RSSI": 20
+    },
+    "WeatherStation": {
+      "Air_Temperature_C": 19.68,
+      "Relative_Humidity_%RH": 53.352,
+      "Atmospheric_Pressure_mbar": 1018.235,
+      "Wind_Speed_m_s": 3.413,
+      "Wind_Direction_degrees": 222.0,
+      "Wind_Gust_m_s": 6.071,
+      "Solar_Radiation_W_m2": 569.008
+    },
+    "TippingBucket": {
+      "Tips": 0,
+      "Hourly_Rainfall_mm": 0.0
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-07T21:00:00Z",
+      "time_local": "2026-10-07T14:00:00"
+    },
+    "Packet": {
+      "Number": 63
+    },
+    "Analog": {
+      "Vbat": 4.0076,
+      "Vbat_MV": 4007.6
+    },
+    "LTE": {
+      "RSSI": 20
+    },
+    "WeatherStation": {
+      "Air_Temperature_C": 19.92,
+      "Relative_Humidity_%RH": 55.121,
+      "Atmospheric_Pressure_mbar": 1019.029,
+      "Wind_Speed_m_s": 3.384,
+      "Wind_Direction_degrees": 229.1,
+      "Wind_Gust_m_s": 5.35,
+      "Solar_Radiation_W_m2": 514.819
+    },
+    "TippingBucket": {
+      "Tips": 0,
+      "Hourly_Rainfall_mm": 0.0
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-07T22:00:00Z",
+      "time_local": "2026-10-07T15:00:00"
+    },
+    "Packet": {
+      "Number": 64
+    },
+    "Analog": {
+      "Vbat": 4.0074,
+      "Vbat_MV": 4007.4
+    },
+    "LTE": {
+      "RSSI": 20
+    },
+    "WeatherStation": {
+      "Air_Temperature_C": 20.27,
+      "Relative_Humidity_%RH": 48.724,
+      "Atmospheric_Pressure_mbar": 1019.05,
+      "Wind_Speed_m_s": 4.674,
+      "Wind_Direction_degrees": 236.2,
+      "Wind_Gust_m_s": 6.931,
+      "Solar_Radiation_W_m2": 440.168
+    },
+    "TippingBucket": {
+      "Tips": 0,
+      "Hourly_Rainfall_mm": 0.0
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-07T23:00:00Z",
+      "time_local": "2026-10-07T16:00:00"
+    },
+    "Packet": {
+      "Number": 65
+    },
+    "Analog": {
+      "Vbat": 4.0072,
+      "Vbat_MV": 4007.2
+    },
+    "LTE": {
+      "RSSI": 20
+    },
+    "WeatherStation": {
+      "Air_Temperature_C": 20.44,
+      "Relative_Humidity_%RH": 52.121,
+      "Atmospheric_Pressure_mbar": 1017.472,
+      "Wind_Speed_m_s": 3.549,
+      "Wind_Direction_degrees": 240.1,
+      "Wind_Gust_m_s": 4.42,
+      "Solar_Radiation_W_m2": 285.728
+    },
+    "TippingBucket": {
+      "Tips": 0,
+      "Hourly_Rainfall_mm": 0.0
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-08T00:00:00Z",
+      "time_local": "2026-10-07T17:00:00"
+    },
+    "Packet": {
+      "Number": 66
+    },
+    "Analog": {
+      "Vbat": 4.007,
+      "Vbat_MV": 4007.0
+    },
+    "LTE": {
+      "RSSI": 20
+    },
+    "WeatherStation": {
+      "Air_Temperature_C": 19.44,
+      "Relative_Humidity_%RH": 56.068,
+      "Atmospheric_Pressure_mbar": 1017.624,
+      "Wind_Speed_m_s": 4.664,
+      "Wind_Direction_degrees": 225.4,
+      "Wind_Gust_m_s": 7.245,
+      "Solar_Radiation_W_m2": 142.34
+    },
+    "TippingBucket": {
+      "Tips": 0,
+      "Hourly_Rainfall_mm": 0.0
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-08T01:00:00Z",
+      "time_local": "2026-10-07T18:00:00"
+    },
+    "Packet": {
+      "Number": 67
+    },
+    "Analog": {
+      "Vbat": 4.0068,
+      "Vbat_MV": 4006.8
+    },
+    "LTE": {
+      "RSSI": 20
+    },
+    "WeatherStation": {
+      "Air_Temperature_C": 18.47,
+      "Relative_Humidity_%RH": 53.232,
+      "Atmospheric_Pressure_mbar": 1017.943,
+      "Wind_Speed_m_s": 4.264,
+      "Wind_Direction_degrees": 230.3,
+      "Wind_Gust_m_s": 5.385,
+      "Solar_Radiation_W_m2": 14.74
+    },
+    "TippingBucket": {
+      "Tips": 0,
+      "Hourly_Rainfall_mm": 0.0
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-08T02:00:00Z",
+      "time_local": "2026-10-07T19:00:00"
+    },
+    "Packet": {
+      "Number": 68
+    },
+    "Analog": {
+      "Vbat": 4.0066,
+      "Vbat_MV": 4006.6
+    },
+    "LTE": {
+      "RSSI": 20
+    },
+    "WeatherStation": {
+      "Air_Temperature_C": 17.53,
+      "Relative_Humidity_%RH": 57.518,
+      "Atmospheric_Pressure_mbar": 1017.106,
+      "Wind_Speed_m_s": 3.937,
+      "Wind_Direction_degrees": 236.0,
+      "Wind_Gust_m_s": 6.005,
+      "Solar_Radiation_W_m2": 0
+    },
+    "TippingBucket": {
+      "Tips": 0,
+      "Hourly_Rainfall_mm": 0.0
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-08T03:00:00Z",
+      "time_local": "2026-10-07T20:00:00"
+    },
+    "Packet": {
+      "Number": 69
+    },
+    "Analog": {
+      "Vbat": 4.0064,
+      "Vbat_MV": 4006.4
+    },
+    "LTE": {
+      "RSSI": 20
+    },
+    "WeatherStation": {
+      "Air_Temperature_C": 15.3,
+      "Relative_Humidity_%RH": 62.077,
+      "Atmospheric_Pressure_mbar": 1018.496,
+      "Wind_Speed_m_s": 3.545,
+      "Wind_Direction_degrees": 208.5,
+      "Wind_Gust_m_s": 5.504,
+      "Solar_Radiation_W_m2": 0
+    },
+    "TippingBucket": {
+      "Tips": 0,
+      "Hourly_Rainfall_mm": 0.0
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-08T04:00:00Z",
+      "time_local": "2026-10-07T21:00:00"
+    },
+    "Packet": {
+      "Number": 70
+    },
+    "Analog": {
+      "Vbat": 4.0062,
+      "Vbat_MV": 4006.2
+    },
+    "LTE": {
+      "RSSI": 20
+    },
+    "WeatherStation": {
+      "Air_Temperature_C": 13.82,
+      "Relative_Humidity_%RH": 64.22,
+      "Atmospheric_Pressure_mbar": 1017.36,
+      "Wind_Speed_m_s": 3.835,
+      "Wind_Direction_degrees": 220.3,
+      "Wind_Gust_m_s": 6.757,
+      "Solar_Radiation_W_m2": 0
+    },
+    "TippingBucket": {
+      "Tips": 0,
+      "Hourly_Rainfall_mm": 0.0
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-08T05:00:00Z",
+      "time_local": "2026-10-07T22:00:00"
+    },
+    "Packet": {
+      "Number": 71
+    },
+    "Analog": {
+      "Vbat": 4.006,
+      "Vbat_MV": 4006.0
+    },
+    "LTE": {
+      "RSSI": 20
+    },
+    "WeatherStation": {
+      "Air_Temperature_C": 11.71,
+      "Relative_Humidity_%RH": 63.746,
+      "Atmospheric_Pressure_mbar": 1017.319,
+      "Wind_Speed_m_s": 3.292,
+      "Wind_Direction_degrees": 209.6,
+      "Wind_Gust_m_s": 3.925,
+      "Solar_Radiation_W_m2": 21.975
+    },
+    "TippingBucket": {
+      "Tips": 0,
+      "Hourly_Rainfall_mm": 0.0
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-08T06:00:00Z",
+      "time_local": "2026-10-07T23:00:00"
+    },
+    "Packet": {
+      "Number": 72
+    },
+    "Analog": {
+      "Vbat": 4.0058,
+      "Vbat_MV": 4005.8
+    },
+    "LTE": {
+      "RSSI": 20
+    },
+    "WeatherStation": {
+      "Air_Temperature_C": 10.28,
+      "Relative_Humidity_%RH": 72.566,
+      "Atmospheric_Pressure_mbar": 1017.158,
+      "Wind_Speed_m_s": 3.866,
+      "Wind_Direction_degrees": 206.7,
+      "Wind_Gust_m_s": 5.507,
+      "Solar_Radiation_W_m2": 13.287
+    },
+    "TippingBucket": {
+      "Tips": 0,
+      "Hourly_Rainfall_mm": 0.0
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-08T07:00:00Z",
+      "time_local": "2026-10-08T00:00:00"
+    },
+    "Packet": {
+      "Number": 73
+    },
+    "Analog": {
+      "Vbat": 4.0056,
+      "Vbat_MV": 4005.6
+    },
+    "LTE": {
+      "RSSI": 20
+    },
+    "WeatherStation": {
+      "Air_Temperature_C": 8.56,
+      "Relative_Humidity_%RH": 68.935,
+      "Atmospheric_Pressure_mbar": 1018.084,
+      "Wind_Speed_m_s": 2.607,
+      "Wind_Direction_degrees": 214.0,
+      "Wind_Gust_m_s": 4.717,
+      "Solar_Radiation_W_m2": 0
+    },
+    "TippingBucket": {
+      "Tips": 0,
+      "Hourly_Rainfall_mm": 0.0
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-08T08:00:00Z",
+      "time_local": "2026-10-08T01:00:00"
+    },
+    "Packet": {
+      "Number": 74
+    },
+    "Analog": {
+      "Vbat": 4.0054,
+      "Vbat_MV": 4005.4
+    },
+    "LTE": {
+      "RSSI": 20
+    },
+    "WeatherStation": {
+      "Air_Temperature_C": 7.81,
+      "Relative_Humidity_%RH": 75.772,
+      "Atmospheric_Pressure_mbar": 1017.865,
+      "Wind_Speed_m_s": 2.181,
+      "Wind_Direction_degrees": 199.3,
+      "Wind_Gust_m_s": 4.591,
+      "Solar_Radiation_W_m2": 0
+    },
+    "TippingBucket": {
+      "Tips": 0,
+      "Hourly_Rainfall_mm": 0.0
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-08T09:00:00Z",
+      "time_local": "2026-10-08T02:00:00"
+    },
+    "Packet": {
+      "Number": 75
+    },
+    "Analog": {
+      "Vbat": 4.0052,
+      "Vbat_MV": 4005.2
+    },
+    "LTE": {
+      "RSSI": 20
+    },
+    "WeatherStation": {
+      "Air_Temperature_C": 6.27,
+      "Relative_Humidity_%RH": 74.453,
+      "Atmospheric_Pressure_mbar": 1017.001,
+      "Wind_Speed_m_s": 2.382,
+      "Wind_Direction_degrees": 220.7,
+      "Wind_Gust_m_s": 3.834,
+      "Solar_Radiation_W_m2": 0
+    },
+    "TippingBucket": {
+      "Tips": 0,
+      "Hourly_Rainfall_mm": 0.0
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-08T10:00:00Z",
+      "time_local": "2026-10-08T03:00:00"
+    },
+    "Packet": {
+      "Number": 76
+    },
+    "Analog": {
+      "Vbat": 4.005,
+      "Vbat_MV": 4005.0
+    },
+    "LTE": {
+      "RSSI": 20
+    },
+    "WeatherStation": {
+      "Air_Temperature_C": 6.69,
+      "Relative_Humidity_%RH": 78.406,
+      "Atmospheric_Pressure_mbar": 1017.351,
+      "Wind_Speed_m_s": 3.66,
+      "Wind_Direction_degrees": 205.0,
+      "Wind_Gust_m_s": 5.759,
+      "Solar_Radiation_W_m2": 0.917
+    },
+    "TippingBucket": {
+      "Tips": 0,
+      "Hourly_Rainfall_mm": 0.0
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-08T11:00:00Z",
+      "time_local": "2026-10-08T04:00:00"
+    },
+    "Packet": {
+      "Number": 77
+    },
+    "Analog": {
+      "Vbat": 4.0048,
+      "Vbat_MV": 4004.8
+    },
+    "LTE": {
+      "RSSI": 20
+    },
+    "WeatherStation": {
+      "Air_Temperature_C": 6.48,
+      "Relative_Humidity_%RH": 72.772,
+      "Atmospheric_Pressure_mbar": 1017.792,
+      "Wind_Speed_m_s": 2.632,
+      "Wind_Direction_degrees": 214.5,
+      "Wind_Gust_m_s": 3.546,
+      "Solar_Radiation_W_m2": 0
+    },
+    "TippingBucket": {
+      "Tips": 0,
+      "Hourly_Rainfall_mm": 0.0
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-08T12:00:00Z",
+      "time_local": "2026-10-08T05:00:00"
+    },
+    "Packet": {
+      "Number": 78
+    },
+    "Analog": {
+      "Vbat": 4.0046,
+      "Vbat_MV": 4004.6
+    },
+    "LTE": {
+      "RSSI": 20
+    },
+    "WeatherStation": {
+      "Air_Temperature_C": 7.9,
+      "Relative_Humidity_%RH": 77.884,
+      "Atmospheric_Pressure_mbar": 1016.054,
+      "Wind_Speed_m_s": 2.459,
+      "Wind_Direction_degrees": 216.0,
+      "Wind_Gust_m_s": 2.96,
+      "Solar_Radiation_W_m2": 0
+    },
+    "TippingBucket": {
+      "Tips": 0,
+      "Hourly_Rainfall_mm": 0.0
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-08T13:00:00Z",
+      "time_local": "2026-10-08T06:00:00"
+    },
+    "Packet": {
+      "Number": 79
+    },
+    "Analog": {
+      "Vbat": 4.0044,
+      "Vbat_MV": 4004.4
+    },
+    "LTE": {
+      "RSSI": 20
+    },
+    "WeatherStation": {
+      "Air_Temperature_C": 8.38,
+      "Relative_Humidity_%RH": 71.813,
+      "Atmospheric_Pressure_mbar": 1016.883,
+      "Wind_Speed_m_s": 2.988,
+      "Wind_Direction_degrees": 205.9,
+      "Wind_Gust_m_s": 4.645,
+      "Solar_Radiation_W_m2": 8.739
+    },
+    "TippingBucket": {
+      "Tips": 1,
+      "Hourly_Rainfall_mm": 0.2
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-08T14:00:00Z",
+      "time_local": "2026-10-08T07:00:00"
+    },
+    "Packet": {
+      "Number": 80
+    },
+    "Analog": {
+      "Vbat": 4.0042,
+      "Vbat_MV": 4004.2
+    },
+    "LTE": {
+      "RSSI": 20
+    },
+    "WeatherStation": {
+      "Air_Temperature_C": 10.11,
+      "Relative_Humidity_%RH": 70.444,
+      "Atmospheric_Pressure_mbar": 1015.558,
+      "Wind_Speed_m_s": 3.813,
+      "Wind_Direction_degrees": 187.1,
+      "Wind_Gust_m_s": 5.03,
+      "Solar_Radiation_W_m2": 166.114
+    },
+    "TippingBucket": {
+      "Tips": 3,
+      "Hourly_Rainfall_mm": 0.6
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-08T15:00:00Z",
+      "time_local": "2026-10-08T08:00:00"
+    },
+    "Packet": {
+      "Number": 81
+    },
+    "Analog": {
+      "Vbat": 4.004,
+      "Vbat_MV": 4004.0
+    },
+    "LTE": {
+      "RSSI": 20
+    },
+    "WeatherStation": {
+      "Air_Temperature_C": 12.19,
+      "Relative_Humidity_%RH": 69.646,
+      "Atmospheric_Pressure_mbar": 1015.668,
+      "Wind_Speed_m_s": 3.103,
+      "Wind_Direction_degrees": 200.6,
+      "Wind_Gust_m_s": 4.21,
+      "Solar_Radiation_W_m2": 286.307
+    },
+    "TippingBucket": {
+      "Tips": 4,
+      "Hourly_Rainfall_mm": 0.8
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-08T16:00:00Z",
+      "time_local": "2026-10-08T09:00:00"
+    },
+    "Packet": {
+      "Number": 82
+    },
+    "Analog": {
+      "Vbat": 4.0038,
+      "Vbat_MV": 4003.8
+    },
+    "LTE": {
+      "RSSI": 20
+    },
+    "WeatherStation": {
+      "Air_Temperature_C": 13.93,
+      "Relative_Humidity_%RH": 61.323,
+      "Atmospheric_Pressure_mbar": 1017.112,
+      "Wind_Speed_m_s": 1.527,
+      "Wind_Direction_degrees": 184.9,
+      "Wind_Gust_m_s": 4.26,
+      "Solar_Radiation_W_m2": 421.799
+    },
+    "TippingBucket": {
+      "Tips": 2,
+      "Hourly_Rainfall_mm": 0.4
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-08T17:00:00Z",
+      "time_local": "2026-10-08T10:00:00"
+    },
+    "Packet": {
+      "Number": 83
+    },
+    "Analog": {
+      "Vbat": 4.0036,
+      "Vbat_MV": 4003.6
+    },
+    "LTE": {
+      "RSSI": 20
+    },
+    "WeatherStation": {
+      "Air_Temperature_C": 14.95,
+      "Relative_Humidity_%RH": 61.613,
+      "Atmospheric_Pressure_mbar": 1016.478,
+      "Wind_Speed_m_s": 4.274,
+      "Wind_Direction_degrees": 211.2,
+      "Wind_Gust_m_s": 5.945,
+      "Solar_Radiation_W_m2": 502.032
+    },
+    "TippingBucket": {
+      "Tips": 0,
+      "Hourly_Rainfall_mm": 0.0
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-08T18:00:00Z",
+      "time_local": "2026-10-08T11:00:00"
+    },
+    "Packet": {
+      "Number": 84
+    },
+    "Analog": {
+      "Vbat": 4.0034,
+      "Vbat_MV": 4003.4
+    },
+    "LTE": {
+      "RSSI": 20
+    },
+    "WeatherStation": {
+      "Air_Temperature_C": 17.1,
+      "Relative_Humidity_%RH": 54.598,
+      "Atmospheric_Pressure_mbar": 1016.463,
+      "Wind_Speed_m_s": 4.004,
+      "Wind_Direction_degrees": 201.9,
+      "Wind_Gust_m_s": 5.721,
+      "Solar_Radiation_W_m2": 590.145
+    },
+    "TippingBucket": {
+      "Tips": 0,
+      "Hourly_Rainfall_mm": 0.0
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-08T19:00:00Z",
+      "time_local": "2026-10-08T12:00:00"
+    },
+    "Packet": {
+      "Number": 85
+    },
+    "Analog": {
+      "Vbat": 4.0032,
+      "Vbat_MV": 4003.2
+    },
+    "LTE": {
+      "RSSI": 20
+    },
+    "WeatherStation": {
+      "Air_Temperature_C": 18.72,
+      "Relative_Humidity_%RH": 53.656,
+      "Atmospheric_Pressure_mbar": 1015.075,
+      "Wind_Speed_m_s": 2.573,
+      "Wind_Direction_degrees": 189.2,
+      "Wind_Gust_m_s": 4.799,
+      "Solar_Radiation_W_m2": 617.756
+    },
+    "TippingBucket": {
+      "Tips": 0,
+      "Hourly_Rainfall_mm": 0.0
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-08T20:00:00Z",
+      "time_local": "2026-10-08T13:00:00"
+    },
+    "Packet": {
+      "Number": 86
+    },
+    "Analog": {
+      "Vbat": 4.003,
+      "Vbat_MV": 4003.0
+    },
+    "LTE": {
+      "RSSI": 20
+    },
+    "WeatherStation": {
+      "Air_Temperature_C": 20.13,
+      "Relative_Humidity_%RH": 54.056,
+      "Atmospheric_Pressure_mbar": 1014.929,
+      "Wind_Speed_m_s": 3.051,
+      "Wind_Direction_degrees": 208.4,
+      "Wind_Gust_m_s": 4.764,
+      "Solar_Radiation_W_m2": 556.449
+    },
+    "TippingBucket": {
+      "Tips": 0,
+      "Hourly_Rainfall_mm": 0.0
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-08T21:00:00Z",
+      "time_local": "2026-10-08T14:00:00"
+    },
+    "Packet": {
+      "Number": 87
+    },
+    "Analog": {
+      "Vbat": 4.0028,
+      "Vbat_MV": 4002.8
+    },
+    "LTE": {
+      "RSSI": 20
+    },
+    "WeatherStation": {
+      "Air_Temperature_C": 20.3,
+      "Relative_Humidity_%RH": 53.145,
+      "Atmospheric_Pressure_mbar": 1014.534,
+      "Wind_Speed_m_s": 4.384,
+      "Wind_Direction_degrees": 197.7,
+      "Wind_Gust_m_s": 5.867,
+      "Solar_Radiation_W_m2": 503.296
+    },
+    "TippingBucket": {
+      "Tips": 0,
+      "Hourly_Rainfall_mm": 0.0
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-08T22:00:00Z",
+      "time_local": "2026-10-08T15:00:00"
+    },
+    "Packet": {
+      "Number": 88
+    },
+    "Analog": {
+      "Vbat": 4.0026,
+      "Vbat_MV": 4002.6
+    },
+    "LTE": {
+      "RSSI": 20
+    },
+    "WeatherStation": {
+      "Air_Temperature_C": 20.46,
+      "Relative_Humidity_%RH": 52.248,
+      "Atmospheric_Pressure_mbar": 1015.635,
+      "Wind_Speed_m_s": 4.182,
+      "Wind_Direction_degrees": 193.7,
+      "Wind_Gust_m_s": 6.414,
+      "Solar_Radiation_W_m2": 409.86
+    },
+    "TippingBucket": {
+      "Tips": 0,
+      "Hourly_Rainfall_mm": 0.0
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-08T23:00:00Z",
+      "time_local": "2026-10-08T16:00:00"
+    },
+    "Packet": {
+      "Number": 89
+    },
+    "Analog": {
+      "Vbat": 4.0024,
+      "Vbat_MV": 4002.4
+    },
+    "LTE": {
+      "RSSI": 20
+    },
+    "WeatherStation": {
+      "Air_Temperature_C": 21.1,
+      "Relative_Humidity_%RH": 48.306,
+      "Atmospheric_Pressure_mbar": 1014.849,
+      "Wind_Speed_m_s": 3.876,
+      "Wind_Direction_degrees": 205.3,
+      "Wind_Gust_m_s": 5.997,
+      "Solar_Radiation_W_m2": 277.995
+    },
+    "TippingBucket": {
+      "Tips": 0,
+      "Hourly_Rainfall_mm": 0.0
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-09T00:00:00Z",
+      "time_local": "2026-10-08T17:00:00"
+    },
+    "Packet": {
+      "Number": 90
+    },
+    "Analog": {
+      "Vbat": 4.0022,
+      "Vbat_MV": 4002.2
+    },
+    "LTE": {
+      "RSSI": 20
+    },
+    "WeatherStation": {
+      "Air_Temperature_C": 20.4,
+      "Relative_Humidity_%RH": 49.799,
+      "Atmospheric_Pressure_mbar": 1014.75,
+      "Wind_Speed_m_s": 3.934,
+      "Wind_Direction_degrees": 194.5,
+      "Wind_Gust_m_s": 5.934,
+      "Solar_Radiation_W_m2": 134.571
+    },
+    "TippingBucket": {
+      "Tips": 0,
+      "Hourly_Rainfall_mm": 0.0
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-09T01:00:00Z",
+      "time_local": "2026-10-08T18:00:00"
+    },
+    "Packet": {
+      "Number": 91
+    },
+    "Analog": {
+      "Vbat": 4.002,
+      "Vbat_MV": 4002.0
+    },
+    "LTE": {
+      "RSSI": 20
+    },
+    "WeatherStation": {
+      "Air_Temperature_C": 18.44,
+      "Relative_Humidity_%RH": 54.36,
+      "Atmospheric_Pressure_mbar": 1014.653,
+      "Wind_Speed_m_s": 4.66,
+      "Wind_Direction_degrees": 182.5,
+      "Wind_Gust_m_s": 7.601,
+      "Solar_Radiation_W_m2": 4.19
+    },
+    "TippingBucket": {
+      "Tips": 0,
+      "Hourly_Rainfall_mm": 0.0
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-09T02:00:00Z",
+      "time_local": "2026-10-08T19:00:00"
+    },
+    "Packet": {
+      "Number": 92
+    },
+    "Analog": {
+      "Vbat": 4.0018,
+      "Vbat_MV": 4001.8
+    },
+    "LTE": {
+      "RSSI": 20
+    },
+    "WeatherStation": {
+      "Air_Temperature_C": 17.82,
+      "Relative_Humidity_%RH": 58.295,
+      "Atmospheric_Pressure_mbar": 1014.278,
+      "Wind_Speed_m_s": 3.784,
+      "Wind_Direction_degrees": 185.5,
+      "Wind_Gust_m_s": 5.221,
+      "Solar_Radiation_W_m2": 6.315
+    },
+    "TippingBucket": {
+      "Tips": 0,
+      "Hourly_Rainfall_mm": 0.0
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-09T03:00:00Z",
+      "time_local": "2026-10-08T20:00:00"
+    },
+    "Packet": {
+      "Number": 93
+    },
+    "Analog": {
+      "Vbat": 4.0016,
+      "Vbat_MV": 4001.6
+    },
+    "LTE": {
+      "RSSI": 20
+    },
+    "WeatherStation": {
+      "Air_Temperature_C": 15.2,
+      "Relative_Humidity_%RH": 56.943,
+      "Atmospheric_Pressure_mbar": 1014.947,
+      "Wind_Speed_m_s": 3.627,
+      "Wind_Direction_degrees": 181.3,
+      "Wind_Gust_m_s": 5.457,
+      "Solar_Radiation_W_m2": 22.74
+    },
+    "TippingBucket": {
+      "Tips": 0,
+      "Hourly_Rainfall_mm": 0.0
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-09T04:00:00Z",
+      "time_local": "2026-10-08T21:00:00"
+    },
+    "Packet": {
+      "Number": 94
+    },
+    "Analog": {
+      "Vbat": 4.0014,
+      "Vbat_MV": 4001.4
+    },
+    "LTE": {
+      "RSSI": 20
+    },
+    "WeatherStation": {
+      "Air_Temperature_C": 13.23,
+      "Relative_Humidity_%RH": 62.425,
+      "Atmospheric_Pressure_mbar": 1014.315,
+      "Wind_Speed_m_s": 3.626,
+      "Wind_Direction_degrees": 185.4,
+      "Wind_Gust_m_s": 4.639,
+      "Solar_Radiation_W_m2": 0
+    },
+    "TippingBucket": {
+      "Tips": 0,
+      "Hourly_Rainfall_mm": 0.0
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-09T05:00:00Z",
+      "time_local": "2026-10-08T22:00:00"
+    },
+    "Packet": {
+      "Number": 95
+    },
+    "Analog": {
+      "Vbat": 4.0012,
+      "Vbat_MV": 4001.2
+    },
+    "LTE": {
+      "RSSI": 20
+    },
+    "WeatherStation": {
+      "Air_Temperature_C": 11.51,
+      "Relative_Humidity_%RH": 66.379,
+      "Atmospheric_Pressure_mbar": 1014.088,
+      "Wind_Speed_m_s": 3.62,
+      "Wind_Direction_degrees": 210.5,
+      "Wind_Gust_m_s": 4.684,
+      "Solar_Radiation_W_m2": 19.432
+    },
+    "TippingBucket": {
+      "Tips": 0,
+      "Hourly_Rainfall_mm": 0.0
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-09T06:00:00Z",
+      "time_local": "2026-10-08T23:00:00"
+    },
+    "Packet": {
+      "Number": 96
+    },
+    "Analog": {
+      "Vbat": 4.001,
+      "Vbat_MV": 4001.0
+    },
+    "LTE": {
+      "RSSI": 20
+    },
+    "WeatherStation": {
+      "Air_Temperature_C": 10.56,
+      "Relative_Humidity_%RH": 67.756,
+      "Atmospheric_Pressure_mbar": 1013.384,
+      "Wind_Speed_m_s": 3.431,
+      "Wind_Direction_degrees": 185.1,
+      "Wind_Gust_m_s": 6.394,
+      "Solar_Radiation_W_m2": 0
+    },
+    "TippingBucket": {
+      "Tips": 0,
+      "Hourly_Rainfall_mm": 0.0
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-09T07:00:00Z",
+      "time_local": "2026-10-09T00:00:00"
+    },
+    "Packet": {
+      "Number": 97
+    },
+    "Analog": {
+      "Vbat": 4.0008,
+      "Vbat_MV": 4000.8
+    },
+    "LTE": {
+      "RSSI": 20
+    },
+    "WeatherStation": {
+      "Air_Temperature_C": 8.66,
+      "Relative_Humidity_%RH": 73.528,
+      "Atmospheric_Pressure_mbar": 1012.854,
+      "Wind_Speed_m_s": 3.14,
+      "Wind_Direction_degrees": 199.9,
+      "Wind_Gust_m_s": 4.656,
+      "Solar_Radiation_W_m2": 5.66
+    },
+    "TippingBucket": {
+      "Tips": 0,
+      "Hourly_Rainfall_mm": 0.0
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-09T08:00:00Z",
+      "time_local": "2026-10-09T01:00:00"
+    },
+    "Packet": {
+      "Number": 98
+    },
+    "Analog": {
+      "Vbat": 4.0006,
+      "Vbat_MV": 4000.6
+    },
+    "LTE": {
+      "RSSI": 20
+    },
+    "WeatherStation": {
+      "Air_Temperature_C": 7.55,
+      "Relative_Humidity_%RH": 74.573,
+      "Atmospheric_Pressure_mbar": 1012.828,
+      "Wind_Speed_m_s": 2.293,
+      "Wind_Direction_degrees": 186.2,
+      "Wind_Gust_m_s": 3.62,
+      "Solar_Radiation_W_m2": 0
+    },
+    "TippingBucket": {
+      "Tips": 0,
+      "Hourly_Rainfall_mm": 0.0
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-09T09:00:00Z",
+      "time_local": "2026-10-09T02:00:00"
+    },
+    "Packet": {
+      "Number": 99
+    },
+    "Analog": {
+      "Vbat": 4.0004,
+      "Vbat_MV": 4000.4
+    },
+    "LTE": {
+      "RSSI": 20
+    },
+    "WeatherStation": {
+      "Air_Temperature_C": 6.45,
+      "Relative_Humidity_%RH": 79.298,
+      "Atmospheric_Pressure_mbar": 1013.028,
+      "Wind_Speed_m_s": 3.309,
+      "Wind_Direction_degrees": 185.0,
+      "Wind_Gust_m_s": 4.332,
+      "Solar_Radiation_W_m2": 17.735
+    },
+    "TippingBucket": {
+      "Tips": 0,
+      "Hourly_Rainfall_mm": 0.0
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-09T10:00:00Z",
+      "time_local": "2026-10-09T03:00:00"
+    },
+    "Packet": {
+      "Number": 100
+    },
+    "Analog": {
+      "Vbat": 4.0002,
+      "Vbat_MV": 4000.2
+    },
+    "LTE": {
+      "RSSI": 20
+    },
+    "WeatherStation": {
+      "Air_Temperature_C": 7.15,
+      "Relative_Humidity_%RH": 73.971,
+      "Atmospheric_Pressure_mbar": 1013.994,
+      "Wind_Speed_m_s": 3.53,
+      "Wind_Direction_degrees": 203.3,
+      "Wind_Gust_m_s": 4.11,
+      "Solar_Radiation_W_m2": 6.027
+    },
+    "TippingBucket": {
+      "Tips": 0,
+      "Hourly_Rainfall_mm": 0.0
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-09T11:00:00Z",
+      "time_local": "2026-10-09T04:00:00"
+    },
+    "Packet": {
+      "Number": 101
+    },
+    "Analog": {
+      "Vbat": 4.0,
+      "Vbat_MV": 4000.0
+    },
+    "LTE": {
+      "RSSI": 20
+    },
+    "WeatherStation": {
+      "Air_Temperature_C": 7.12,
+      "Relative_Humidity_%RH": 79.213,
+      "Atmospheric_Pressure_mbar": 1013.624,
+      "Wind_Speed_m_s": 3.636,
+      "Wind_Direction_degrees": 204.2,
+      "Wind_Gust_m_s": 5.523,
+      "Solar_Radiation_W_m2": 0
+    },
+    "TippingBucket": {
+      "Tips": 0,
+      "Hourly_Rainfall_mm": 0.0
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-09T12:00:00Z",
+      "time_local": "2026-10-09T05:00:00"
+    },
+    "Packet": {
+      "Number": 102
+    },
+    "Analog": {
+      "Vbat": 3.9998,
+      "Vbat_MV": 3999.8
+    },
+    "LTE": {
+      "RSSI": 20
+    },
+    "WeatherStation": {
+      "Air_Temperature_C": 7.85,
+      "Relative_Humidity_%RH": 74.144,
+      "Atmospheric_Pressure_mbar": 1012.992,
+      "Wind_Speed_m_s": 3.31,
+      "Wind_Direction_degrees": 200.0,
+      "Wind_Gust_m_s": 5.344,
+      "Solar_Radiation_W_m2": 14.499
+    },
+    "TippingBucket": {
+      "Tips": 0,
+      "Hourly_Rainfall_mm": 0.0
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-09T13:00:00Z",
+      "time_local": "2026-10-09T06:00:00"
+    },
+    "Packet": {
+      "Number": 103
+    },
+    "Analog": {
+      "Vbat": 3.9996,
+      "Vbat_MV": 3999.6
+    },
+    "LTE": {
+      "RSSI": 20
+    },
+    "WeatherStation": {
+      "Air_Temperature_C": 8.17,
+      "Relative_Humidity_%RH": 75.827,
+      "Atmospheric_Pressure_mbar": 1013.712,
+      "Wind_Speed_m_s": 2.351,
+      "Wind_Direction_degrees": 192.0,
+      "Wind_Gust_m_s": 5.064,
+      "Solar_Radiation_W_m2": 10.393
+    },
+    "TippingBucket": {
+      "Tips": 0,
+      "Hourly_Rainfall_mm": 0.0
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-09T14:00:00Z",
+      "time_local": "2026-10-09T07:00:00"
+    },
+    "Packet": {
+      "Number": 104
+    },
+    "Analog": {
+      "Vbat": 3.9994,
+      "Vbat_MV": 3999.4
+    },
+    "LTE": {
+      "RSSI": 20
+    },
+    "WeatherStation": {
+      "Air_Temperature_C": 9.76,
+      "Relative_Humidity_%RH": 68.653,
+      "Atmospheric_Pressure_mbar": 1012.483,
+      "Wind_Speed_m_s": 3.315,
+      "Wind_Direction_degrees": 212.7,
+      "Wind_Gust_m_s": 5.739,
+      "Solar_Radiation_W_m2": 167.643
+    },
+    "TippingBucket": {
+      "Tips": 0,
+      "Hourly_Rainfall_mm": 0.0
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-09T15:00:00Z",
+      "time_local": "2026-10-09T08:00:00"
+    },
+    "Packet": {
+      "Number": 105
+    },
+    "Analog": {
+      "Vbat": 3.9992,
+      "Vbat_MV": 3999.2
+    },
+    "LTE": {
+      "RSSI": 20
+    },
+    "WeatherStation": {
+      "Air_Temperature_C": 12.3,
+      "Relative_Humidity_%RH": 65.031,
+      "Atmospheric_Pressure_mbar": 1012.037,
+      "Wind_Speed_m_s": 2.021,
+      "Wind_Direction_degrees": 214.0,
+      "Wind_Gust_m_s": 4.109,
+      "Solar_Radiation_W_m2": 293.433
+    },
+    "TippingBucket": {
+      "Tips": 0,
+      "Hourly_Rainfall_mm": 0.0
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-09T16:00:00Z",
+      "time_local": "2026-10-09T09:00:00"
+    },
+    "Packet": {
+      "Number": 106
+    },
+    "Analog": {
+      "Vbat": 3.999,
+      "Vbat_MV": 3999.0
+    },
+    "LTE": {
+      "RSSI": 20
+    },
+    "WeatherStation": {
+      "Air_Temperature_C": 13.63,
+      "Relative_Humidity_%RH": 59.927,
+      "Atmospheric_Pressure_mbar": 1012.777,
+      "Wind_Speed_m_s": 2.379,
+      "Wind_Direction_degrees": 207.7,
+      "Wind_Gust_m_s": 5.128,
+      "Solar_Radiation_W_m2": 400.882
+    },
+    "TippingBucket": {
+      "Tips": 0,
+      "Hourly_Rainfall_mm": 0.0
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-09T17:00:00Z",
+      "time_local": "2026-10-09T10:00:00"
+    },
+    "Packet": {
+      "Number": 107
+    },
+    "Analog": {
+      "Vbat": 3.9988,
+      "Vbat_MV": 3998.8
+    },
+    "LTE": {
+      "RSSI": 20
+    },
+    "WeatherStation": {
+      "Air_Temperature_C": 15.37,
+      "Relative_Humidity_%RH": 61.691,
+      "Atmospheric_Pressure_mbar": 1011.598,
+      "Wind_Speed_m_s": 2.76,
+      "Wind_Direction_degrees": 209.5,
+      "Wind_Gust_m_s": 4.229,
+      "Solar_Radiation_W_m2": 496.386
+    },
+    "TippingBucket": {
+      "Tips": 0,
+      "Hourly_Rainfall_mm": 0.0
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-09T18:00:00Z",
+      "time_local": "2026-10-09T11:00:00"
+    },
+    "Packet": {
+      "Number": 108
+    },
+    "Analog": {
+      "Vbat": 3.9986,
+      "Vbat_MV": 3998.6
+    },
+    "LTE": {
+      "RSSI": 20
+    },
+    "WeatherStation": {
+      "Air_Temperature_C": 16.77,
+      "Relative_Humidity_%RH": 56.209,
+      "Atmospheric_Pressure_mbar": 1011.597,
+      "Wind_Speed_m_s": 3.084,
+      "Wind_Direction_degrees": 201.7,
+      "Wind_Gust_m_s": 4.906,
+      "Solar_Radiation_W_m2": 560.214
+    },
+    "TippingBucket": {
+      "Tips": 0,
+      "Hourly_Rainfall_mm": 0.0
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-09T19:00:00Z",
+      "time_local": "2026-10-09T12:00:00"
+    },
+    "Packet": {
+      "Number": 109
+    },
+    "Analog": {
+      "Vbat": 3.9984,
+      "Vbat_MV": 3998.4
+    },
+    "LTE": {
+      "RSSI": 20
+    },
+    "WeatherStation": {
+      "Air_Temperature_C": 18.67,
+      "Relative_Humidity_%RH": 51.015,
+      "Atmospheric_Pressure_mbar": 1011.962,
+      "Wind_Speed_m_s": 4.382,
+      "Wind_Direction_degrees": 211.1,
+      "Wind_Gust_m_s": 6.845,
+      "Solar_Radiation_W_m2": 612.797
+    },
+    "TippingBucket": {
+      "Tips": 0,
+      "Hourly_Rainfall_mm": 0.0
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-09T20:00:00Z",
+      "time_local": "2026-10-09T13:00:00"
+    },
+    "Packet": {
+      "Number": 110
+    },
+    "Analog": {
+      "Vbat": 3.9982,
+      "Vbat_MV": 3998.2
+    },
+    "LTE": {
+      "RSSI": 20
+    },
+    "WeatherStation": {
+      "Air_Temperature_C": 20.23,
+      "Relative_Humidity_%RH": 54.942,
+      "Atmospheric_Pressure_mbar": 1010.779,
+      "Wind_Speed_m_s": 2.595,
+      "Wind_Direction_degrees": 208.7,
+      "Wind_Gust_m_s": 4.262,
+      "Solar_Radiation_W_m2": 577.867
+    },
+    "TippingBucket": {
+      "Tips": 0,
+      "Hourly_Rainfall_mm": 0.0
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-09T21:00:00Z",
+      "time_local": "2026-10-09T14:00:00"
+    },
+    "Packet": {
+      "Number": 111
+    },
+    "Analog": {
+      "Vbat": 3.998,
+      "Vbat_MV": 3998.0
+    },
+    "LTE": {
+      "RSSI": 20
+    },
+    "WeatherStation": {
+      "Air_Temperature_C": 20.25,
+      "Relative_Humidity_%RH": 51.348,
+      "Atmospheric_Pressure_mbar": 1011.876,
+      "Wind_Speed_m_s": 3.506,
+      "Wind_Direction_degrees": 204.0,
+      "Wind_Gust_m_s": 4.722,
+      "Solar_Radiation_W_m2": 513.921
+    },
+    "TippingBucket": {
+      "Tips": 0,
+      "Hourly_Rainfall_mm": 0.0
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-09T22:00:00Z",
+      "time_local": "2026-10-09T15:00:00"
+    },
+    "Packet": {
+      "Number": 112
+    },
+    "Analog": {
+      "Vbat": 3.9978,
+      "Vbat_MV": 3997.8
+    },
+    "LTE": {
+      "RSSI": 20
+    },
+    "WeatherStation": {
+      "Air_Temperature_C": 20.95,
+      "Relative_Humidity_%RH": 51.102,
+      "Atmospheric_Pressure_mbar": 1010.952,
+      "Wind_Speed_m_s": 3.295,
+      "Wind_Direction_degrees": 222.6,
+      "Wind_Gust_m_s": 4.182,
+      "Solar_Radiation_W_m2": 413.267
+    },
+    "TippingBucket": {
+      "Tips": 0,
+      "Hourly_Rainfall_mm": 0.0
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-09T23:00:00Z",
+      "time_local": "2026-10-09T16:00:00"
+    },
+    "Packet": {
+      "Number": 113
+    },
+    "Analog": {
+      "Vbat": 3.9976,
+      "Vbat_MV": 3997.6
+    },
+    "LTE": {
+      "RSSI": 20
+    },
+    "WeatherStation": {
+      "Air_Temperature_C": 20.38,
+      "Relative_Humidity_%RH": 52.807,
+      "Atmospheric_Pressure_mbar": 1010.661,
+      "Wind_Speed_m_s": 3.006,
+      "Wind_Direction_degrees": 229.1,
+      "Wind_Gust_m_s": 3.51,
+      "Solar_Radiation_W_m2": 279.078
+    },
+    "TippingBucket": {
+      "Tips": 0,
+      "Hourly_Rainfall_mm": 0.0
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-10T00:00:00Z",
+      "time_local": "2026-10-09T17:00:00"
+    },
+    "Packet": {
+      "Number": 114
+    },
+    "Analog": {
+      "Vbat": 3.9974,
+      "Vbat_MV": 3997.4
+    },
+    "LTE": {
+      "RSSI": 20
+    },
+    "WeatherStation": {
+      "Air_Temperature_C": 20.03,
+      "Relative_Humidity_%RH": 53.02,
+      "Atmospheric_Pressure_mbar": 1011.817,
+      "Wind_Speed_m_s": 3.021,
+      "Wind_Direction_degrees": 222.3,
+      "Wind_Gust_m_s": 5.345,
+      "Solar_Radiation_W_m2": 147.666
+    },
+    "TippingBucket": {
+      "Tips": 0,
+      "Hourly_Rainfall_mm": 0.0
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-10T01:00:00Z",
+      "time_local": "2026-10-09T18:00:00"
+    },
+    "Packet": {
+      "Number": 115
+    },
+    "Analog": {
+      "Vbat": 3.9972,
+      "Vbat_MV": 3997.2
+    },
+    "LTE": {
+      "RSSI": 20
+    },
+    "WeatherStation": {
+      "Air_Temperature_C": 18.13,
+      "Relative_Humidity_%RH": 51.827,
+      "Atmospheric_Pressure_mbar": 1011.151,
+      "Wind_Speed_m_s": 4.61,
+      "Wind_Direction_degrees": 215.0,
+      "Wind_Gust_m_s": 6.398,
+      "Solar_Radiation_W_m2": 9.763
+    },
+    "TippingBucket": {
+      "Tips": 0,
+      "Hourly_Rainfall_mm": 0.0
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-10T02:00:00Z",
+      "time_local": "2026-10-09T19:00:00"
+    },
+    "Packet": {
+      "Number": 116
+    },
+    "Analog": {
+      "Vbat": 3.997,
+      "Vbat_MV": 3997.0
+    },
+    "LTE": {
+      "RSSI": 20
+    },
+    "WeatherStation": {
+      "Air_Temperature_C": 16.8,
+      "Relative_Humidity_%RH": 58.387,
+      "Atmospheric_Pressure_mbar": 1010.124,
+      "Wind_Speed_m_s": 4.103,
+      "Wind_Direction_degrees": 222.1,
+      "Wind_Gust_m_s": 5.018,
+      "Solar_Radiation_W_m2": 0
+    },
+    "TippingBucket": {
+      "Tips": 0,
+      "Hourly_Rainfall_mm": 0.0
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-10T03:00:00Z",
+      "time_local": "2026-10-09T20:00:00"
+    },
+    "Packet": {
+      "Number": 117
+    },
+    "Analog": {
+      "Vbat": 3.9968,
+      "Vbat_MV": 3996.8
+    },
+    "LTE": {
+      "RSSI": 20
+    },
+    "WeatherStation": {
+      "Air_Temperature_C": 15.61,
+      "Relative_Humidity_%RH": 62.226,
+      "Atmospheric_Pressure_mbar": 1011.42,
+      "Wind_Speed_m_s": 3.797,
+      "Wind_Direction_degrees": 237.0,
+      "Wind_Gust_m_s": 5.842,
+      "Solar_Radiation_W_m2": 0
+    },
+    "TippingBucket": {
+      "Tips": 0,
+      "Hourly_Rainfall_mm": 0.0
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-10T04:00:00Z",
+      "time_local": "2026-10-09T21:00:00"
+    },
+    "Packet": {
+      "Number": 118
+    },
+    "Analog": {
+      "Vbat": 3.9966,
+      "Vbat_MV": 3996.6
+    },
+    "LTE": {
+      "RSSI": 20
+    },
+    "WeatherStation": {
+      "Air_Temperature_C": 13.04,
+      "Relative_Humidity_%RH": 66.201,
+      "Atmospheric_Pressure_mbar": 1011.503,
+      "Wind_Speed_m_s": 3.062,
+      "Wind_Direction_degrees": 229.7,
+      "Wind_Gust_m_s": 5.058,
+      "Solar_Radiation_W_m2": 8.215
+    },
+    "TippingBucket": {
+      "Tips": 0,
+      "Hourly_Rainfall_mm": 0.0
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-10T05:00:00Z",
+      "time_local": "2026-10-09T22:00:00"
+    },
+    "Packet": {
+      "Number": 119
+    },
+    "Analog": {
+      "Vbat": 3.9964,
+      "Vbat_MV": 3996.4
+    },
+    "LTE": {
+      "RSSI": 20
+    },
+    "WeatherStation": {
+      "Air_Temperature_C": 12.19,
+      "Relative_Humidity_%RH": 65.151,
+      "Atmospheric_Pressure_mbar": 1009.858,
+      "Wind_Speed_m_s": 2.605,
+      "Wind_Direction_degrees": 231.5,
+      "Wind_Gust_m_s": 3.692,
+      "Solar_Radiation_W_m2": 0
+    },
+    "TippingBucket": {
+      "Tips": 0,
+      "Hourly_Rainfall_mm": 0.0
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-10T06:00:00Z",
+      "time_local": "2026-10-09T23:00:00"
+    },
+    "Packet": {
+      "Number": 120
+    },
+    "Analog": {
+      "Vbat": 3.9962,
+      "Vbat_MV": 3996.2
+    },
+    "LTE": {
+      "RSSI": 20
+    },
+    "WeatherStation": {
+      "Air_Temperature_C": 10.49,
+      "Relative_Humidity_%RH": 69.404,
+      "Atmospheric_Pressure_mbar": 1009.933,
+      "Wind_Speed_m_s": 2.3,
+      "Wind_Direction_degrees": 250.7,
+      "Wind_Gust_m_s": 3.854,
+      "Solar_Radiation_W_m2": 15.092
+    },
+    "TippingBucket": {
+      "Tips": 0,
+      "Hourly_Rainfall_mm": 0.0
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-10T07:00:00Z",
+      "time_local": "2026-10-10T00:00:00"
+    },
+    "Packet": {
+      "Number": 121
+    },
+    "Analog": {
+      "Vbat": 3.996,
+      "Vbat_MV": 3996.0
+    },
+    "LTE": {
+      "RSSI": 20
+    },
+    "WeatherStation": {
+      "Air_Temperature_C": 8.6,
+      "Relative_Humidity_%RH": 71.064,
+      "Atmospheric_Pressure_mbar": 1010.244,
+      "Wind_Speed_m_s": 3.809,
+      "Wind_Direction_degrees": 240.8,
+      "Wind_Gust_m_s": 5.313,
+      "Solar_Radiation_W_m2": 0
+    },
+    "TippingBucket": {
+      "Tips": 0,
+      "Hourly_Rainfall_mm": 0.0
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-10T08:00:00Z",
+      "time_local": "2026-10-10T01:00:00"
+    },
+    "Packet": {
+      "Number": 122
+    },
+    "Analog": {
+      "Vbat": 3.9958,
+      "Vbat_MV": 3995.8
+    },
+    "LTE": {
+      "RSSI": 20
+    },
+    "WeatherStation": {
+      "Air_Temperature_C": 7.22,
+      "Relative_Humidity_%RH": 74.47,
+      "Atmospheric_Pressure_mbar": 1009.292,
+      "Wind_Speed_m_s": 2.653,
+      "Wind_Direction_degrees": 258.6,
+      "Wind_Gust_m_s": 5.347,
+      "Solar_Radiation_W_m2": 24.326
+    },
+    "TippingBucket": {
+      "Tips": 0,
+      "Hourly_Rainfall_mm": 0.0
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-10T09:00:00Z",
+      "time_local": "2026-10-10T02:00:00"
+    },
+    "Packet": {
+      "Number": 123
+    },
+    "Analog": {
+      "Vbat": 3.9956,
+      "Vbat_MV": 3995.6
+    },
+    "LTE": {
+      "RSSI": 20
+    },
+    "WeatherStation": {
+      "Air_Temperature_C": 6.51,
+      "Relative_Humidity_%RH": 73.646,
+      "Atmospheric_Pressure_mbar": 1010.725,
+      "Wind_Speed_m_s": 2.0,
+      "Wind_Direction_degrees": 254.4,
+      "Wind_Gust_m_s": 3.833,
+      "Solar_Radiation_W_m2": 0
+    },
+    "TippingBucket": {
+      "Tips": 0,
+      "Hourly_Rainfall_mm": 0.0
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-10T10:00:00Z",
+      "time_local": "2026-10-10T03:00:00"
+    },
+    "Packet": {
+      "Number": 124
+    },
+    "Analog": {
+      "Vbat": 3.9954,
+      "Vbat_MV": 3995.4
+    },
+    "LTE": {
+      "RSSI": 20
+    },
+    "WeatherStation": {
+      "Air_Temperature_C": 6.39,
+      "Relative_Humidity_%RH": 75.031,
+      "Atmospheric_Pressure_mbar": 1009.811,
+      "Wind_Speed_m_s": 1.773,
+      "Wind_Direction_degrees": 256.4,
+      "Wind_Gust_m_s": 4.42,
+      "Solar_Radiation_W_m2": 0
+    },
+    "TippingBucket": {
+      "Tips": 0,
+      "Hourly_Rainfall_mm": 0.0
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-10T11:00:00Z",
+      "time_local": "2026-10-10T04:00:00"
+    },
+    "Packet": {
+      "Number": 125
+    },
+    "Analog": {
+      "Vbat": 3.9952,
+      "Vbat_MV": 3995.2
+    },
+    "LTE": {
+      "RSSI": 20
+    },
+    "WeatherStation": {
+      "Air_Temperature_C": 6.44,
+      "Relative_Humidity_%RH": 73.408,
+      "Atmospheric_Pressure_mbar": 1009.579,
+      "Wind_Speed_m_s": 2.59,
+      "Wind_Direction_degrees": 244.7,
+      "Wind_Gust_m_s": 4.453,
+      "Solar_Radiation_W_m2": 0
+    },
+    "TippingBucket": {
+      "Tips": 0,
+      "Hourly_Rainfall_mm": 0.0
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-10T12:00:00Z",
+      "time_local": "2026-10-10T05:00:00"
+    },
+    "Packet": {
+      "Number": 126
+    },
+    "Analog": {
+      "Vbat": 3.995,
+      "Vbat_MV": 3995.0
+    },
+    "LTE": {
+      "RSSI": 20
+    },
+    "WeatherStation": {
+      "Air_Temperature_C": 6.73,
+      "Relative_Humidity_%RH": 73.368,
+      "Atmospheric_Pressure_mbar": 1010.282,
+      "Wind_Speed_m_s": 2.921,
+      "Wind_Direction_degrees": 254.6,
+      "Wind_Gust_m_s": 5.144,
+      "Solar_Radiation_W_m2": 16.32
+    },
+    "TippingBucket": {
+      "Tips": 0,
+      "Hourly_Rainfall_mm": 0.0
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-10T13:00:00Z",
+      "time_local": "2026-10-10T06:00:00"
+    },
+    "Packet": {
+      "Number": 127
+    },
+    "Analog": {
+      "Vbat": 3.9948,
+      "Vbat_MV": 3994.8
+    },
+    "LTE": {
+      "RSSI": 20
+    },
+    "WeatherStation": {
+      "Air_Temperature_C": 8.96,
+      "Relative_Humidity_%RH": 71.072,
+      "Atmospheric_Pressure_mbar": 1010.602,
+      "Wind_Speed_m_s": 3.86,
+      "Wind_Direction_degrees": 264.4,
+      "Wind_Gust_m_s": 6.397,
+      "Solar_Radiation_W_m2": 15.452
+    },
+    "TippingBucket": {
+      "Tips": 0,
+      "Hourly_Rainfall_mm": 0.0
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-10T14:00:00Z",
+      "time_local": "2026-10-10T07:00:00"
+    },
+    "Packet": {
+      "Number": 128
+    },
+    "Analog": {
+      "Vbat": 3.9946,
+      "Vbat_MV": 3994.6
+    },
+    "LTE": {
+      "RSSI": 20
+    },
+    "WeatherStation": {
+      "Air_Temperature_C": 9.95,
+      "Relative_Humidity_%RH": 67.485,
+      "Atmospheric_Pressure_mbar": 1009.784,
+      "Wind_Speed_m_s": 3.329,
+      "Wind_Direction_degrees": 251.2,
+      "Wind_Gust_m_s": 4.473,
+      "Solar_Radiation_W_m2": 167.274
+    },
+    "TippingBucket": {
+      "Tips": 0,
+      "Hourly_Rainfall_mm": 0.0
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-10T15:00:00Z",
+      "time_local": "2026-10-10T08:00:00"
+    },
+    "Packet": {
+      "Number": 129
+    },
+    "Analog": {
+      "Vbat": 3.9944,
+      "Vbat_MV": 3994.4
+    },
+    "LTE": {
+      "RSSI": 20
+    },
+    "WeatherStation": {
+      "Air_Temperature_C": 11.69,
+      "Relative_Humidity_%RH": 63.786,
+      "Atmospheric_Pressure_mbar": 1009.842,
+      "Wind_Speed_m_s": 2.351,
+      "Wind_Direction_degrees": 256.1,
+      "Wind_Gust_m_s": 3.292,
+      "Solar_Radiation_W_m2": 300.44
+    },
+    "TippingBucket": {
+      "Tips": 0,
+      "Hourly_Rainfall_mm": 0.0
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-10T16:00:00Z",
+      "time_local": "2026-10-10T09:00:00"
+    },
+    "Packet": {
+      "Number": 130
+    },
+    "Analog": {
+      "Vbat": 3.9942,
+      "Vbat_MV": 3994.2
+    },
+    "LTE": {
+      "RSSI": 20
+    },
+    "WeatherStation": {
+      "Air_Temperature_C": 13.11,
+      "Relative_Humidity_%RH": 62.322,
+      "Atmospheric_Pressure_mbar": 1008.734,
+      "Wind_Speed_m_s": 3.094,
+      "Wind_Direction_degrees": 273.5,
+      "Wind_Gust_m_s": 3.791,
+      "Solar_Radiation_W_m2": 420.791
+    },
+    "TippingBucket": {
+      "Tips": 0,
+      "Hourly_Rainfall_mm": 0.0
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-10T17:00:00Z",
+      "time_local": "2026-10-10T10:00:00"
+    },
+    "Packet": {
+      "Number": 131
+    },
+    "Analog": {
+      "Vbat": 3.994,
+      "Vbat_MV": 3994.0
+    },
+    "LTE": {
+      "RSSI": 20
+    },
+    "WeatherStation": {
+      "Air_Temperature_C": 14.9,
+      "Relative_Humidity_%RH": 57.923,
+      "Atmospheric_Pressure_mbar": 1008.905,
+      "Wind_Speed_m_s": 3.637,
+      "Wind_Direction_degrees": 249.6,
+      "Wind_Gust_m_s": 5.699,
+      "Solar_Radiation_W_m2": 501.93
+    },
+    "TippingBucket": {
+      "Tips": 0,
+      "Hourly_Rainfall_mm": 0.0
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-10T18:00:00Z",
+      "time_local": "2026-10-10T11:00:00"
+    },
+    "Packet": {
+      "Number": 132
+    },
+    "Analog": {
+      "Vbat": 3.9938,
+      "Vbat_MV": 3993.8
+    },
+    "LTE": {
+      "RSSI": 20
+    },
+    "WeatherStation": {
+      "Air_Temperature_C": 17.33,
+      "Relative_Humidity_%RH": 54.085,
+      "Atmospheric_Pressure_mbar": 1008.824,
+      "Wind_Speed_m_s": 2.769,
+      "Wind_Direction_degrees": 272.4,
+      "Wind_Gust_m_s": 5.177,
+      "Solar_Radiation_W_m2": 589.724
+    },
+    "TippingBucket": {
+      "Tips": 0,
+      "Hourly_Rainfall_mm": 0.0
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-10T19:00:00Z",
+      "time_local": "2026-10-10T12:00:00"
+    },
+    "Packet": {
+      "Number": 133
+    },
+    "Analog": {
+      "Vbat": 3.9936,
+      "Vbat_MV": 3993.6
+    },
+    "LTE": {
+      "RSSI": 20
+    },
+    "WeatherStation": {
+      "Air_Temperature_C": 17.91,
+      "Relative_Humidity_%RH": 54.786,
+      "Atmospheric_Pressure_mbar": 1009.402,
+      "Wind_Speed_m_s": 2.978,
+      "Wind_Direction_degrees": 273.7,
+      "Wind_Gust_m_s": 5.332,
+      "Solar_Radiation_W_m2": 601.922
+    },
+    "TippingBucket": {
+      "Tips": 0,
+      "Hourly_Rainfall_mm": 0.0
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-10T20:00:00Z",
+      "time_local": "2026-10-10T13:00:00"
+    },
+    "Packet": {
+      "Number": 134
+    },
+    "Analog": {
+      "Vbat": 3.9934,
+      "Vbat_MV": 3993.4
+    },
+    "LTE": {
+      "RSSI": 20
+    },
+    "WeatherStation": {
+      "Air_Temperature_C": 19.78,
+      "Relative_Humidity_%RH": 49.584,
+      "Atmospheric_Pressure_mbar": 1008.519,
+      "Wind_Speed_m_s": 4.707,
+      "Wind_Direction_degrees": 256.6,
+      "Wind_Gust_m_s": 5.309,
+      "Solar_Radiation_W_m2": 602.247
+    },
+    "TippingBucket": {
+      "Tips": 0,
+      "Hourly_Rainfall_mm": 0.0
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-10T21:00:00Z",
+      "time_local": "2026-10-10T14:00:00"
+    },
+    "Packet": {
+      "Number": 135
+    },
+    "Analog": {
+      "Vbat": 3.9932,
+      "Vbat_MV": 3993.2
+    },
+    "LTE": {
+      "RSSI": 20
+    },
+    "WeatherStation": {
+      "Air_Temperature_C": 19.91,
+      "Relative_Humidity_%RH": 50.966,
+      "Atmospheric_Pressure_mbar": 1009.295,
+      "Wind_Speed_m_s": 3.648,
+      "Wind_Direction_degrees": 283.4,
+      "Wind_Gust_m_s": 6.374,
+      "Solar_Radiation_W_m2": 538.687
+    },
+    "TippingBucket": {
+      "Tips": 0,
+      "Hourly_Rainfall_mm": 0.0
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-10T22:00:00Z",
+      "time_local": "2026-10-10T15:00:00"
+    },
+    "Packet": {
+      "Number": 136
+    },
+    "Analog": {
+      "Vbat": 3.993,
+      "Vbat_MV": 3993.0
+    },
+    "LTE": {
+      "RSSI": 20
+    },
+    "WeatherStation": {
+      "Air_Temperature_C": 20.32,
+      "Relative_Humidity_%RH": 53.473,
+      "Atmospheric_Pressure_mbar": 1008.967,
+      "Wind_Speed_m_s": 2.851,
+      "Wind_Direction_degrees": 283.6,
+      "Wind_Gust_m_s": 5.159,
+      "Solar_Radiation_W_m2": 444.051
+    },
+    "TippingBucket": {
+      "Tips": 6,
+      "Hourly_Rainfall_mm": 1.2
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-10T23:00:00Z",
+      "time_local": "2026-10-10T16:00:00"
+    },
+    "Packet": {
+      "Number": 137
+    },
+    "Analog": {
+      "Vbat": 3.9928,
+      "Vbat_MV": 3992.8
+    },
+    "LTE": {
+      "RSSI": 20
+    },
+    "WeatherStation": {
+      "Air_Temperature_C": 20.43,
+      "Relative_Humidity_%RH": 52.972,
+      "Atmospheric_Pressure_mbar": 1008.173,
+      "Wind_Speed_m_s": 4.326,
+      "Wind_Direction_degrees": 261.0,
+      "Wind_Gust_m_s": 6.059,
+      "Solar_Radiation_W_m2": 306.75
+    },
+    "TippingBucket": {
+      "Tips": 5,
+      "Hourly_Rainfall_mm": 1.0
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-11T00:00:00Z",
+      "time_local": "2026-10-10T17:00:00"
+    },
+    "Packet": {
+      "Number": 138
+    },
+    "Analog": {
+      "Vbat": 3.9926,
+      "Vbat_MV": 3992.6
+    },
+    "LTE": {
+      "RSSI": 20
+    },
+    "WeatherStation": {
+      "Air_Temperature_C": 19.54,
+      "Relative_Humidity_%RH": 51.38,
+      "Atmospheric_Pressure_mbar": 1009.074,
+      "Wind_Speed_m_s": 3.907,
+      "Wind_Direction_degrees": 265.1,
+      "Wind_Gust_m_s": 5.172,
+      "Solar_Radiation_W_m2": 133.96
+    },
+    "TippingBucket": {
+      "Tips": 2,
+      "Hourly_Rainfall_mm": 0.4
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-11T01:00:00Z",
+      "time_local": "2026-10-10T18:00:00"
+    },
+    "Packet": {
+      "Number": 139
+    },
+    "Analog": {
+      "Vbat": 3.9924,
+      "Vbat_MV": 3992.4
+    },
+    "LTE": {
+      "RSSI": 20
+    },
+    "WeatherStation": {
+      "Air_Temperature_C": 18.6,
+      "Relative_Humidity_%RH": 52.077,
+      "Atmospheric_Pressure_mbar": 1008.739,
+      "Wind_Speed_m_s": 4.062,
+      "Wind_Direction_degrees": 270.3,
+      "Wind_Gust_m_s": 6.892,
+      "Solar_Radiation_W_m2": 9.891
+    },
+    "TippingBucket": {
+      "Tips": 0,
+      "Hourly_Rainfall_mm": 0.0
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-11T02:00:00Z",
+      "time_local": "2026-10-10T19:00:00"
+    },
+    "Packet": {
+      "Number": 140
+    },
+    "Analog": {
+      "Vbat": 3.9922,
+      "Vbat_MV": 3992.2
+    },
+    "LTE": {
+      "RSSI": 20
+    },
+    "WeatherStation": {
+      "Air_Temperature_C": 16.66,
+      "Relative_Humidity_%RH": 56.328,
+      "Atmospheric_Pressure_mbar": 1009.916,
+      "Wind_Speed_m_s": 2.601,
+      "Wind_Direction_degrees": 275.9,
+      "Wind_Gust_m_s": 5.021,
+      "Solar_Radiation_W_m2": 17.389
+    },
+    "TippingBucket": {
+      "Tips": 0,
+      "Hourly_Rainfall_mm": 0.0
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-11T03:00:00Z",
+      "time_local": "2026-10-10T20:00:00"
+    },
+    "Packet": {
+      "Number": 141
+    },
+    "Analog": {
+      "Vbat": 3.992,
+      "Vbat_MV": 3992.0
+    },
+    "LTE": {
+      "RSSI": 20
+    },
+    "WeatherStation": {
+      "Air_Temperature_C": 15.29,
+      "Relative_Humidity_%RH": 59.763,
+      "Atmospheric_Pressure_mbar": 1008.1,
+      "Wind_Speed_m_s": 3.508,
+      "Wind_Direction_degrees": 288.6,
+      "Wind_Gust_m_s": 6.107,
+      "Solar_Radiation_W_m2": 15.791
+    },
+    "TippingBucket": {
+      "Tips": 0,
+      "Hourly_Rainfall_mm": 0.0
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-11T04:00:00Z",
+      "time_local": "2026-10-10T21:00:00"
+    },
+    "Packet": {
+      "Number": 142
+    },
+    "Analog": {
+      "Vbat": 3.9918,
+      "Vbat_MV": 3991.8
+    },
+    "LTE": {
+      "RSSI": 20
+    },
+    "WeatherStation": {
+      "Air_Temperature_C": 13.52,
+      "Relative_Humidity_%RH": 60.753,
+      "Atmospheric_Pressure_mbar": 1008.437,
+      "Wind_Speed_m_s": 1.723,
+      "Wind_Direction_degrees": 293.0,
+      "Wind_Gust_m_s": 2.437,
+      "Solar_Radiation_W_m2": 0
+    },
+    "TippingBucket": {
+      "Tips": 0,
+      "Hourly_Rainfall_mm": 0.0
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-11T05:00:00Z",
+      "time_local": "2026-10-10T22:00:00"
+    },
+    "Packet": {
+      "Number": 143
+    },
+    "Analog": {
+      "Vbat": 3.9916,
+      "Vbat_MV": 3991.6
+    },
+    "LTE": {
+      "RSSI": 20
+    },
+    "WeatherStation": {
+      "Air_Temperature_C": 11.36,
+      "Relative_Humidity_%RH": 69.702,
+      "Atmospheric_Pressure_mbar": 1009.824,
+      "Wind_Speed_m_s": 2.13,
+      "Wind_Direction_degrees": 295.6,
+      "Wind_Gust_m_s": 2.765,
+      "Solar_Radiation_W_m2": 13.224
+    },
+    "TippingBucket": {
+      "Tips": 0,
+      "Hourly_Rainfall_mm": 0.0
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-11T06:00:00Z",
+      "time_local": "2026-10-10T23:00:00"
+    },
+    "Packet": {
+      "Number": 144
+    },
+    "Analog": {
+      "Vbat": 3.9914,
+      "Vbat_MV": 3991.4
+    },
+    "LTE": {
+      "RSSI": 20
+    },
+    "WeatherStation": {
+      "Air_Temperature_C": 9.31,
+      "Relative_Humidity_%RH": 73.484,
+      "Atmospheric_Pressure_mbar": 1009.562,
+      "Wind_Speed_m_s": 2.086,
+      "Wind_Direction_degrees": 279.7,
+      "Wind_Gust_m_s": 2.949,
+      "Solar_Radiation_W_m2": 20.702
+    },
+    "TippingBucket": {
+      "Tips": 0,
+      "Hourly_Rainfall_mm": 0.0
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-11T07:00:00Z",
+      "time_local": "2026-10-11T00:00:00"
+    },
+    "Packet": {
+      "Number": 145
+    },
+    "Analog": {
+      "Vbat": 3.9912,
+      "Vbat_MV": 3991.2
+    },
+    "LTE": {
+      "RSSI": 20
+    },
+    "WeatherStation": {
+      "Air_Temperature_C": 7.58,
+      "Relative_Humidity_%RH": 71.367,
+      "Atmospheric_Pressure_mbar": 1009.733,
+      "Wind_Speed_m_s": 3.085,
+      "Wind_Direction_degrees": 294.3,
+      "Wind_Gust_m_s": 5.601,
+      "Solar_Radiation_W_m2": 0
+    },
+    "TippingBucket": {
+      "Tips": 0,
+      "Hourly_Rainfall_mm": 0.0
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-11T08:00:00Z",
+      "time_local": "2026-10-11T01:00:00"
+    },
+    "Packet": {
+      "Number": 146
+    },
+    "Analog": {
+      "Vbat": 3.991,
+      "Vbat_MV": 3991.0
+    },
+    "LTE": {
+      "RSSI": 20
+    },
+    "WeatherStation": {
+      "Air_Temperature_C": 7.35,
+      "Relative_Humidity_%RH": 78.121,
+      "Atmospheric_Pressure_mbar": 1008.443,
+      "Wind_Speed_m_s": 1.746,
+      "Wind_Direction_degrees": 274.2,
+      "Wind_Gust_m_s": 4.402,
+      "Solar_Radiation_W_m2": 0
+    },
+    "TippingBucket": {
+      "Tips": 0,
+      "Hourly_Rainfall_mm": 0.0
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-11T09:00:00Z",
+      "time_local": "2026-10-11T02:00:00"
+    },
+    "Packet": {
+      "Number": 147
+    },
+    "Analog": {
+      "Vbat": 3.9908,
+      "Vbat_MV": 3990.8
+    },
+    "LTE": {
+      "RSSI": 20
+    },
+    "WeatherStation": {
+      "Air_Temperature_C": 6.62,
+      "Relative_Humidity_%RH": 74.397,
+      "Atmospheric_Pressure_mbar": 1009.854,
+      "Wind_Speed_m_s": 1.641,
+      "Wind_Direction_degrees": 287.4,
+      "Wind_Gust_m_s": 2.519,
+      "Solar_Radiation_W_m2": 14.764
+    },
+    "TippingBucket": {
+      "Tips": 0,
+      "Hourly_Rainfall_mm": 0.0
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-11T10:00:00Z",
+      "time_local": "2026-10-11T03:00:00"
+    },
+    "Packet": {
+      "Number": 148
+    },
+    "Analog": {
+      "Vbat": 3.9906,
+      "Vbat_MV": 3990.6
+    },
+    "LTE": {
+      "RSSI": 20
+    },
+    "WeatherStation": {
+      "Air_Temperature_C": 5.45,
+      "Relative_Humidity_%RH": 76.118,
+      "Atmospheric_Pressure_mbar": 1008.343,
+      "Wind_Speed_m_s": 2.512,
+      "Wind_Direction_degrees": 289.5,
+      "Wind_Gust_m_s": 3.671,
+      "Solar_Radiation_W_m2": 0
+    },
+    "TippingBucket": {
+      "Tips": 0,
+      "Hourly_Rainfall_mm": 0.0
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-11T11:00:00Z",
+      "time_local": "2026-10-11T04:00:00"
+    },
+    "Packet": {
+      "Number": 149
+    },
+    "Analog": {
+      "Vbat": 3.9904,
+      "Vbat_MV": 3990.4
+    },
+    "LTE": {
+      "RSSI": 20
+    },
+    "WeatherStation": {
+      "Air_Temperature_C": 5.74,
+      "Relative_Humidity_%RH": 80.465,
+      "Atmospheric_Pressure_mbar": 1009.289,
+      "Wind_Speed_m_s": 2.769,
+      "Wind_Direction_degrees": 287.2,
+      "Wind_Gust_m_s": 4.175,
+      "Solar_Radiation_W_m2": 0
+    },
+    "TippingBucket": {
+      "Tips": 0,
+      "Hourly_Rainfall_mm": 0.0
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-11T12:00:00Z",
+      "time_local": "2026-10-11T05:00:00"
+    },
+    "Packet": {
+      "Number": 150
+    },
+    "Analog": {
+      "Vbat": 3.9902,
+      "Vbat_MV": 3990.2
+    },
+    "LTE": {
+      "RSSI": 20
+    },
+    "WeatherStation": {
+      "Air_Temperature_C": 7.4,
+      "Relative_Humidity_%RH": 71.227,
+      "Atmospheric_Pressure_mbar": 1008.609,
+      "Wind_Speed_m_s": 3.997,
+      "Wind_Direction_degrees": 294.0,
+      "Wind_Gust_m_s": 5.987,
+      "Solar_Radiation_W_m2": 20.601
+    },
+    "TippingBucket": {
+      "Tips": 0,
+      "Hourly_Rainfall_mm": 0.0
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-11T13:00:00Z",
+      "time_local": "2026-10-11T06:00:00"
+    },
+    "Packet": {
+      "Number": 151
+    },
+    "Analog": {
+      "Vbat": 3.99,
+      "Vbat_MV": 3990.0
+    },
+    "LTE": {
+      "RSSI": 20
+    },
+    "WeatherStation": {
+      "Air_Temperature_C": 8.3,
+      "Relative_Humidity_%RH": 76.949,
+      "Atmospheric_Pressure_mbar": 1008.934,
+      "Wind_Speed_m_s": 2.362,
+      "Wind_Direction_degrees": 279.1,
+      "Wind_Gust_m_s": 3.41,
+      "Solar_Radiation_W_m2": 0
+    },
+    "TippingBucket": {
+      "Tips": 0,
+      "Hourly_Rainfall_mm": 0.0
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-11T14:00:00Z",
+      "time_local": "2026-10-11T07:00:00"
+    },
+    "Packet": {
+      "Number": 152
+    },
+    "Analog": {
+      "Vbat": 3.9898,
+      "Vbat_MV": 3989.8
+    },
+    "LTE": {
+      "RSSI": 20
+    },
+    "WeatherStation": {
+      "Air_Temperature_C": 9.39,
+      "Relative_Humidity_%RH": 70.85,
+      "Atmospheric_Pressure_mbar": 1009.118,
+      "Wind_Speed_m_s": 2.119,
+      "Wind_Direction_degrees": 273.9,
+      "Wind_Gust_m_s": 4.104,
+      "Solar_Radiation_W_m2": 164.877
+    },
+    "TippingBucket": {
+      "Tips": 0,
+      "Hourly_Rainfall_mm": 0.0
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-11T15:00:00Z",
+      "time_local": "2026-10-11T08:00:00"
+    },
+    "Packet": {
+      "Number": 153
+    },
+    "Analog": {
+      "Vbat": 3.9896,
+      "Vbat_MV": 3989.6
+    },
+    "LTE": {
+      "RSSI": 20
+    },
+    "WeatherStation": {
+      "Air_Temperature_C": 10.6,
+      "Relative_Humidity_%RH": 70.606,
+      "Atmospheric_Pressure_mbar": 1009.407,
+      "Wind_Speed_m_s": 2.875,
+      "Wind_Direction_degrees": 276.2,
+      "Wind_Gust_m_s": 5.71,
+      "Solar_Radiation_W_m2": 313.046
+    },
+    "TippingBucket": {
+      "Tips": 0,
+      "Hourly_Rainfall_mm": 0.0
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-11T16:00:00Z",
+      "time_local": "2026-10-11T09:00:00"
+    },
+    "Packet": {
+      "Number": 154
+    },
+    "Analog": {
+      "Vbat": 3.9894,
+      "Vbat_MV": 3989.4
+    },
+    "LTE": {
+      "RSSI": 20
+    },
+    "WeatherStation": {
+      "Air_Temperature_C": 12.51,
+      "Relative_Humidity_%RH": 64.262,
+      "Atmospheric_Pressure_mbar": 1010.04,
+      "Wind_Speed_m_s": 3.845,
+      "Wind_Direction_degrees": 287.5,
+      "Wind_Gust_m_s": 4.388,
+      "Solar_Radiation_W_m2": 426.049
+    },
+    "TippingBucket": {
+      "Tips": 0,
+      "Hourly_Rainfall_mm": 0.0
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-11T17:00:00Z",
+      "time_local": "2026-10-11T10:00:00"
+    },
+    "Packet": {
+      "Number": 155
+    },
+    "Analog": {
+      "Vbat": 3.9892,
+      "Vbat_MV": 3989.2
+    },
+    "LTE": {
+      "RSSI": 20
+    },
+    "WeatherStation": {
+      "Air_Temperature_C": 14.19,
+      "Relative_Humidity_%RH": 62.348,
+      "Atmospheric_Pressure_mbar": 1009.95,
+      "Wind_Speed_m_s": 3.134,
+      "Wind_Direction_degrees": 297.2,
+      "Wind_Gust_m_s": 5.877,
+      "Solar_Radiation_W_m2": 523.887
+    },
+    "TippingBucket": {
+      "Tips": 0,
+      "Hourly_Rainfall_mm": 0.0
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-11T18:00:00Z",
+      "time_local": "2026-10-11T11:00:00"
+    },
+    "Packet": {
+      "Number": 156
+    },
+    "Analog": {
+      "Vbat": 3.989,
+      "Vbat_MV": 3989.0
+    },
+    "LTE": {
+      "RSSI": 20
+    },
+    "WeatherStation": {
+      "Air_Temperature_C": 16.42,
+      "Relative_Humidity_%RH": 54.889,
+      "Atmospheric_Pressure_mbar": 1009.875,
+      "Wind_Speed_m_s": 2.938,
+      "Wind_Direction_degrees": 297.4,
+      "Wind_Gust_m_s": 5.418,
+      "Solar_Radiation_W_m2": 566.983
+    },
+    "TippingBucket": {
+      "Tips": 0,
+      "Hourly_Rainfall_mm": 0.0
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-11T19:00:00Z",
+      "time_local": "2026-10-11T12:00:00"
+    },
+    "Packet": {
+      "Number": 157
+    },
+    "Analog": {
+      "Vbat": 3.9888,
+      "Vbat_MV": 3988.8
+    },
+    "LTE": {
+      "RSSI": 20
+    },
+    "WeatherStation": {
+      "Air_Temperature_C": 17.33,
+      "Relative_Humidity_%RH": 56.822,
+      "Atmospheric_Pressure_mbar": 1009.726,
+      "Wind_Speed_m_s": 4.388,
+      "Wind_Direction_degrees": 291.4,
+      "Wind_Gust_m_s": 6.389,
+      "Solar_Radiation_W_m2": 617.872
+    },
+    "TippingBucket": {
+      "Tips": 0,
+      "Hourly_Rainfall_mm": 0.0
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-11T20:00:00Z",
+      "time_local": "2026-10-11T13:00:00"
+    },
+    "Packet": {
+      "Number": 158
+    },
+    "Analog": {
+      "Vbat": 3.9886,
+      "Vbat_MV": 3988.6
+    },
+    "LTE": {
+      "RSSI": 20
+    },
+    "WeatherStation": {
+      "Air_Temperature_C": 19.22,
+      "Relative_Humidity_%RH": 51.047,
+      "Atmospheric_Pressure_mbar": 1010.553,
+      "Wind_Speed_m_s": 2.549,
+      "Wind_Direction_degrees": 287.9,
+      "Wind_Gust_m_s": 3.497,
+      "Solar_Radiation_W_m2": 558.544
+    },
+    "TippingBucket": {
+      "Tips": 0,
+      "Hourly_Rainfall_mm": 0.0
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-11T21:00:00Z",
+      "time_local": "2026-10-11T14:00:00"
+    },
+    "Packet": {
+      "Number": 159
+    },
+    "Analog": {
+      "Vbat": 3.9884,
+      "Vbat_MV": 3988.4
+    },
+    "LTE": {
+      "RSSI": 20
+    },
+    "WeatherStation": {
+      "Air_Temperature_C": 19.69,
+      "Relative_Humidity_%RH": 50.646,
+      "Atmospheric_Pressure_mbar": 1010.607,
+      "Wind_Speed_m_s": 3.085,
+      "Wind_Direction_degrees": 290.0,
+      "Wind_Gust_m_s": 5.387,
+      "Solar_Radiation_W_m2": 544.331
+    },
+    "TippingBucket": {
+      "Tips": 0,
+      "Hourly_Rainfall_mm": 0.0
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-11T22:00:00Z",
+      "time_local": "2026-10-11T15:00:00"
+    },
+    "Packet": {
+      "Number": 160
+    },
+    "Analog": {
+      "Vbat": 3.9882,
+      "Vbat_MV": 3988.2
+    },
+    "LTE": {
+      "RSSI": 20
+    },
+    "WeatherStation": {
+      "Air_Temperature_C": 19.63,
+      "Relative_Humidity_%RH": 49.374,
+      "Atmospheric_Pressure_mbar": 1010.823,
+      "Wind_Speed_m_s": 3.947,
+      "Wind_Direction_degrees": 283.8,
+      "Wind_Gust_m_s": 5.961,
+      "Solar_Radiation_W_m2": 448.061
+    },
+    "TippingBucket": {
+      "Tips": 0,
+      "Hourly_Rainfall_mm": 0.0
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-11T23:00:00Z",
+      "time_local": "2026-10-11T16:00:00"
+    },
+    "Packet": {
+      "Number": 161
+    },
+    "Analog": {
+      "Vbat": 3.988,
+      "Vbat_MV": 3988.0
+    },
+    "LTE": {
+      "RSSI": 20
+    },
+    "WeatherStation": {
+      "Air_Temperature_C": 19.99,
+      "Relative_Humidity_%RH": 49.06,
+      "Atmospheric_Pressure_mbar": 1010.77,
+      "Wind_Speed_m_s": 3.679,
+      "Wind_Direction_degrees": 264.8,
+      "Wind_Gust_m_s": 4.241,
+      "Solar_Radiation_W_m2": 294.661
+    },
+    "TippingBucket": {
+      "Tips": 0,
+      "Hourly_Rainfall_mm": 0.0
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-12T00:00:00Z",
+      "time_local": "2026-10-11T17:00:00"
+    },
+    "Packet": {
+      "Number": 162
+    },
+    "Analog": {
+      "Vbat": 3.9878,
+      "Vbat_MV": 3987.8
+    },
+    "LTE": {
+      "RSSI": 20
+    },
+    "WeatherStation": {
+      "Air_Temperature_C": 18.71,
+      "Relative_Humidity_%RH": 52.743,
+      "Atmospheric_Pressure_mbar": 1010.245,
+      "Wind_Speed_m_s": 2.925,
+      "Wind_Direction_degrees": 274.6,
+      "Wind_Gust_m_s": 5.717,
+      "Solar_Radiation_W_m2": 180.069
+    },
+    "TippingBucket": {
+      "Tips": 0,
+      "Hourly_Rainfall_mm": 0.0
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-12T01:00:00Z",
+      "time_local": "2026-10-11T18:00:00"
+    },
+    "Packet": {
+      "Number": 163
+    },
+    "Analog": {
+      "Vbat": 3.9876,
+      "Vbat_MV": 3987.6
+    },
+    "LTE": {
+      "RSSI": 20
+    },
+    "WeatherStation": {
+      "Air_Temperature_C": 17.9,
+      "Relative_Humidity_%RH": 54.333,
+      "Atmospheric_Pressure_mbar": 1010.808,
+      "Wind_Speed_m_s": 3.358,
+      "Wind_Direction_degrees": 267.1,
+      "Wind_Gust_m_s": 6.001,
+      "Solar_Radiation_W_m2": 2.944
+    },
+    "TippingBucket": {
+      "Tips": 0,
+      "Hourly_Rainfall_mm": 0.0
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-12T02:00:00Z",
+      "time_local": "2026-10-11T19:00:00"
+    },
+    "Packet": {
+      "Number": 164
+    },
+    "Analog": {
+      "Vbat": 3.9874,
+      "Vbat_MV": 3987.4
+    },
+    "LTE": {
+      "RSSI": 20
+    },
+    "WeatherStation": {
+      "Air_Temperature_C": 15.84,
+      "Relative_Humidity_%RH": 56.438,
+      "Atmospheric_Pressure_mbar": 1011.0,
+      "Wind_Speed_m_s": 3.549,
+      "Wind_Direction_degrees": 280.5,
+      "Wind_Gust_m_s": 6.004,
+      "Solar_Radiation_W_m2": 8.715
+    },
+    "TippingBucket": {
+      "Tips": 0,
+      "Hourly_Rainfall_mm": 0.0
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-12T03:00:00Z",
+      "time_local": "2026-10-11T20:00:00"
+    },
+    "Packet": {
+      "Number": 165
+    },
+    "Analog": {
+      "Vbat": 3.9872,
+      "Vbat_MV": 3987.2
+    },
+    "LTE": {
+      "RSSI": 20
+    },
+    "WeatherStation": {
+      "Air_Temperature_C": 14.59,
+      "Relative_Humidity_%RH": 62.145,
+      "Atmospheric_Pressure_mbar": 1010.618,
+      "Wind_Speed_m_s": 2.442,
+      "Wind_Direction_degrees": 261.8,
+      "Wind_Gust_m_s": 4.285,
+      "Solar_Radiation_W_m2": 0
+    },
+    "TippingBucket": {
+      "Tips": 0,
+      "Hourly_Rainfall_mm": 0.0
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-12T04:00:00Z",
+      "time_local": "2026-10-11T21:00:00"
+    },
+    "Packet": {
+      "Number": 166
+    },
+    "Analog": {
+      "Vbat": 3.987,
+      "Vbat_MV": 3987.0
+    },
+    "LTE": {
+      "RSSI": 20
+    },
+    "WeatherStation": {
+      "Air_Temperature_C": 12.64,
+      "Relative_Humidity_%RH": 62.593,
+      "Atmospheric_Pressure_mbar": 1010.942,
+      "Wind_Speed_m_s": 1.782,
+      "Wind_Direction_degrees": 272.3,
+      "Wind_Gust_m_s": 2.853,
+      "Solar_Radiation_W_m2": 0
+    },
+    "TippingBucket": {
+      "Tips": 0,
+      "Hourly_Rainfall_mm": 0.0
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-12T05:00:00Z",
+      "time_local": "2026-10-11T22:00:00"
+    },
+    "Packet": {
+      "Number": 167
+    },
+    "Analog": {
+      "Vbat": 3.9868,
+      "Vbat_MV": 3986.8
+    },
+    "LTE": {
+      "RSSI": 20
+    },
+    "WeatherStation": {
+      "Air_Temperature_C": 10.63,
+      "Relative_Humidity_%RH": 71.326,
+      "Atmospheric_Pressure_mbar": 1010.593,
+      "Wind_Speed_m_s": 3.247,
+      "Wind_Direction_degrees": 257.2,
+      "Wind_Gust_m_s": 4.007,
+      "Solar_Radiation_W_m2": 4.814
+    },
+    "TippingBucket": {
+      "Tips": 0,
+      "Hourly_Rainfall_mm": 0.0
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-12T06:00:00Z",
+      "time_local": "2026-10-11T23:00:00"
+    },
+    "Packet": {
+      "Number": 168
+    },
+    "Analog": {
+      "Vbat": 3.9866,
+      "Vbat_MV": 3986.6
+    },
+    "LTE": {
+      "RSSI": 20
+    },
+    "WeatherStation": {
+      "Air_Temperature_C": 8.97,
+      "Relative_Humidity_%RH": 69.384,
+      "Atmospheric_Pressure_mbar": 1010.081,
+      "Wind_Speed_m_s": 3.121,
+      "Wind_Direction_degrees": 263.8,
+      "Wind_Gust_m_s": 4.189,
+      "Solar_Radiation_W_m2": 14.779
+    },
+    "TippingBucket": {
+      "Tips": 0,
+      "Hourly_Rainfall_mm": 0.0
+    }
+  }
+]
