@@ -1,0 +1,4874 @@
+[
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-05T07:00:00Z",
+      "time_local": "2026-10-05T00:00:00"
+    },
+    "Packet": {
+      "Number": 1
+    },
+    "TEROS12_Probe_1": {
+      "Volumetric_Water_Content_m3_m3": 0.18,
+      "Soil_Temperature_C": 12.998,
+      "Bulk_Electrical_Conductivity_dS_m": 0.443
+    },
+    "TEROS12_Probe_2": {
+      "Volumetric_Water_Content_m3_m3": 0.23,
+      "Soil_Temperature_C": 13.64,
+      "Bulk_Electrical_Conductivity_dS_m": 0.51
+    },
+    "TEROS12_Probe_3": {
+      "Volumetric_Water_Content_m3_m3": 0.27,
+      "Soil_Temperature_C": 13.366,
+      "Bulk_Electrical_Conductivity_dS_m": 0.575
+    },
+    "TEROS21_Gen2": {
+      "Soil_Matric_Potential_kPa": -97.5,
+      "Soil_Temperature_C": 13.64
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-05T08:00:00Z",
+      "time_local": "2026-10-05T01:00:00"
+    },
+    "Packet": {
+      "Number": 2
+    },
+    "TEROS12_Probe_1": {
+      "Volumetric_Water_Content_m3_m3": 0.18,
+      "Soil_Temperature_C": 12.258,
+      "Bulk_Electrical_Conductivity_dS_m": 0.443
+    },
+    "TEROS12_Probe_2": {
+      "Volumetric_Water_Content_m3_m3": 0.23,
+      "Soil_Temperature_C": 13.2,
+      "Bulk_Electrical_Conductivity_dS_m": 0.51
+    },
+    "TEROS12_Probe_3": {
+      "Volumetric_Water_Content_m3_m3": 0.27,
+      "Soil_Temperature_C": 13.2,
+      "Bulk_Electrical_Conductivity_dS_m": 0.575
+    },
+    "TEROS21_Gen2": {
+      "Soil_Matric_Potential_kPa": -97.5,
+      "Soil_Temperature_C": 13.2
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-05T09:00:00Z",
+      "time_local": "2026-10-05T02:00:00"
+    },
+    "Packet": {
+      "Number": 3
+    },
+    "TEROS12_Probe_1": {
+      "Volumetric_Water_Content_m3_m3": 0.18,
+      "Soil_Temperature_C": 11.624,
+      "Bulk_Electrical_Conductivity_dS_m": 0.443
+    },
+    "TEROS12_Probe_2": {
+      "Volumetric_Water_Content_m3_m3": 0.23,
+      "Soil_Temperature_C": 12.76,
+      "Bulk_Electrical_Conductivity_dS_m": 0.51
+    },
+    "TEROS12_Probe_3": {
+      "Volumetric_Water_Content_m3_m3": 0.27,
+      "Soil_Temperature_C": 13.007,
+      "Bulk_Electrical_Conductivity_dS_m": 0.575
+    },
+    "TEROS21_Gen2": {
+      "Soil_Matric_Potential_kPa": -97.5,
+      "Soil_Temperature_C": 12.76
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-05T10:00:00Z",
+      "time_local": "2026-10-05T03:00:00"
+    },
+    "Packet": {
+      "Number": 4
+    },
+    "TEROS12_Probe_1": {
+      "Volumetric_Water_Content_m3_m3": 0.181,
+      "Soil_Temperature_C": 11.139,
+      "Bulk_Electrical_Conductivity_dS_m": 0.443
+    },
+    "TEROS12_Probe_2": {
+      "Volumetric_Water_Content_m3_m3": 0.23,
+      "Soil_Temperature_C": 12.35,
+      "Bulk_Electrical_Conductivity_dS_m": 0.51
+    },
+    "TEROS12_Probe_3": {
+      "Volumetric_Water_Content_m3_m3": 0.27,
+      "Soil_Temperature_C": 12.8,
+      "Bulk_Electrical_Conductivity_dS_m": 0.575
+    },
+    "TEROS21_Gen2": {
+      "Soil_Matric_Potential_kPa": -97.5,
+      "Soil_Temperature_C": 12.35
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-05T11:00:00Z",
+      "time_local": "2026-10-05T04:00:00"
+    },
+    "Packet": {
+      "Number": 5
+    },
+    "TEROS12_Probe_1": {
+      "Volumetric_Water_Content_m3_m3": 0.181,
+      "Soil_Temperature_C": 10.838,
+      "Bulk_Electrical_Conductivity_dS_m": 0.443
+    },
+    "TEROS12_Probe_2": {
+      "Volumetric_Water_Content_m3_m3": 0.23,
+      "Soil_Temperature_C": 11.998,
+      "Bulk_Electrical_Conductivity_dS_m": 0.51
+    },
+    "TEROS12_Probe_3": {
+      "Volumetric_Water_Content_m3_m3": 0.27,
+      "Soil_Temperature_C": 12.593,
+      "Bulk_Electrical_Conductivity_dS_m": 0.575
+    },
+    "TEROS21_Gen2": {
+      "Soil_Matric_Potential_kPa": -97.5,
+      "Soil_Temperature_C": 11.998
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-05T12:00:00Z",
+      "time_local": "2026-10-05T05:00:00"
+    },
+    "Packet": {
+      "Number": 6
+    },
+    "TEROS12_Probe_1": {
+      "Volumetric_Water_Content_m3_m3": 0.181,
+      "Soil_Temperature_C": 10.74,
+      "Bulk_Electrical_Conductivity_dS_m": 0.443
+    },
+    "TEROS12_Probe_2": {
+      "Volumetric_Water_Content_m3_m3": 0.23,
+      "Soil_Temperature_C": 11.728,
+      "Bulk_Electrical_Conductivity_dS_m": 0.51
+    },
+    "TEROS12_Probe_3": {
+      "Volumetric_Water_Content_m3_m3": 0.27,
+      "Soil_Temperature_C": 12.4,
+      "Bulk_Electrical_Conductivity_dS_m": 0.575
+    },
+    "TEROS21_Gen2": {
+      "Soil_Matric_Potential_kPa": -97.5,
+      "Soil_Temperature_C": 11.728
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-05T13:00:00Z",
+      "time_local": "2026-10-05T06:00:00"
+    },
+    "Packet": {
+      "Number": 7
+    },
+    "TEROS12_Probe_1": {
+      "Volumetric_Water_Content_m3_m3": 0.181,
+      "Soil_Temperature_C": 10.854,
+      "Bulk_Electrical_Conductivity_dS_m": 0.443
+    },
+    "TEROS12_Probe_2": {
+      "Volumetric_Water_Content_m3_m3": 0.231,
+      "Soil_Temperature_C": 11.558,
+      "Bulk_Electrical_Conductivity_dS_m": 0.511
+    },
+    "TEROS12_Probe_3": {
+      "Volumetric_Water_Content_m3_m3": 0.27,
+      "Soil_Temperature_C": 12.234,
+      "Bulk_Electrical_Conductivity_dS_m": 0.575
+    },
+    "TEROS21_Gen2": {
+      "Soil_Matric_Potential_kPa": -97.2,
+      "Soil_Temperature_C": 11.558
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-05T14:00:00Z",
+      "time_local": "2026-10-05T07:00:00"
+    },
+    "Packet": {
+      "Number": 8
+    },
+    "TEROS12_Probe_1": {
+      "Volumetric_Water_Content_m3_m3": 0.181,
+      "Soil_Temperature_C": 11.171,
+      "Bulk_Electrical_Conductivity_dS_m": 0.443
+    },
+    "TEROS12_Probe_2": {
+      "Volumetric_Water_Content_m3_m3": 0.231,
+      "Soil_Temperature_C": 11.5,
+      "Bulk_Electrical_Conductivity_dS_m": 0.511
+    },
+    "TEROS12_Probe_3": {
+      "Volumetric_Water_Content_m3_m3": 0.27,
+      "Soil_Temperature_C": 12.107,
+      "Bulk_Electrical_Conductivity_dS_m": 0.575
+    },
+    "TEROS21_Gen2": {
+      "Soil_Matric_Potential_kPa": -97.2,
+      "Soil_Temperature_C": 11.5
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-05T15:00:00Z",
+      "time_local": "2026-10-05T08:00:00"
+    },
+    "Packet": {
+      "Number": 9
+    },
+    "TEROS12_Probe_1": {
+      "Volumetric_Water_Content_m3_m3": 0.182,
+      "Soil_Temperature_C": 11.672,
+      "Bulk_Electrical_Conductivity_dS_m": 0.444
+    },
+    "TEROS12_Probe_2": {
+      "Volumetric_Water_Content_m3_m3": 0.231,
+      "Soil_Temperature_C": 11.558,
+      "Bulk_Electrical_Conductivity_dS_m": 0.511
+    },
+    "TEROS12_Probe_3": {
+      "Volumetric_Water_Content_m3_m3": 0.27,
+      "Soil_Temperature_C": 12.027,
+      "Bulk_Electrical_Conductivity_dS_m": 0.575
+    },
+    "TEROS21_Gen2": {
+      "Soil_Matric_Potential_kPa": -97.2,
+      "Soil_Temperature_C": 11.558
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-05T16:00:00Z",
+      "time_local": "2026-10-05T09:00:00"
+    },
+    "Packet": {
+      "Number": 10
+    },
+    "TEROS12_Probe_1": {
+      "Volumetric_Water_Content_m3_m3": 0.182,
+      "Soil_Temperature_C": 12.322,
+      "Bulk_Electrical_Conductivity_dS_m": 0.444
+    },
+    "TEROS12_Probe_2": {
+      "Volumetric_Water_Content_m3_m3": 0.231,
+      "Soil_Temperature_C": 11.728,
+      "Bulk_Electrical_Conductivity_dS_m": 0.511
+    },
+    "TEROS12_Probe_3": {
+      "Volumetric_Water_Content_m3_m3": 0.27,
+      "Soil_Temperature_C": 12.0,
+      "Bulk_Electrical_Conductivity_dS_m": 0.575
+    },
+    "TEROS21_Gen2": {
+      "Soil_Matric_Potential_kPa": -97.2,
+      "Soil_Temperature_C": 11.728
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-05T17:00:00Z",
+      "time_local": "2026-10-05T10:00:00"
+    },
+    "Packet": {
+      "Number": 11
+    },
+    "TEROS12_Probe_1": {
+      "Volumetric_Water_Content_m3_m3": 0.182,
+      "Soil_Temperature_C": 13.077,
+      "Bulk_Electrical_Conductivity_dS_m": 0.444
+    },
+    "TEROS12_Probe_2": {
+      "Volumetric_Water_Content_m3_m3": 0.231,
+      "Soil_Temperature_C": 11.998,
+      "Bulk_Electrical_Conductivity_dS_m": 0.511
+    },
+    "TEROS12_Probe_3": {
+      "Volumetric_Water_Content_m3_m3": 0.271,
+      "Soil_Temperature_C": 12.027,
+      "Bulk_Electrical_Conductivity_dS_m": 0.575
+    },
+    "TEROS21_Gen2": {
+      "Soil_Matric_Potential_kPa": -97.2,
+      "Soil_Temperature_C": 11.998
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-05T18:00:00Z",
+      "time_local": "2026-10-05T11:00:00"
+    },
+    "Packet": {
+      "Number": 12
+    },
+    "TEROS12_Probe_1": {
+      "Volumetric_Water_Content_m3_m3": 0.182,
+      "Soil_Temperature_C": 13.888,
+      "Bulk_Electrical_Conductivity_dS_m": 0.444
+    },
+    "TEROS12_Probe_2": {
+      "Volumetric_Water_Content_m3_m3": 0.231,
+      "Soil_Temperature_C": 12.35,
+      "Bulk_Electrical_Conductivity_dS_m": 0.511
+    },
+    "TEROS12_Probe_3": {
+      "Volumetric_Water_Content_m3_m3": 0.271,
+      "Soil_Temperature_C": 12.107,
+      "Bulk_Electrical_Conductivity_dS_m": 0.575
+    },
+    "TEROS21_Gen2": {
+      "Soil_Matric_Potential_kPa": -97.2,
+      "Soil_Temperature_C": 12.35
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-05T19:00:00Z",
+      "time_local": "2026-10-05T12:00:00"
+    },
+    "Packet": {
+      "Number": 13
+    },
+    "TEROS12_Probe_1": {
+      "Volumetric_Water_Content_m3_m3": 0.182,
+      "Soil_Temperature_C": 14.698,
+      "Bulk_Electrical_Conductivity_dS_m": 0.444
+    },
+    "TEROS12_Probe_2": {
+      "Volumetric_Water_Content_m3_m3": 0.231,
+      "Soil_Temperature_C": 12.76,
+      "Bulk_Electrical_Conductivity_dS_m": 0.511
+    },
+    "TEROS12_Probe_3": {
+      "Volumetric_Water_Content_m3_m3": 0.271,
+      "Soil_Temperature_C": 12.234,
+      "Bulk_Electrical_Conductivity_dS_m": 0.575
+    },
+    "TEROS21_Gen2": {
+      "Soil_Matric_Potential_kPa": -97.2,
+      "Soil_Temperature_C": 12.76
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-05T20:00:00Z",
+      "time_local": "2026-10-05T13:00:00"
+    },
+    "Packet": {
+      "Number": 14
+    },
+    "TEROS12_Probe_1": {
+      "Volumetric_Water_Content_m3_m3": 0.183,
+      "Soil_Temperature_C": 15.453,
+      "Bulk_Electrical_Conductivity_dS_m": 0.444
+    },
+    "TEROS12_Probe_2": {
+      "Volumetric_Water_Content_m3_m3": 0.231,
+      "Soil_Temperature_C": 13.2,
+      "Bulk_Electrical_Conductivity_dS_m": 0.511
+    },
+    "TEROS12_Probe_3": {
+      "Volumetric_Water_Content_m3_m3": 0.271,
+      "Soil_Temperature_C": 12.4,
+      "Bulk_Electrical_Conductivity_dS_m": 0.575
+    },
+    "TEROS21_Gen2": {
+      "Soil_Matric_Potential_kPa": -97.2,
+      "Soil_Temperature_C": 13.2
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-05T21:00:00Z",
+      "time_local": "2026-10-05T14:00:00"
+    },
+    "Packet": {
+      "Number": 15
+    },
+    "TEROS12_Probe_1": {
+      "Volumetric_Water_Content_m3_m3": 0.183,
+      "Soil_Temperature_C": 16.103,
+      "Bulk_Electrical_Conductivity_dS_m": 0.444
+    },
+    "TEROS12_Probe_2": {
+      "Volumetric_Water_Content_m3_m3": 0.231,
+      "Soil_Temperature_C": 13.64,
+      "Bulk_Electrical_Conductivity_dS_m": 0.511
+    },
+    "TEROS12_Probe_3": {
+      "Volumetric_Water_Content_m3_m3": 0.271,
+      "Soil_Temperature_C": 12.593,
+      "Bulk_Electrical_Conductivity_dS_m": 0.575
+    },
+    "TEROS21_Gen2": {
+      "Soil_Matric_Potential_kPa": -97.2,
+      "Soil_Temperature_C": 13.64
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-05T22:00:00Z",
+      "time_local": "2026-10-05T15:00:00"
+    },
+    "Packet": {
+      "Number": 16
+    },
+    "TEROS12_Probe_1": {
+      "Volumetric_Water_Content_m3_m3": 0.183,
+      "Soil_Temperature_C": 16.604,
+      "Bulk_Electrical_Conductivity_dS_m": 0.444
+    },
+    "TEROS12_Probe_2": {
+      "Volumetric_Water_Content_m3_m3": 0.231,
+      "Soil_Temperature_C": 14.05,
+      "Bulk_Electrical_Conductivity_dS_m": 0.511
+    },
+    "TEROS12_Probe_3": {
+      "Volumetric_Water_Content_m3_m3": 0.271,
+      "Soil_Temperature_C": 12.8,
+      "Bulk_Electrical_Conductivity_dS_m": 0.575
+    },
+    "TEROS21_Gen2": {
+      "Soil_Matric_Potential_kPa": -97.2,
+      "Soil_Temperature_C": 14.05
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-05T23:00:00Z",
+      "time_local": "2026-10-05T16:00:00"
+    },
+    "Packet": {
+      "Number": 17
+    },
+    "TEROS12_Probe_1": {
+      "Volumetric_Water_Content_m3_m3": 0.183,
+      "Soil_Temperature_C": 16.921,
+      "Bulk_Electrical_Conductivity_dS_m": 0.444
+    },
+    "TEROS12_Probe_2": {
+      "Volumetric_Water_Content_m3_m3": 0.232,
+      "Soil_Temperature_C": 14.402,
+      "Bulk_Electrical_Conductivity_dS_m": 0.511
+    },
+    "TEROS12_Probe_3": {
+      "Volumetric_Water_Content_m3_m3": 0.271,
+      "Soil_Temperature_C": 13.007,
+      "Bulk_Electrical_Conductivity_dS_m": 0.575
+    },
+    "TEROS21_Gen2": {
+      "Soil_Matric_Potential_kPa": -96.8,
+      "Soil_Temperature_C": 14.402
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-06T00:00:00Z",
+      "time_local": "2026-10-05T17:00:00"
+    },
+    "Packet": {
+      "Number": 18
+    },
+    "TEROS12_Probe_1": {
+      "Volumetric_Water_Content_m3_m3": 0.183,
+      "Soil_Temperature_C": 17.035,
+      "Bulk_Electrical_Conductivity_dS_m": 0.444
+    },
+    "TEROS12_Probe_2": {
+      "Volumetric_Water_Content_m3_m3": 0.232,
+      "Soil_Temperature_C": 14.672,
+      "Bulk_Electrical_Conductivity_dS_m": 0.511
+    },
+    "TEROS12_Probe_3": {
+      "Volumetric_Water_Content_m3_m3": 0.271,
+      "Soil_Temperature_C": 13.2,
+      "Bulk_Electrical_Conductivity_dS_m": 0.575
+    },
+    "TEROS21_Gen2": {
+      "Soil_Matric_Potential_kPa": -96.8,
+      "Soil_Temperature_C": 14.672
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-06T01:00:00Z",
+      "time_local": "2026-10-05T18:00:00"
+    },
+    "Packet": {
+      "Number": 19
+    },
+    "TEROS12_Probe_1": {
+      "Volumetric_Water_Content_m3_m3": 0.184,
+      "Soil_Temperature_C": 16.937,
+      "Bulk_Electrical_Conductivity_dS_m": 0.444
+    },
+    "TEROS12_Probe_2": {
+      "Volumetric_Water_Content_m3_m3": 0.232,
+      "Soil_Temperature_C": 14.842,
+      "Bulk_Electrical_Conductivity_dS_m": 0.511
+    },
+    "TEROS12_Probe_3": {
+      "Volumetric_Water_Content_m3_m3": 0.271,
+      "Soil_Temperature_C": 13.366,
+      "Bulk_Electrical_Conductivity_dS_m": 0.575
+    },
+    "TEROS21_Gen2": {
+      "Soil_Matric_Potential_kPa": -96.8,
+      "Soil_Temperature_C": 14.842
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-06T02:00:00Z",
+      "time_local": "2026-10-05T19:00:00"
+    },
+    "Packet": {
+      "Number": 20
+    },
+    "TEROS12_Probe_1": {
+      "Volumetric_Water_Content_m3_m3": 0.184,
+      "Soil_Temperature_C": 16.635,
+      "Bulk_Electrical_Conductivity_dS_m": 0.444
+    },
+    "TEROS12_Probe_2": {
+      "Volumetric_Water_Content_m3_m3": 0.232,
+      "Soil_Temperature_C": 14.9,
+      "Bulk_Electrical_Conductivity_dS_m": 0.511
+    },
+    "TEROS12_Probe_3": {
+      "Volumetric_Water_Content_m3_m3": 0.271,
+      "Soil_Temperature_C": 13.493,
+      "Bulk_Electrical_Conductivity_dS_m": 0.575
+    },
+    "TEROS21_Gen2": {
+      "Soil_Matric_Potential_kPa": -96.8,
+      "Soil_Temperature_C": 14.9
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-06T03:00:00Z",
+      "time_local": "2026-10-05T20:00:00"
+    },
+    "Packet": {
+      "Number": 21
+    },
+    "TEROS12_Probe_1": {
+      "Volumetric_Water_Content_m3_m3": 0.184,
+      "Soil_Temperature_C": 16.15,
+      "Bulk_Electrical_Conductivity_dS_m": 0.444
+    },
+    "TEROS12_Probe_2": {
+      "Volumetric_Water_Content_m3_m3": 0.232,
+      "Soil_Temperature_C": 14.842,
+      "Bulk_Electrical_Conductivity_dS_m": 0.511
+    },
+    "TEROS12_Probe_3": {
+      "Volumetric_Water_Content_m3_m3": 0.271,
+      "Soil_Temperature_C": 13.573,
+      "Bulk_Electrical_Conductivity_dS_m": 0.575
+    },
+    "TEROS21_Gen2": {
+      "Soil_Matric_Potential_kPa": -96.8,
+      "Soil_Temperature_C": 14.842
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-06T04:00:00Z",
+      "time_local": "2026-10-05T21:00:00"
+    },
+    "Packet": {
+      "Number": 22
+    },
+    "TEROS12_Probe_1": {
+      "Volumetric_Water_Content_m3_m3": 0.184,
+      "Soil_Temperature_C": 15.516,
+      "Bulk_Electrical_Conductivity_dS_m": 0.444
+    },
+    "TEROS12_Probe_2": {
+      "Volumetric_Water_Content_m3_m3": 0.232,
+      "Soil_Temperature_C": 14.672,
+      "Bulk_Electrical_Conductivity_dS_m": 0.511
+    },
+    "TEROS12_Probe_3": {
+      "Volumetric_Water_Content_m3_m3": 0.271,
+      "Soil_Temperature_C": 13.6,
+      "Bulk_Electrical_Conductivity_dS_m": 0.575
+    },
+    "TEROS21_Gen2": {
+      "Soil_Matric_Potential_kPa": -96.8,
+      "Soil_Temperature_C": 14.672
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-06T05:00:00Z",
+      "time_local": "2026-10-05T22:00:00"
+    },
+    "Packet": {
+      "Number": 23
+    },
+    "TEROS12_Probe_1": {
+      "Volumetric_Water_Content_m3_m3": 0.184,
+      "Soil_Temperature_C": 14.776,
+      "Bulk_Electrical_Conductivity_dS_m": 0.444
+    },
+    "TEROS12_Probe_2": {
+      "Volumetric_Water_Content_m3_m3": 0.232,
+      "Soil_Temperature_C": 14.402,
+      "Bulk_Electrical_Conductivity_dS_m": 0.511
+    },
+    "TEROS12_Probe_3": {
+      "Volumetric_Water_Content_m3_m3": 0.271,
+      "Soil_Temperature_C": 13.573,
+      "Bulk_Electrical_Conductivity_dS_m": 0.575
+    },
+    "TEROS21_Gen2": {
+      "Soil_Matric_Potential_kPa": -96.8,
+      "Soil_Temperature_C": 14.402
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-06T06:00:00Z",
+      "time_local": "2026-10-05T23:00:00"
+    },
+    "Packet": {
+      "Number": 24
+    },
+    "TEROS12_Probe_1": {
+      "Volumetric_Water_Content_m3_m3": 0.185,
+      "Soil_Temperature_C": 13.981,
+      "Bulk_Electrical_Conductivity_dS_m": 0.445
+    },
+    "TEROS12_Probe_2": {
+      "Volumetric_Water_Content_m3_m3": 0.232,
+      "Soil_Temperature_C": 14.05,
+      "Bulk_Electrical_Conductivity_dS_m": 0.511
+    },
+    "TEROS12_Probe_3": {
+      "Volumetric_Water_Content_m3_m3": 0.271,
+      "Soil_Temperature_C": 13.493,
+      "Bulk_Electrical_Conductivity_dS_m": 0.575
+    },
+    "TEROS21_Gen2": {
+      "Soil_Matric_Potential_kPa": -96.8,
+      "Soil_Temperature_C": 14.05
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-06T07:00:00Z",
+      "time_local": "2026-10-06T00:00:00"
+    },
+    "Packet": {
+      "Number": 25
+    },
+    "TEROS12_Probe_1": {
+      "Volumetric_Water_Content_m3_m3": 0.185,
+      "Soil_Temperature_C": 13.186,
+      "Bulk_Electrical_Conductivity_dS_m": 0.445
+    },
+    "TEROS12_Probe_2": {
+      "Volumetric_Water_Content_m3_m3": 0.232,
+      "Soil_Temperature_C": 13.64,
+      "Bulk_Electrical_Conductivity_dS_m": 0.511
+    },
+    "TEROS12_Probe_3": {
+      "Volumetric_Water_Content_m3_m3": 0.271,
+      "Soil_Temperature_C": 13.366,
+      "Bulk_Electrical_Conductivity_dS_m": 0.575
+    },
+    "TEROS21_Gen2": {
+      "Soil_Matric_Potential_kPa": -96.8,
+      "Soil_Temperature_C": 13.64
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-06T08:00:00Z",
+      "time_local": "2026-10-06T01:00:00"
+    },
+    "Packet": {
+      "Number": 26
+    },
+    "TEROS12_Probe_1": {
+      "Volumetric_Water_Content_m3_m3": 0.185,
+      "Soil_Temperature_C": 12.446,
+      "Bulk_Electrical_Conductivity_dS_m": 0.445
+    },
+    "TEROS12_Probe_2": {
+      "Volumetric_Water_Content_m3_m3": 0.232,
+      "Soil_Temperature_C": 13.2,
+      "Bulk_Electrical_Conductivity_dS_m": 0.511
+    },
+    "TEROS12_Probe_3": {
+      "Volumetric_Water_Content_m3_m3": 0.271,
+      "Soil_Temperature_C": 13.2,
+      "Bulk_Electrical_Conductivity_dS_m": 0.575
+    },
+    "TEROS21_Gen2": {
+      "Soil_Matric_Potential_kPa": -96.8,
+      "Soil_Temperature_C": 13.2
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-06T09:00:00Z",
+      "time_local": "2026-10-06T02:00:00"
+    },
+    "Packet": {
+      "Number": 27
+    },
+    "TEROS12_Probe_1": {
+      "Volumetric_Water_Content_m3_m3": 0.191,
+      "Soil_Temperature_C": 11.812,
+      "Bulk_Electrical_Conductivity_dS_m": 0.447
+    },
+    "TEROS12_Probe_2": {
+      "Volumetric_Water_Content_m3_m3": 0.233,
+      "Soil_Temperature_C": 12.76,
+      "Bulk_Electrical_Conductivity_dS_m": 0.512
+    },
+    "TEROS12_Probe_3": {
+      "Volumetric_Water_Content_m3_m3": 0.271,
+      "Soil_Temperature_C": 13.007,
+      "Bulk_Electrical_Conductivity_dS_m": 0.575
+    },
+    "TEROS21_Gen2": {
+      "Soil_Matric_Potential_kPa": -96.5,
+      "Soil_Temperature_C": 12.76
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-06T10:00:00Z",
+      "time_local": "2026-10-06T03:00:00"
+    },
+    "Packet": {
+      "Number": 28
+    },
+    "TEROS12_Probe_1": {
+      "Volumetric_Water_Content_m3_m3": 0.199,
+      "Soil_Temperature_C": 11.327,
+      "Bulk_Electrical_Conductivity_dS_m": 0.45
+    },
+    "TEROS12_Probe_2": {
+      "Volumetric_Water_Content_m3_m3": 0.233,
+      "Soil_Temperature_C": 12.35,
+      "Bulk_Electrical_Conductivity_dS_m": 0.512
+    },
+    "TEROS12_Probe_3": {
+      "Volumetric_Water_Content_m3_m3": 0.271,
+      "Soil_Temperature_C": 12.8,
+      "Bulk_Electrical_Conductivity_dS_m": 0.575
+    },
+    "TEROS21_Gen2": {
+      "Soil_Matric_Potential_kPa": -96.5,
+      "Soil_Temperature_C": 12.35
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-06T11:00:00Z",
+      "time_local": "2026-10-06T04:00:00"
+    },
+    "Packet": {
+      "Number": 29
+    },
+    "TEROS12_Probe_1": {
+      "Volumetric_Water_Content_m3_m3": 0.202,
+      "Soil_Temperature_C": 11.024,
+      "Bulk_Electrical_Conductivity_dS_m": 0.451
+    },
+    "TEROS12_Probe_2": {
+      "Volumetric_Water_Content_m3_m3": 0.233,
+      "Soil_Temperature_C": 11.998,
+      "Bulk_Electrical_Conductivity_dS_m": 0.512
+    },
+    "TEROS12_Probe_3": {
+      "Volumetric_Water_Content_m3_m3": 0.271,
+      "Soil_Temperature_C": 12.593,
+      "Bulk_Electrical_Conductivity_dS_m": 0.575
+    },
+    "TEROS21_Gen2": {
+      "Soil_Matric_Potential_kPa": -96.5,
+      "Soil_Temperature_C": 11.998
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-06T12:00:00Z",
+      "time_local": "2026-10-06T05:00:00"
+    },
+    "Packet": {
+      "Number": 30
+    },
+    "TEROS12_Probe_1": {
+      "Volumetric_Water_Content_m3_m3": 0.201,
+      "Soil_Temperature_C": 10.926,
+      "Bulk_Electrical_Conductivity_dS_m": 0.45
+    },
+    "TEROS12_Probe_2": {
+      "Volumetric_Water_Content_m3_m3": 0.233,
+      "Soil_Temperature_C": 11.728,
+      "Bulk_Electrical_Conductivity_dS_m": 0.512
+    },
+    "TEROS12_Probe_3": {
+      "Volumetric_Water_Content_m3_m3": 0.272,
+      "Soil_Temperature_C": 12.4,
+      "Bulk_Electrical_Conductivity_dS_m": 0.575
+    },
+    "TEROS21_Gen2": {
+      "Soil_Matric_Potential_kPa": -96.5,
+      "Soil_Temperature_C": 11.728
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-06T13:00:00Z",
+      "time_local": "2026-10-06T06:00:00"
+    },
+    "Packet": {
+      "Number": 31
+    },
+    "TEROS12_Probe_1": {
+      "Volumetric_Water_Content_m3_m3": 0.201,
+      "Soil_Temperature_C": 11.039,
+      "Bulk_Electrical_Conductivity_dS_m": 0.45
+    },
+    "TEROS12_Probe_2": {
+      "Volumetric_Water_Content_m3_m3": 0.233,
+      "Soil_Temperature_C": 11.558,
+      "Bulk_Electrical_Conductivity_dS_m": 0.512
+    },
+    "TEROS12_Probe_3": {
+      "Volumetric_Water_Content_m3_m3": 0.272,
+      "Soil_Temperature_C": 12.234,
+      "Bulk_Electrical_Conductivity_dS_m": 0.575
+    },
+    "TEROS21_Gen2": {
+      "Soil_Matric_Potential_kPa": -96.5,
+      "Soil_Temperature_C": 11.558
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-06T14:00:00Z",
+      "time_local": "2026-10-06T07:00:00"
+    },
+    "Packet": {
+      "Number": 32
+    },
+    "TEROS12_Probe_1": {
+      "Volumetric_Water_Content_m3_m3": 0.2,
+      "Soil_Temperature_C": 11.356,
+      "Bulk_Electrical_Conductivity_dS_m": 0.45
+    },
+    "TEROS12_Probe_2": {
+      "Volumetric_Water_Content_m3_m3": 0.237,
+      "Soil_Temperature_C": 11.5,
+      "Bulk_Electrical_Conductivity_dS_m": 0.513
+    },
+    "TEROS12_Probe_3": {
+      "Volumetric_Water_Content_m3_m3": 0.272,
+      "Soil_Temperature_C": 12.107,
+      "Bulk_Electrical_Conductivity_dS_m": 0.575
+    },
+    "TEROS21_Gen2": {
+      "Soil_Matric_Potential_kPa": -95.0,
+      "Soil_Temperature_C": 11.5
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-06T15:00:00Z",
+      "time_local": "2026-10-06T08:00:00"
+    },
+    "Packet": {
+      "Number": 33
+    },
+    "TEROS12_Probe_1": {
+      "Volumetric_Water_Content_m3_m3": 0.199,
+      "Soil_Temperature_C": 11.856,
+      "Bulk_Electrical_Conductivity_dS_m": 0.45
+    },
+    "TEROS12_Probe_2": {
+      "Volumetric_Water_Content_m3_m3": 0.243,
+      "Soil_Temperature_C": 11.558,
+      "Bulk_Electrical_Conductivity_dS_m": 0.515
+    },
+    "TEROS12_Probe_3": {
+      "Volumetric_Water_Content_m3_m3": 0.272,
+      "Soil_Temperature_C": 12.027,
+      "Bulk_Electrical_Conductivity_dS_m": 0.575
+    },
+    "TEROS21_Gen2": {
+      "Soil_Matric_Potential_kPa": -93.0,
+      "Soil_Temperature_C": 11.558
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-06T16:00:00Z",
+      "time_local": "2026-10-06T09:00:00"
+    },
+    "Packet": {
+      "Number": 34
+    },
+    "TEROS12_Probe_1": {
+      "Volumetric_Water_Content_m3_m3": 0.198,
+      "Soil_Temperature_C": 12.506,
+      "Bulk_Electrical_Conductivity_dS_m": 0.449
+    },
+    "TEROS12_Probe_2": {
+      "Volumetric_Water_Content_m3_m3": 0.245,
+      "Soil_Temperature_C": 11.728,
+      "Bulk_Electrical_Conductivity_dS_m": 0.516
+    },
+    "TEROS12_Probe_3": {
+      "Volumetric_Water_Content_m3_m3": 0.272,
+      "Soil_Temperature_C": 12.0,
+      "Bulk_Electrical_Conductivity_dS_m": 0.575
+    },
+    "TEROS21_Gen2": {
+      "Soil_Matric_Potential_kPa": -92.2,
+      "Soil_Temperature_C": 11.728
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-06T17:00:00Z",
+      "time_local": "2026-10-06T10:00:00"
+    },
+    "Packet": {
+      "Number": 35
+    },
+    "TEROS12_Probe_1": {
+      "Volumetric_Water_Content_m3_m3": 0.198,
+      "Soil_Temperature_C": 13.26,
+      "Bulk_Electrical_Conductivity_dS_m": 0.449
+    },
+    "TEROS12_Probe_2": {
+      "Volumetric_Water_Content_m3_m3": 0.244,
+      "Soil_Temperature_C": 11.998,
+      "Bulk_Electrical_Conductivity_dS_m": 0.515
+    },
+    "TEROS12_Probe_3": {
+      "Volumetric_Water_Content_m3_m3": 0.272,
+      "Soil_Temperature_C": 12.027,
+      "Bulk_Electrical_Conductivity_dS_m": 0.575
+    },
+    "TEROS21_Gen2": {
+      "Soil_Matric_Potential_kPa": -92.6,
+      "Soil_Temperature_C": 11.998
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-06T18:00:00Z",
+      "time_local": "2026-10-06T11:00:00"
+    },
+    "Packet": {
+      "Number": 36
+    },
+    "TEROS12_Probe_1": {
+      "Volumetric_Water_Content_m3_m3": 0.197,
+      "Soil_Temperature_C": 14.07,
+      "Bulk_Electrical_Conductivity_dS_m": 0.449
+    },
+    "TEROS12_Probe_2": {
+      "Volumetric_Water_Content_m3_m3": 0.244,
+      "Soil_Temperature_C": 12.35,
+      "Bulk_Electrical_Conductivity_dS_m": 0.515
+    },
+    "TEROS12_Probe_3": {
+      "Volumetric_Water_Content_m3_m3": 0.272,
+      "Soil_Temperature_C": 12.107,
+      "Bulk_Electrical_Conductivity_dS_m": 0.575
+    },
+    "TEROS21_Gen2": {
+      "Soil_Matric_Potential_kPa": -92.6,
+      "Soil_Temperature_C": 12.35
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-06T19:00:00Z",
+      "time_local": "2026-10-06T12:00:00"
+    },
+    "Packet": {
+      "Number": 37
+    },
+    "TEROS12_Probe_1": {
+      "Volumetric_Water_Content_m3_m3": 0.197,
+      "Soil_Temperature_C": 14.879,
+      "Bulk_Electrical_Conductivity_dS_m": 0.449
+    },
+    "TEROS12_Probe_2": {
+      "Volumetric_Water_Content_m3_m3": 0.244,
+      "Soil_Temperature_C": 12.76,
+      "Bulk_Electrical_Conductivity_dS_m": 0.515
+    },
+    "TEROS12_Probe_3": {
+      "Volumetric_Water_Content_m3_m3": 0.272,
+      "Soil_Temperature_C": 12.234,
+      "Bulk_Electrical_Conductivity_dS_m": 0.575
+    },
+    "TEROS21_Gen2": {
+      "Soil_Matric_Potential_kPa": -92.6,
+      "Soil_Temperature_C": 12.76
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-06T20:00:00Z",
+      "time_local": "2026-10-06T13:00:00"
+    },
+    "Packet": {
+      "Number": 38
+    },
+    "TEROS12_Probe_1": {
+      "Volumetric_Water_Content_m3_m3": 0.196,
+      "Soil_Temperature_C": 15.634,
+      "Bulk_Electrical_Conductivity_dS_m": 0.449
+    },
+    "TEROS12_Probe_2": {
+      "Volumetric_Water_Content_m3_m3": 0.243,
+      "Soil_Temperature_C": 13.2,
+      "Bulk_Electrical_Conductivity_dS_m": 0.515
+    },
+    "TEROS12_Probe_3": {
+      "Volumetric_Water_Content_m3_m3": 0.272,
+      "Soil_Temperature_C": 12.4,
+      "Bulk_Electrical_Conductivity_dS_m": 0.575
+    },
+    "TEROS21_Gen2": {
+      "Soil_Matric_Potential_kPa": -93.0,
+      "Soil_Temperature_C": 13.2
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-06T21:00:00Z",
+      "time_local": "2026-10-06T14:00:00"
+    },
+    "Packet": {
+      "Number": 39
+    },
+    "TEROS12_Probe_1": {
+      "Volumetric_Water_Content_m3_m3": 0.196,
+      "Soil_Temperature_C": 16.283,
+      "Bulk_Electrical_Conductivity_dS_m": 0.449
+    },
+    "TEROS12_Probe_2": {
+      "Volumetric_Water_Content_m3_m3": 0.243,
+      "Soil_Temperature_C": 13.64,
+      "Bulk_Electrical_Conductivity_dS_m": 0.515
+    },
+    "TEROS12_Probe_3": {
+      "Volumetric_Water_Content_m3_m3": 0.272,
+      "Soil_Temperature_C": 12.593,
+      "Bulk_Electrical_Conductivity_dS_m": 0.575
+    },
+    "TEROS21_Gen2": {
+      "Soil_Matric_Potential_kPa": -93.0,
+      "Soil_Temperature_C": 13.64
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-06T22:00:00Z",
+      "time_local": "2026-10-06T15:00:00"
+    },
+    "Packet": {
+      "Number": 40
+    },
+    "TEROS12_Probe_1": {
+      "Volumetric_Water_Content_m3_m3": 0.196,
+      "Soil_Temperature_C": 16.783,
+      "Bulk_Electrical_Conductivity_dS_m": 0.449
+    },
+    "TEROS12_Probe_2": {
+      "Volumetric_Water_Content_m3_m3": 0.243,
+      "Soil_Temperature_C": 14.05,
+      "Bulk_Electrical_Conductivity_dS_m": 0.515
+    },
+    "TEROS12_Probe_3": {
+      "Volumetric_Water_Content_m3_m3": 0.272,
+      "Soil_Temperature_C": 12.8,
+      "Bulk_Electrical_Conductivity_dS_m": 0.575
+    },
+    "TEROS21_Gen2": {
+      "Soil_Matric_Potential_kPa": -93.0,
+      "Soil_Temperature_C": 14.05
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-06T23:00:00Z",
+      "time_local": "2026-10-06T16:00:00"
+    },
+    "Packet": {
+      "Number": 41
+    },
+    "TEROS12_Probe_1": {
+      "Volumetric_Water_Content_m3_m3": 0.195,
+      "Soil_Temperature_C": 17.099,
+      "Bulk_Electrical_Conductivity_dS_m": 0.448
+    },
+    "TEROS12_Probe_2": {
+      "Volumetric_Water_Content_m3_m3": 0.242,
+      "Soil_Temperature_C": 14.402,
+      "Bulk_Electrical_Conductivity_dS_m": 0.515
+    },
+    "TEROS12_Probe_3": {
+      "Volumetric_Water_Content_m3_m3": 0.272,
+      "Soil_Temperature_C": 13.007,
+      "Bulk_Electrical_Conductivity_dS_m": 0.575
+    },
+    "TEROS21_Gen2": {
+      "Soil_Matric_Potential_kPa": -93.3,
+      "Soil_Temperature_C": 14.402
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-07T00:00:00Z",
+      "time_local": "2026-10-06T17:00:00"
+    },
+    "Packet": {
+      "Number": 42
+    },
+    "TEROS12_Probe_1": {
+      "Volumetric_Water_Content_m3_m3": 0.195,
+      "Soil_Temperature_C": 17.212,
+      "Bulk_Electrical_Conductivity_dS_m": 0.448
+    },
+    "TEROS12_Probe_2": {
+      "Volumetric_Water_Content_m3_m3": 0.242,
+      "Soil_Temperature_C": 14.672,
+      "Bulk_Electrical_Conductivity_dS_m": 0.515
+    },
+    "TEROS12_Probe_3": {
+      "Volumetric_Water_Content_m3_m3": 0.272,
+      "Soil_Temperature_C": 13.2,
+      "Bulk_Electrical_Conductivity_dS_m": 0.575
+    },
+    "TEROS21_Gen2": {
+      "Soil_Matric_Potential_kPa": -93.3,
+      "Soil_Temperature_C": 14.672
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-07T01:00:00Z",
+      "time_local": "2026-10-06T18:00:00"
+    },
+    "Packet": {
+      "Number": 43
+    },
+    "TEROS12_Probe_1": {
+      "Volumetric_Water_Content_m3_m3": 0.195,
+      "Soil_Temperature_C": 17.113,
+      "Bulk_Electrical_Conductivity_dS_m": 0.448
+    },
+    "TEROS12_Probe_2": {
+      "Volumetric_Water_Content_m3_m3": 0.242,
+      "Soil_Temperature_C": 14.842,
+      "Bulk_Electrical_Conductivity_dS_m": 0.515
+    },
+    "TEROS12_Probe_3": {
+      "Volumetric_Water_Content_m3_m3": 0.272,
+      "Soil_Temperature_C": 13.366,
+      "Bulk_Electrical_Conductivity_dS_m": 0.575
+    },
+    "TEROS21_Gen2": {
+      "Soil_Matric_Potential_kPa": -93.3,
+      "Soil_Temperature_C": 14.842
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-07T02:00:00Z",
+      "time_local": "2026-10-06T19:00:00"
+    },
+    "Packet": {
+      "Number": 44
+    },
+    "TEROS12_Probe_1": {
+      "Volumetric_Water_Content_m3_m3": 0.194,
+      "Soil_Temperature_C": 16.81,
+      "Bulk_Electrical_Conductivity_dS_m": 0.448
+    },
+    "TEROS12_Probe_2": {
+      "Volumetric_Water_Content_m3_m3": 0.241,
+      "Soil_Temperature_C": 14.9,
+      "Bulk_Electrical_Conductivity_dS_m": 0.514
+    },
+    "TEROS12_Probe_3": {
+      "Volumetric_Water_Content_m3_m3": 0.274,
+      "Soil_Temperature_C": 13.493,
+      "Bulk_Electrical_Conductivity_dS_m": 0.576
+    },
+    "TEROS21_Gen2": {
+      "Soil_Matric_Potential_kPa": -93.7,
+      "Soil_Temperature_C": 14.9
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-07T03:00:00Z",
+      "time_local": "2026-10-06T20:00:00"
+    },
+    "Packet": {
+      "Number": 45
+    },
+    "TEROS12_Probe_1": {
+      "Volumetric_Water_Content_m3_m3": 0.194,
+      "Soil_Temperature_C": 16.324,
+      "Bulk_Electrical_Conductivity_dS_m": 0.448
+    },
+    "TEROS12_Probe_2": {
+      "Volumetric_Water_Content_m3_m3": 0.241,
+      "Soil_Temperature_C": 14.842,
+      "Bulk_Electrical_Conductivity_dS_m": 0.514
+    },
+    "TEROS12_Probe_3": {
+      "Volumetric_Water_Content_m3_m3": 0.277,
+      "Soil_Temperature_C": 13.573,
+      "Bulk_Electrical_Conductivity_dS_m": 0.577
+    },
+    "TEROS21_Gen2": {
+      "Soil_Matric_Potential_kPa": -93.7,
+      "Soil_Temperature_C": 14.842
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-07T04:00:00Z",
+      "time_local": "2026-10-06T21:00:00"
+    },
+    "Packet": {
+      "Number": 46
+    },
+    "TEROS12_Probe_1": {
+      "Volumetric_Water_Content_m3_m3": 0.194,
+      "Soil_Temperature_C": 15.689,
+      "Bulk_Electrical_Conductivity_dS_m": 0.448
+    },
+    "TEROS12_Probe_2": {
+      "Volumetric_Water_Content_m3_m3": 0.241,
+      "Soil_Temperature_C": 14.672,
+      "Bulk_Electrical_Conductivity_dS_m": 0.514
+    },
+    "TEROS12_Probe_3": {
+      "Volumetric_Water_Content_m3_m3": 0.278,
+      "Soil_Temperature_C": 13.6,
+      "Bulk_Electrical_Conductivity_dS_m": 0.577
+    },
+    "TEROS21_Gen2": {
+      "Soil_Matric_Potential_kPa": -93.7,
+      "Soil_Temperature_C": 14.672
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-07T05:00:00Z",
+      "time_local": "2026-10-06T22:00:00"
+    },
+    "Packet": {
+      "Number": 47
+    },
+    "TEROS12_Probe_1": {
+      "Volumetric_Water_Content_m3_m3": 0.194,
+      "Soil_Temperature_C": 14.948,
+      "Bulk_Electrical_Conductivity_dS_m": 0.448
+    },
+    "TEROS12_Probe_2": {
+      "Volumetric_Water_Content_m3_m3": 0.241,
+      "Soil_Temperature_C": 14.402,
+      "Bulk_Electrical_Conductivity_dS_m": 0.514
+    },
+    "TEROS12_Probe_3": {
+      "Volumetric_Water_Content_m3_m3": 0.278,
+      "Soil_Temperature_C": 13.573,
+      "Bulk_Electrical_Conductivity_dS_m": 0.577
+    },
+    "TEROS21_Gen2": {
+      "Soil_Matric_Potential_kPa": -93.7,
+      "Soil_Temperature_C": 14.402
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-07T06:00:00Z",
+      "time_local": "2026-10-06T23:00:00"
+    },
+    "Packet": {
+      "Number": 48
+    },
+    "TEROS12_Probe_1": {
+      "Volumetric_Water_Content_m3_m3": 0.194,
+      "Soil_Temperature_C": 14.152,
+      "Bulk_Electrical_Conductivity_dS_m": 0.448
+    },
+    "TEROS12_Probe_2": {
+      "Volumetric_Water_Content_m3_m3": 0.241,
+      "Soil_Temperature_C": 14.05,
+      "Bulk_Electrical_Conductivity_dS_m": 0.514
+    },
+    "TEROS12_Probe_3": {
+      "Volumetric_Water_Content_m3_m3": 0.278,
+      "Soil_Temperature_C": 13.493,
+      "Bulk_Electrical_Conductivity_dS_m": 0.577
+    },
+    "TEROS21_Gen2": {
+      "Soil_Matric_Potential_kPa": -93.7,
+      "Soil_Temperature_C": 14.05
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-07T07:00:00Z",
+      "time_local": "2026-10-07T00:00:00"
+    },
+    "Packet": {
+      "Number": 49
+    },
+    "TEROS12_Probe_1": {
+      "Volumetric_Water_Content_m3_m3": 0.194,
+      "Soil_Temperature_C": 13.356,
+      "Bulk_Electrical_Conductivity_dS_m": 0.448
+    },
+    "TEROS12_Probe_2": {
+      "Volumetric_Water_Content_m3_m3": 0.24,
+      "Soil_Temperature_C": 13.64,
+      "Bulk_Electrical_Conductivity_dS_m": 0.514
+    },
+    "TEROS12_Probe_3": {
+      "Volumetric_Water_Content_m3_m3": 0.278,
+      "Soil_Temperature_C": 13.366,
+      "Bulk_Electrical_Conductivity_dS_m": 0.577
+    },
+    "TEROS21_Gen2": {
+      "Soil_Matric_Potential_kPa": -94.0,
+      "Soil_Temperature_C": 13.64
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-07T08:00:00Z",
+      "time_local": "2026-10-07T01:00:00"
+    },
+    "Packet": {
+      "Number": 50
+    },
+    "TEROS12_Probe_1": {
+      "Volumetric_Water_Content_m3_m3": 0.193,
+      "Soil_Temperature_C": 12.615,
+      "Bulk_Electrical_Conductivity_dS_m": 0.448
+    },
+    "TEROS12_Probe_2": {
+      "Volumetric_Water_Content_m3_m3": 0.24,
+      "Soil_Temperature_C": 13.2,
+      "Bulk_Electrical_Conductivity_dS_m": 0.514
+    },
+    "TEROS12_Probe_3": {
+      "Volumetric_Water_Content_m3_m3": 0.278,
+      "Soil_Temperature_C": 13.2,
+      "Bulk_Electrical_Conductivity_dS_m": 0.577
+    },
+    "TEROS21_Gen2": {
+      "Soil_Matric_Potential_kPa": -94.0,
+      "Soil_Temperature_C": 13.2
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-07T09:00:00Z",
+      "time_local": "2026-10-07T02:00:00"
+    },
+    "Packet": {
+      "Number": 51
+    },
+    "TEROS12_Probe_1": {
+      "Volumetric_Water_Content_m3_m3": 0.193,
+      "Soil_Temperature_C": 11.979,
+      "Bulk_Electrical_Conductivity_dS_m": 0.448
+    },
+    "TEROS12_Probe_2": {
+      "Volumetric_Water_Content_m3_m3": 0.24,
+      "Soil_Temperature_C": 12.76,
+      "Bulk_Electrical_Conductivity_dS_m": 0.514
+    },
+    "TEROS12_Probe_3": {
+      "Volumetric_Water_Content_m3_m3": 0.278,
+      "Soil_Temperature_C": 13.007,
+      "Bulk_Electrical_Conductivity_dS_m": 0.577
+    },
+    "TEROS21_Gen2": {
+      "Soil_Matric_Potential_kPa": -94.0,
+      "Soil_Temperature_C": 12.76
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-07T10:00:00Z",
+      "time_local": "2026-10-07T03:00:00"
+    },
+    "Packet": {
+      "Number": 52
+    },
+    "TEROS12_Probe_1": {
+      "Volumetric_Water_Content_m3_m3": 0.193,
+      "Soil_Temperature_C": 11.493,
+      "Bulk_Electrical_Conductivity_dS_m": 0.448
+    },
+    "TEROS12_Probe_2": {
+      "Volumetric_Water_Content_m3_m3": 0.24,
+      "Soil_Temperature_C": 12.35,
+      "Bulk_Electrical_Conductivity_dS_m": 0.514
+    },
+    "TEROS12_Probe_3": {
+      "Volumetric_Water_Content_m3_m3": 0.278,
+      "Soil_Temperature_C": 12.8,
+      "Bulk_Electrical_Conductivity_dS_m": 0.577
+    },
+    "TEROS21_Gen2": {
+      "Soil_Matric_Potential_kPa": -94.0,
+      "Soil_Temperature_C": 12.35
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-07T11:00:00Z",
+      "time_local": "2026-10-07T04:00:00"
+    },
+    "Packet": {
+      "Number": 53
+    },
+    "TEROS12_Probe_1": {
+      "Volumetric_Water_Content_m3_m3": 0.193,
+      "Soil_Temperature_C": 11.189,
+      "Bulk_Electrical_Conductivity_dS_m": 0.448
+    },
+    "TEROS12_Probe_2": {
+      "Volumetric_Water_Content_m3_m3": 0.24,
+      "Soil_Temperature_C": 11.998,
+      "Bulk_Electrical_Conductivity_dS_m": 0.514
+    },
+    "TEROS12_Probe_3": {
+      "Volumetric_Water_Content_m3_m3": 0.277,
+      "Soil_Temperature_C": 12.593,
+      "Bulk_Electrical_Conductivity_dS_m": 0.577
+    },
+    "TEROS21_Gen2": {
+      "Soil_Matric_Potential_kPa": -94.0,
+      "Soil_Temperature_C": 11.998
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-07T12:00:00Z",
+      "time_local": "2026-10-07T05:00:00"
+    },
+    "Packet": {
+      "Number": 54
+    },
+    "TEROS12_Probe_1": {
+      "Volumetric_Water_Content_m3_m3": 0.193,
+      "Soil_Temperature_C": 11.09,
+      "Bulk_Electrical_Conductivity_dS_m": 0.448
+    },
+    "TEROS12_Probe_2": {
+      "Volumetric_Water_Content_m3_m3": 0.24,
+      "Soil_Temperature_C": 11.728,
+      "Bulk_Electrical_Conductivity_dS_m": 0.514
+    },
+    "TEROS12_Probe_3": {
+      "Volumetric_Water_Content_m3_m3": 0.277,
+      "Soil_Temperature_C": 12.4,
+      "Bulk_Electrical_Conductivity_dS_m": 0.577
+    },
+    "TEROS21_Gen2": {
+      "Soil_Matric_Potential_kPa": -94.0,
+      "Soil_Temperature_C": 11.728
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-07T13:00:00Z",
+      "time_local": "2026-10-07T06:00:00"
+    },
+    "Packet": {
+      "Number": 55
+    },
+    "TEROS12_Probe_1": {
+      "Volumetric_Water_Content_m3_m3": 0.193,
+      "Soil_Temperature_C": 11.201,
+      "Bulk_Electrical_Conductivity_dS_m": 0.448
+    },
+    "TEROS12_Probe_2": {
+      "Volumetric_Water_Content_m3_m3": 0.24,
+      "Soil_Temperature_C": 11.558,
+      "Bulk_Electrical_Conductivity_dS_m": 0.514
+    },
+    "TEROS12_Probe_3": {
+      "Volumetric_Water_Content_m3_m3": 0.277,
+      "Soil_Temperature_C": 12.234,
+      "Bulk_Electrical_Conductivity_dS_m": 0.577
+    },
+    "TEROS21_Gen2": {
+      "Soil_Matric_Potential_kPa": -94.0,
+      "Soil_Temperature_C": 11.558
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-07T14:00:00Z",
+      "time_local": "2026-10-07T07:00:00"
+    },
+    "Packet": {
+      "Number": 56
+    },
+    "TEROS12_Probe_1": {
+      "Volumetric_Water_Content_m3_m3": 0.193,
+      "Soil_Temperature_C": 11.517,
+      "Bulk_Electrical_Conductivity_dS_m": 0.448
+    },
+    "TEROS12_Probe_2": {
+      "Volumetric_Water_Content_m3_m3": 0.24,
+      "Soil_Temperature_C": 11.5,
+      "Bulk_Electrical_Conductivity_dS_m": 0.514
+    },
+    "TEROS12_Probe_3": {
+      "Volumetric_Water_Content_m3_m3": 0.277,
+      "Soil_Temperature_C": 12.107,
+      "Bulk_Electrical_Conductivity_dS_m": 0.577
+    },
+    "TEROS21_Gen2": {
+      "Soil_Matric_Potential_kPa": -94.0,
+      "Soil_Temperature_C": 11.5
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-07T15:00:00Z",
+      "time_local": "2026-10-07T08:00:00"
+    },
+    "Packet": {
+      "Number": 57
+    },
+    "TEROS12_Probe_1": {
+      "Volumetric_Water_Content_m3_m3": 0.193,
+      "Soil_Temperature_C": 12.015,
+      "Bulk_Electrical_Conductivity_dS_m": 0.448
+    },
+    "TEROS12_Probe_2": {
+      "Volumetric_Water_Content_m3_m3": 0.239,
+      "Soil_Temperature_C": 11.558,
+      "Bulk_Electrical_Conductivity_dS_m": 0.514
+    },
+    "TEROS12_Probe_3": {
+      "Volumetric_Water_Content_m3_m3": 0.277,
+      "Soil_Temperature_C": 12.027,
+      "Bulk_Electrical_Conductivity_dS_m": 0.577
+    },
+    "TEROS21_Gen2": {
+      "Soil_Matric_Potential_kPa": -94.3,
+      "Soil_Temperature_C": 11.558
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-07T16:00:00Z",
+      "time_local": "2026-10-07T09:00:00"
+    },
+    "Packet": {
+      "Number": 58
+    },
+    "TEROS12_Probe_1": {
+      "Volumetric_Water_Content_m3_m3": 0.193,
+      "Soil_Temperature_C": 12.663,
+      "Bulk_Electrical_Conductivity_dS_m": 0.448
+    },
+    "TEROS12_Probe_2": {
+      "Volumetric_Water_Content_m3_m3": 0.239,
+      "Soil_Temperature_C": 11.728,
+      "Bulk_Electrical_Conductivity_dS_m": 0.514
+    },
+    "TEROS12_Probe_3": {
+      "Volumetric_Water_Content_m3_m3": 0.277,
+      "Soil_Temperature_C": 12.0,
+      "Bulk_Electrical_Conductivity_dS_m": 0.577
+    },
+    "TEROS21_Gen2": {
+      "Soil_Matric_Potential_kPa": -94.3,
+      "Soil_Temperature_C": 11.728
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-07T17:00:00Z",
+      "time_local": "2026-10-07T10:00:00"
+    },
+    "Packet": {
+      "Number": 59
+    },
+    "TEROS12_Probe_1": {
+      "Volumetric_Water_Content_m3_m3": 0.193,
+      "Soil_Temperature_C": 13.417,
+      "Bulk_Electrical_Conductivity_dS_m": 0.448
+    },
+    "TEROS12_Probe_2": {
+      "Volumetric_Water_Content_m3_m3": 0.239,
+      "Soil_Temperature_C": 11.998,
+      "Bulk_Electrical_Conductivity_dS_m": 0.514
+    },
+    "TEROS12_Probe_3": {
+      "Volumetric_Water_Content_m3_m3": 0.277,
+      "Soil_Temperature_C": 12.027,
+      "Bulk_Electrical_Conductivity_dS_m": 0.577
+    },
+    "TEROS21_Gen2": {
+      "Soil_Matric_Potential_kPa": -94.3,
+      "Soil_Temperature_C": 11.998
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-07T18:00:00Z",
+      "time_local": "2026-10-07T11:00:00"
+    },
+    "Packet": {
+      "Number": 60
+    },
+    "TEROS12_Probe_1": {
+      "Volumetric_Water_Content_m3_m3": 0.193,
+      "Soil_Temperature_C": 14.225,
+      "Bulk_Electrical_Conductivity_dS_m": 0.448
+    },
+    "TEROS12_Probe_2": {
+      "Volumetric_Water_Content_m3_m3": 0.239,
+      "Soil_Temperature_C": 12.35,
+      "Bulk_Electrical_Conductivity_dS_m": 0.514
+    },
+    "TEROS12_Probe_3": {
+      "Volumetric_Water_Content_m3_m3": 0.277,
+      "Soil_Temperature_C": 12.107,
+      "Bulk_Electrical_Conductivity_dS_m": 0.577
+    },
+    "TEROS21_Gen2": {
+      "Soil_Matric_Potential_kPa": -94.3,
+      "Soil_Temperature_C": 12.35
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-07T19:00:00Z",
+      "time_local": "2026-10-07T12:00:00"
+    },
+    "Packet": {
+      "Number": 61
+    },
+    "TEROS12_Probe_1": {
+      "Volumetric_Water_Content_m3_m3": 0.193,
+      "Soil_Temperature_C": 15.033,
+      "Bulk_Electrical_Conductivity_dS_m": 0.448
+    },
+    "TEROS12_Probe_2": {
+      "Volumetric_Water_Content_m3_m3": 0.239,
+      "Soil_Temperature_C": 12.76,
+      "Bulk_Electrical_Conductivity_dS_m": 0.514
+    },
+    "TEROS12_Probe_3": {
+      "Volumetric_Water_Content_m3_m3": 0.277,
+      "Soil_Temperature_C": 12.234,
+      "Bulk_Electrical_Conductivity_dS_m": 0.577
+    },
+    "TEROS21_Gen2": {
+      "Soil_Matric_Potential_kPa": -94.3,
+      "Soil_Temperature_C": 12.76
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-07T20:00:00Z",
+      "time_local": "2026-10-07T13:00:00"
+    },
+    "Packet": {
+      "Number": 62
+    },
+    "TEROS12_Probe_1": {
+      "Volumetric_Water_Content_m3_m3": 0.193,
+      "Soil_Temperature_C": 15.786,
+      "Bulk_Electrical_Conductivity_dS_m": 0.448
+    },
+    "TEROS12_Probe_2": {
+      "Volumetric_Water_Content_m3_m3": 0.239,
+      "Soil_Temperature_C": 13.2,
+      "Bulk_Electrical_Conductivity_dS_m": 0.514
+    },
+    "TEROS12_Probe_3": {
+      "Volumetric_Water_Content_m3_m3": 0.277,
+      "Soil_Temperature_C": 12.4,
+      "Bulk_Electrical_Conductivity_dS_m": 0.577
+    },
+    "TEROS21_Gen2": {
+      "Soil_Matric_Potential_kPa": -94.3,
+      "Soil_Temperature_C": 13.2
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-07T21:00:00Z",
+      "time_local": "2026-10-07T14:00:00"
+    },
+    "Packet": {
+      "Number": 63
+    },
+    "TEROS12_Probe_1": {
+      "Volumetric_Water_Content_m3_m3": 0.193,
+      "Soil_Temperature_C": 16.433,
+      "Bulk_Electrical_Conductivity_dS_m": 0.448
+    },
+    "TEROS12_Probe_2": {
+      "Volumetric_Water_Content_m3_m3": 0.239,
+      "Soil_Temperature_C": 13.64,
+      "Bulk_Electrical_Conductivity_dS_m": 0.514
+    },
+    "TEROS12_Probe_3": {
+      "Volumetric_Water_Content_m3_m3": 0.277,
+      "Soil_Temperature_C": 12.593,
+      "Bulk_Electrical_Conductivity_dS_m": 0.577
+    },
+    "TEROS21_Gen2": {
+      "Soil_Matric_Potential_kPa": -94.3,
+      "Soil_Temperature_C": 13.64
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-07T22:00:00Z",
+      "time_local": "2026-10-07T15:00:00"
+    },
+    "Packet": {
+      "Number": 64
+    },
+    "TEROS12_Probe_1": {
+      "Volumetric_Water_Content_m3_m3": 0.193,
+      "Soil_Temperature_C": 16.931,
+      "Bulk_Electrical_Conductivity_dS_m": 0.448
+    },
+    "TEROS12_Probe_2": {
+      "Volumetric_Water_Content_m3_m3": 0.239,
+      "Soil_Temperature_C": 14.05,
+      "Bulk_Electrical_Conductivity_dS_m": 0.514
+    },
+    "TEROS12_Probe_3": {
+      "Volumetric_Water_Content_m3_m3": 0.277,
+      "Soil_Temperature_C": 12.8,
+      "Bulk_Electrical_Conductivity_dS_m": 0.577
+    },
+    "TEROS21_Gen2": {
+      "Soil_Matric_Potential_kPa": -94.3,
+      "Soil_Temperature_C": 14.05
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-07T23:00:00Z",
+      "time_local": "2026-10-07T16:00:00"
+    },
+    "Packet": {
+      "Number": 65
+    },
+    "TEROS12_Probe_1": {
+      "Volumetric_Water_Content_m3_m3": 0.193,
+      "Soil_Temperature_C": 17.246,
+      "Bulk_Electrical_Conductivity_dS_m": 0.448
+    },
+    "TEROS12_Probe_2": {
+      "Volumetric_Water_Content_m3_m3": 0.239,
+      "Soil_Temperature_C": 14.402,
+      "Bulk_Electrical_Conductivity_dS_m": 0.514
+    },
+    "TEROS12_Probe_3": {
+      "Volumetric_Water_Content_m3_m3": 0.277,
+      "Soil_Temperature_C": 13.007,
+      "Bulk_Electrical_Conductivity_dS_m": 0.577
+    },
+    "TEROS21_Gen2": {
+      "Soil_Matric_Potential_kPa": -94.3,
+      "Soil_Temperature_C": 14.402
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-08T00:00:00Z",
+      "time_local": "2026-10-07T17:00:00"
+    },
+    "Packet": {
+      "Number": 66
+    },
+    "TEROS12_Probe_1": {
+      "Volumetric_Water_Content_m3_m3": 0.193,
+      "Soil_Temperature_C": 17.357,
+      "Bulk_Electrical_Conductivity_dS_m": 0.448
+    },
+    "TEROS12_Probe_2": {
+      "Volumetric_Water_Content_m3_m3": 0.239,
+      "Soil_Temperature_C": 14.672,
+      "Bulk_Electrical_Conductivity_dS_m": 0.514
+    },
+    "TEROS12_Probe_3": {
+      "Volumetric_Water_Content_m3_m3": 0.277,
+      "Soil_Temperature_C": 13.2,
+      "Bulk_Electrical_Conductivity_dS_m": 0.577
+    },
+    "TEROS21_Gen2": {
+      "Soil_Matric_Potential_kPa": -94.3,
+      "Soil_Temperature_C": 14.672
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-08T01:00:00Z",
+      "time_local": "2026-10-07T18:00:00"
+    },
+    "Packet": {
+      "Number": 67
+    },
+    "TEROS12_Probe_1": {
+      "Volumetric_Water_Content_m3_m3": 0.193,
+      "Soil_Temperature_C": 17.257,
+      "Bulk_Electrical_Conductivity_dS_m": 0.448
+    },
+    "TEROS12_Probe_2": {
+      "Volumetric_Water_Content_m3_m3": 0.239,
+      "Soil_Temperature_C": 14.842,
+      "Bulk_Electrical_Conductivity_dS_m": 0.514
+    },
+    "TEROS12_Probe_3": {
+      "Volumetric_Water_Content_m3_m3": 0.277,
+      "Soil_Temperature_C": 13.366,
+      "Bulk_Electrical_Conductivity_dS_m": 0.577
+    },
+    "TEROS21_Gen2": {
+      "Soil_Matric_Potential_kPa": -94.3,
+      "Soil_Temperature_C": 14.842
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-08T02:00:00Z",
+      "time_local": "2026-10-07T19:00:00"
+    },
+    "Packet": {
+      "Number": 68
+    },
+    "TEROS12_Probe_1": {
+      "Volumetric_Water_Content_m3_m3": 0.193,
+      "Soil_Temperature_C": 16.952,
+      "Bulk_Electrical_Conductivity_dS_m": 0.448
+    },
+    "TEROS12_Probe_2": {
+      "Volumetric_Water_Content_m3_m3": 0.239,
+      "Soil_Temperature_C": 14.9,
+      "Bulk_Electrical_Conductivity_dS_m": 0.514
+    },
+    "TEROS12_Probe_3": {
+      "Volumetric_Water_Content_m3_m3": 0.276,
+      "Soil_Temperature_C": 13.493,
+      "Bulk_Electrical_Conductivity_dS_m": 0.577
+    },
+    "TEROS21_Gen2": {
+      "Soil_Matric_Potential_kPa": -94.3,
+      "Soil_Temperature_C": 14.9
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-08T03:00:00Z",
+      "time_local": "2026-10-07T20:00:00"
+    },
+    "Packet": {
+      "Number": 69
+    },
+    "TEROS12_Probe_1": {
+      "Volumetric_Water_Content_m3_m3": 0.194,
+      "Soil_Temperature_C": 16.465,
+      "Bulk_Electrical_Conductivity_dS_m": 0.448
+    },
+    "TEROS12_Probe_2": {
+      "Volumetric_Water_Content_m3_m3": 0.239,
+      "Soil_Temperature_C": 14.842,
+      "Bulk_Electrical_Conductivity_dS_m": 0.514
+    },
+    "TEROS12_Probe_3": {
+      "Volumetric_Water_Content_m3_m3": 0.276,
+      "Soil_Temperature_C": 13.573,
+      "Bulk_Electrical_Conductivity_dS_m": 0.577
+    },
+    "TEROS21_Gen2": {
+      "Soil_Matric_Potential_kPa": -94.3,
+      "Soil_Temperature_C": 14.842
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-08T04:00:00Z",
+      "time_local": "2026-10-07T21:00:00"
+    },
+    "Packet": {
+      "Number": 70
+    },
+    "TEROS12_Probe_1": {
+      "Volumetric_Water_Content_m3_m3": 0.194,
+      "Soil_Temperature_C": 15.827,
+      "Bulk_Electrical_Conductivity_dS_m": 0.448
+    },
+    "TEROS12_Probe_2": {
+      "Volumetric_Water_Content_m3_m3": 0.239,
+      "Soil_Temperature_C": 14.672,
+      "Bulk_Electrical_Conductivity_dS_m": 0.514
+    },
+    "TEROS12_Probe_3": {
+      "Volumetric_Water_Content_m3_m3": 0.276,
+      "Soil_Temperature_C": 13.6,
+      "Bulk_Electrical_Conductivity_dS_m": 0.577
+    },
+    "TEROS21_Gen2": {
+      "Soil_Matric_Potential_kPa": -94.3,
+      "Soil_Temperature_C": 14.672
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-08T05:00:00Z",
+      "time_local": "2026-10-07T22:00:00"
+    },
+    "Packet": {
+      "Number": 71
+    },
+    "TEROS12_Probe_1": {
+      "Volumetric_Water_Content_m3_m3": 0.194,
+      "Soil_Temperature_C": 15.085,
+      "Bulk_Electrical_Conductivity_dS_m": 0.448
+    },
+    "TEROS12_Probe_2": {
+      "Volumetric_Water_Content_m3_m3": 0.239,
+      "Soil_Temperature_C": 14.402,
+      "Bulk_Electrical_Conductivity_dS_m": 0.514
+    },
+    "TEROS12_Probe_3": {
+      "Volumetric_Water_Content_m3_m3": 0.276,
+      "Soil_Temperature_C": 13.573,
+      "Bulk_Electrical_Conductivity_dS_m": 0.577
+    },
+    "TEROS21_Gen2": {
+      "Soil_Matric_Potential_kPa": -94.3,
+      "Soil_Temperature_C": 14.402
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-08T06:00:00Z",
+      "time_local": "2026-10-07T23:00:00"
+    },
+    "Packet": {
+      "Number": 72
+    },
+    "TEROS12_Probe_1": {
+      "Volumetric_Water_Content_m3_m3": 0.194,
+      "Soil_Temperature_C": 14.287,
+      "Bulk_Electrical_Conductivity_dS_m": 0.448
+    },
+    "TEROS12_Probe_2": {
+      "Volumetric_Water_Content_m3_m3": 0.239,
+      "Soil_Temperature_C": 14.05,
+      "Bulk_Electrical_Conductivity_dS_m": 0.514
+    },
+    "TEROS12_Probe_3": {
+      "Volumetric_Water_Content_m3_m3": 0.276,
+      "Soil_Temperature_C": 13.493,
+      "Bulk_Electrical_Conductivity_dS_m": 0.577
+    },
+    "TEROS21_Gen2": {
+      "Soil_Matric_Potential_kPa": -94.3,
+      "Soil_Temperature_C": 14.05
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-08T07:00:00Z",
+      "time_local": "2026-10-08T00:00:00"
+    },
+    "Packet": {
+      "Number": 73
+    },
+    "TEROS12_Probe_1": {
+      "Volumetric_Water_Content_m3_m3": 0.194,
+      "Soil_Temperature_C": 13.489,
+      "Bulk_Electrical_Conductivity_dS_m": 0.448
+    },
+    "TEROS12_Probe_2": {
+      "Volumetric_Water_Content_m3_m3": 0.239,
+      "Soil_Temperature_C": 13.64,
+      "Bulk_Electrical_Conductivity_dS_m": 0.514
+    },
+    "TEROS12_Probe_3": {
+      "Volumetric_Water_Content_m3_m3": 0.276,
+      "Soil_Temperature_C": 13.366,
+      "Bulk_Electrical_Conductivity_dS_m": 0.577
+    },
+    "TEROS21_Gen2": {
+      "Soil_Matric_Potential_kPa": -94.3,
+      "Soil_Temperature_C": 13.64
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-08T08:00:00Z",
+      "time_local": "2026-10-08T01:00:00"
+    },
+    "Packet": {
+      "Number": 74
+    },
+    "TEROS12_Probe_1": {
+      "Volumetric_Water_Content_m3_m3": 0.194,
+      "Soil_Temperature_C": 12.746,
+      "Bulk_Electrical_Conductivity_dS_m": 0.448
+    },
+    "TEROS12_Probe_2": {
+      "Volumetric_Water_Content_m3_m3": 0.239,
+      "Soil_Temperature_C": 13.2,
+      "Bulk_Electrical_Conductivity_dS_m": 0.514
+    },
+    "TEROS12_Probe_3": {
+      "Volumetric_Water_Content_m3_m3": 0.276,
+      "Soil_Temperature_C": 13.2,
+      "Bulk_Electrical_Conductivity_dS_m": 0.577
+    },
+    "TEROS21_Gen2": {
+      "Soil_Matric_Potential_kPa": -94.3,
+      "Soil_Temperature_C": 13.2
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-08T09:00:00Z",
+      "time_local": "2026-10-08T02:00:00"
+    },
+    "Packet": {
+      "Number": 75
+    },
+    "TEROS12_Probe_1": {
+      "Volumetric_Water_Content_m3_m3": 0.194,
+      "Soil_Temperature_C": 12.108,
+      "Bulk_Electrical_Conductivity_dS_m": 0.448
+    },
+    "TEROS12_Probe_2": {
+      "Volumetric_Water_Content_m3_m3": 0.239,
+      "Soil_Temperature_C": 12.76,
+      "Bulk_Electrical_Conductivity_dS_m": 0.514
+    },
+    "TEROS12_Probe_3": {
+      "Volumetric_Water_Content_m3_m3": 0.276,
+      "Soil_Temperature_C": 13.007,
+      "Bulk_Electrical_Conductivity_dS_m": 0.577
+    },
+    "TEROS21_Gen2": {
+      "Soil_Matric_Potential_kPa": -94.3,
+      "Soil_Temperature_C": 12.76
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-08T10:00:00Z",
+      "time_local": "2026-10-08T03:00:00"
+    },
+    "Packet": {
+      "Number": 76
+    },
+    "TEROS12_Probe_1": {
+      "Volumetric_Water_Content_m3_m3": 0.194,
+      "Soil_Temperature_C": 11.62,
+      "Bulk_Electrical_Conductivity_dS_m": 0.448
+    },
+    "TEROS12_Probe_2": {
+      "Volumetric_Water_Content_m3_m3": 0.239,
+      "Soil_Temperature_C": 12.35,
+      "Bulk_Electrical_Conductivity_dS_m": 0.514
+    },
+    "TEROS12_Probe_3": {
+      "Volumetric_Water_Content_m3_m3": 0.276,
+      "Soil_Temperature_C": 12.8,
+      "Bulk_Electrical_Conductivity_dS_m": 0.577
+    },
+    "TEROS21_Gen2": {
+      "Soil_Matric_Potential_kPa": -94.3,
+      "Soil_Temperature_C": 12.35
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-08T11:00:00Z",
+      "time_local": "2026-10-08T04:00:00"
+    },
+    "Packet": {
+      "Number": 77
+    },
+    "TEROS12_Probe_1": {
+      "Volumetric_Water_Content_m3_m3": 0.194,
+      "Soil_Temperature_C": 11.315,
+      "Bulk_Electrical_Conductivity_dS_m": 0.448
+    },
+    "TEROS12_Probe_2": {
+      "Volumetric_Water_Content_m3_m3": 0.239,
+      "Soil_Temperature_C": 11.998,
+      "Bulk_Electrical_Conductivity_dS_m": 0.514
+    },
+    "TEROS12_Probe_3": {
+      "Volumetric_Water_Content_m3_m3": 0.276,
+      "Soil_Temperature_C": 12.593,
+      "Bulk_Electrical_Conductivity_dS_m": 0.577
+    },
+    "TEROS21_Gen2": {
+      "Soil_Matric_Potential_kPa": -94.3,
+      "Soil_Temperature_C": 11.998
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-08T12:00:00Z",
+      "time_local": "2026-10-08T05:00:00"
+    },
+    "Packet": {
+      "Number": 78
+    },
+    "TEROS12_Probe_1": {
+      "Volumetric_Water_Content_m3_m3": 0.194,
+      "Soil_Temperature_C": 11.213,
+      "Bulk_Electrical_Conductivity_dS_m": 0.448
+    },
+    "TEROS12_Probe_2": {
+      "Volumetric_Water_Content_m3_m3": 0.239,
+      "Soil_Temperature_C": 11.728,
+      "Bulk_Electrical_Conductivity_dS_m": 0.514
+    },
+    "TEROS12_Probe_3": {
+      "Volumetric_Water_Content_m3_m3": 0.276,
+      "Soil_Temperature_C": 12.4,
+      "Bulk_Electrical_Conductivity_dS_m": 0.577
+    },
+    "TEROS21_Gen2": {
+      "Soil_Matric_Potential_kPa": -94.3,
+      "Soil_Temperature_C": 11.728
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-08T13:00:00Z",
+      "time_local": "2026-10-08T06:00:00"
+    },
+    "Packet": {
+      "Number": 79
+    },
+    "TEROS12_Probe_1": {
+      "Volumetric_Water_Content_m3_m3": 0.194,
+      "Soil_Temperature_C": 11.323,
+      "Bulk_Electrical_Conductivity_dS_m": 0.448
+    },
+    "TEROS12_Probe_2": {
+      "Volumetric_Water_Content_m3_m3": 0.239,
+      "Soil_Temperature_C": 11.558,
+      "Bulk_Electrical_Conductivity_dS_m": 0.514
+    },
+    "TEROS12_Probe_3": {
+      "Volumetric_Water_Content_m3_m3": 0.276,
+      "Soil_Temperature_C": 12.234,
+      "Bulk_Electrical_Conductivity_dS_m": 0.577
+    },
+    "TEROS21_Gen2": {
+      "Soil_Matric_Potential_kPa": -94.3,
+      "Soil_Temperature_C": 11.558
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-08T14:00:00Z",
+      "time_local": "2026-10-08T07:00:00"
+    },
+    "Packet": {
+      "Number": 80
+    },
+    "TEROS12_Probe_1": {
+      "Volumetric_Water_Content_m3_m3": 0.196,
+      "Soil_Temperature_C": 11.637,
+      "Bulk_Electrical_Conductivity_dS_m": 0.449
+    },
+    "TEROS12_Probe_2": {
+      "Volumetric_Water_Content_m3_m3": 0.239,
+      "Soil_Temperature_C": 11.5,
+      "Bulk_Electrical_Conductivity_dS_m": 0.514
+    },
+    "TEROS12_Probe_3": {
+      "Volumetric_Water_Content_m3_m3": 0.276,
+      "Soil_Temperature_C": 12.107,
+      "Bulk_Electrical_Conductivity_dS_m": 0.577
+    },
+    "TEROS21_Gen2": {
+      "Soil_Matric_Potential_kPa": -94.3,
+      "Soil_Temperature_C": 11.5
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-08T15:00:00Z",
+      "time_local": "2026-10-08T08:00:00"
+    },
+    "Packet": {
+      "Number": 81
+    },
+    "TEROS12_Probe_1": {
+      "Volumetric_Water_Content_m3_m3": 0.202,
+      "Soil_Temperature_C": 12.133,
+      "Bulk_Electrical_Conductivity_dS_m": 0.451
+    },
+    "TEROS12_Probe_2": {
+      "Volumetric_Water_Content_m3_m3": 0.239,
+      "Soil_Temperature_C": 11.558,
+      "Bulk_Electrical_Conductivity_dS_m": 0.514
+    },
+    "TEROS12_Probe_3": {
+      "Volumetric_Water_Content_m3_m3": 0.276,
+      "Soil_Temperature_C": 12.027,
+      "Bulk_Electrical_Conductivity_dS_m": 0.577
+    },
+    "TEROS21_Gen2": {
+      "Soil_Matric_Potential_kPa": -94.3,
+      "Soil_Temperature_C": 11.558
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-08T16:00:00Z",
+      "time_local": "2026-10-08T09:00:00"
+    },
+    "Packet": {
+      "Number": 82
+    },
+    "TEROS12_Probe_1": {
+      "Volumetric_Water_Content_m3_m3": 0.208,
+      "Soil_Temperature_C": 12.779,
+      "Bulk_Electrical_Conductivity_dS_m": 0.453
+    },
+    "TEROS12_Probe_2": {
+      "Volumetric_Water_Content_m3_m3": 0.239,
+      "Soil_Temperature_C": 11.728,
+      "Bulk_Electrical_Conductivity_dS_m": 0.514
+    },
+    "TEROS12_Probe_3": {
+      "Volumetric_Water_Content_m3_m3": 0.276,
+      "Soil_Temperature_C": 12.0,
+      "Bulk_Electrical_Conductivity_dS_m": 0.577
+    },
+    "TEROS21_Gen2": {
+      "Soil_Matric_Potential_kPa": -94.3,
+      "Soil_Temperature_C": 11.728
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-08T17:00:00Z",
+      "time_local": "2026-10-08T10:00:00"
+    },
+    "Packet": {
+      "Number": 83
+    },
+    "TEROS12_Probe_1": {
+      "Volumetric_Water_Content_m3_m3": 0.211,
+      "Soil_Temperature_C": 13.531,
+      "Bulk_Electrical_Conductivity_dS_m": 0.454
+    },
+    "TEROS12_Probe_2": {
+      "Volumetric_Water_Content_m3_m3": 0.239,
+      "Soil_Temperature_C": 11.998,
+      "Bulk_Electrical_Conductivity_dS_m": 0.514
+    },
+    "TEROS12_Probe_3": {
+      "Volumetric_Water_Content_m3_m3": 0.276,
+      "Soil_Temperature_C": 12.027,
+      "Bulk_Electrical_Conductivity_dS_m": 0.577
+    },
+    "TEROS21_Gen2": {
+      "Soil_Matric_Potential_kPa": -94.3,
+      "Soil_Temperature_C": 11.998
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-08T18:00:00Z",
+      "time_local": "2026-10-08T11:00:00"
+    },
+    "Packet": {
+      "Number": 84
+    },
+    "TEROS12_Probe_1": {
+      "Volumetric_Water_Content_m3_m3": 0.21,
+      "Soil_Temperature_C": 14.337,
+      "Bulk_Electrical_Conductivity_dS_m": 0.454
+    },
+    "TEROS12_Probe_2": {
+      "Volumetric_Water_Content_m3_m3": 0.239,
+      "Soil_Temperature_C": 12.35,
+      "Bulk_Electrical_Conductivity_dS_m": 0.514
+    },
+    "TEROS12_Probe_3": {
+      "Volumetric_Water_Content_m3_m3": 0.276,
+      "Soil_Temperature_C": 12.107,
+      "Bulk_Electrical_Conductivity_dS_m": 0.577
+    },
+    "TEROS21_Gen2": {
+      "Soil_Matric_Potential_kPa": -94.3,
+      "Soil_Temperature_C": 12.35
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-08T19:00:00Z",
+      "time_local": "2026-10-08T12:00:00"
+    },
+    "Packet": {
+      "Number": 85
+    },
+    "TEROS12_Probe_1": {
+      "Volumetric_Water_Content_m3_m3": 0.209,
+      "Soil_Temperature_C": 15.142,
+      "Bulk_Electrical_Conductivity_dS_m": 0.453
+    },
+    "TEROS12_Probe_2": {
+      "Volumetric_Water_Content_m3_m3": 0.24,
+      "Soil_Temperature_C": 12.76,
+      "Bulk_Electrical_Conductivity_dS_m": 0.514
+    },
+    "TEROS12_Probe_3": {
+      "Volumetric_Water_Content_m3_m3": 0.276,
+      "Soil_Temperature_C": 12.234,
+      "Bulk_Electrical_Conductivity_dS_m": 0.577
+    },
+    "TEROS21_Gen2": {
+      "Soil_Matric_Potential_kPa": -94.0,
+      "Soil_Temperature_C": 12.76
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-08T20:00:00Z",
+      "time_local": "2026-10-08T13:00:00"
+    },
+    "Packet": {
+      "Number": 86
+    },
+    "TEROS12_Probe_1": {
+      "Volumetric_Water_Content_m3_m3": 0.208,
+      "Soil_Temperature_C": 15.893,
+      "Bulk_Electrical_Conductivity_dS_m": 0.453
+    },
+    "TEROS12_Probe_2": {
+      "Volumetric_Water_Content_m3_m3": 0.244,
+      "Soil_Temperature_C": 13.2,
+      "Bulk_Electrical_Conductivity_dS_m": 0.515
+    },
+    "TEROS12_Probe_3": {
+      "Volumetric_Water_Content_m3_m3": 0.276,
+      "Soil_Temperature_C": 12.4,
+      "Bulk_Electrical_Conductivity_dS_m": 0.577
+    },
+    "TEROS21_Gen2": {
+      "Soil_Matric_Potential_kPa": -92.6,
+      "Soil_Temperature_C": 13.2
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-08T21:00:00Z",
+      "time_local": "2026-10-08T14:00:00"
+    },
+    "Packet": {
+      "Number": 87
+    },
+    "TEROS12_Probe_1": {
+      "Volumetric_Water_Content_m3_m3": 0.208,
+      "Soil_Temperature_C": 16.539,
+      "Bulk_Electrical_Conductivity_dS_m": 0.453
+    },
+    "TEROS12_Probe_2": {
+      "Volumetric_Water_Content_m3_m3": 0.248,
+      "Soil_Temperature_C": 13.64,
+      "Bulk_Electrical_Conductivity_dS_m": 0.517
+    },
+    "TEROS12_Probe_3": {
+      "Volumetric_Water_Content_m3_m3": 0.276,
+      "Soil_Temperature_C": 12.593,
+      "Bulk_Electrical_Conductivity_dS_m": 0.577
+    },
+    "TEROS21_Gen2": {
+      "Soil_Matric_Potential_kPa": -91.2,
+      "Soil_Temperature_C": 13.64
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-08T22:00:00Z",
+      "time_local": "2026-10-08T15:00:00"
+    },
+    "Packet": {
+      "Number": 88
+    },
+    "TEROS12_Probe_1": {
+      "Volumetric_Water_Content_m3_m3": 0.207,
+      "Soil_Temperature_C": 17.035,
+      "Bulk_Electrical_Conductivity_dS_m": 0.452
+    },
+    "TEROS12_Probe_2": {
+      "Volumetric_Water_Content_m3_m3": 0.25,
+      "Soil_Temperature_C": 14.05,
+      "Bulk_Electrical_Conductivity_dS_m": 0.517
+    },
+    "TEROS12_Probe_3": {
+      "Volumetric_Water_Content_m3_m3": 0.276,
+      "Soil_Temperature_C": 12.8,
+      "Bulk_Electrical_Conductivity_dS_m": 0.577
+    },
+    "TEROS21_Gen2": {
+      "Soil_Matric_Potential_kPa": -90.5,
+      "Soil_Temperature_C": 14.05
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-08T23:00:00Z",
+      "time_local": "2026-10-08T16:00:00"
+    },
+    "Packet": {
+      "Number": 89
+    },
+    "TEROS12_Probe_1": {
+      "Volumetric_Water_Content_m3_m3": 0.206,
+      "Soil_Temperature_C": 17.348,
+      "Bulk_Electrical_Conductivity_dS_m": 0.452
+    },
+    "TEROS12_Probe_2": {
+      "Volumetric_Water_Content_m3_m3": 0.25,
+      "Soil_Temperature_C": 14.402,
+      "Bulk_Electrical_Conductivity_dS_m": 0.517
+    },
+    "TEROS12_Probe_3": {
+      "Volumetric_Water_Content_m3_m3": 0.276,
+      "Soil_Temperature_C": 13.007,
+      "Bulk_Electrical_Conductivity_dS_m": 0.577
+    },
+    "TEROS21_Gen2": {
+      "Soil_Matric_Potential_kPa": -90.5,
+      "Soil_Temperature_C": 14.402
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-09T00:00:00Z",
+      "time_local": "2026-10-08T17:00:00"
+    },
+    "Packet": {
+      "Number": 90
+    },
+    "TEROS12_Probe_1": {
+      "Volumetric_Water_Content_m3_m3": 0.206,
+      "Soil_Temperature_C": 17.456,
+      "Bulk_Electrical_Conductivity_dS_m": 0.452
+    },
+    "TEROS12_Probe_2": {
+      "Volumetric_Water_Content_m3_m3": 0.249,
+      "Soil_Temperature_C": 14.672,
+      "Bulk_Electrical_Conductivity_dS_m": 0.517
+    },
+    "TEROS12_Probe_3": {
+      "Volumetric_Water_Content_m3_m3": 0.276,
+      "Soil_Temperature_C": 13.2,
+      "Bulk_Electrical_Conductivity_dS_m": 0.577
+    },
+    "TEROS21_Gen2": {
+      "Soil_Matric_Potential_kPa": -90.8,
+      "Soil_Temperature_C": 14.672
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-09T01:00:00Z",
+      "time_local": "2026-10-08T18:00:00"
+    },
+    "Packet": {
+      "Number": 91
+    },
+    "TEROS12_Probe_1": {
+      "Volumetric_Water_Content_m3_m3": 0.205,
+      "Soil_Temperature_C": 17.354,
+      "Bulk_Electrical_Conductivity_dS_m": 0.452
+    },
+    "TEROS12_Probe_2": {
+      "Volumetric_Water_Content_m3_m3": 0.249,
+      "Soil_Temperature_C": 14.842,
+      "Bulk_Electrical_Conductivity_dS_m": 0.517
+    },
+    "TEROS12_Probe_3": {
+      "Volumetric_Water_Content_m3_m3": 0.276,
+      "Soil_Temperature_C": 13.366,
+      "Bulk_Electrical_Conductivity_dS_m": 0.577
+    },
+    "TEROS21_Gen2": {
+      "Soil_Matric_Potential_kPa": -90.8,
+      "Soil_Temperature_C": 14.842
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-09T02:00:00Z",
+      "time_local": "2026-10-08T19:00:00"
+    },
+    "Packet": {
+      "Number": 92
+    },
+    "TEROS12_Probe_1": {
+      "Volumetric_Water_Content_m3_m3": 0.205,
+      "Soil_Temperature_C": 17.047,
+      "Bulk_Electrical_Conductivity_dS_m": 0.452
+    },
+    "TEROS12_Probe_2": {
+      "Volumetric_Water_Content_m3_m3": 0.249,
+      "Soil_Temperature_C": 14.9,
+      "Bulk_Electrical_Conductivity_dS_m": 0.517
+    },
+    "TEROS12_Probe_3": {
+      "Volumetric_Water_Content_m3_m3": 0.276,
+      "Soil_Temperature_C": 13.493,
+      "Bulk_Electrical_Conductivity_dS_m": 0.577
+    },
+    "TEROS21_Gen2": {
+      "Soil_Matric_Potential_kPa": -90.8,
+      "Soil_Temperature_C": 14.9
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-09T03:00:00Z",
+      "time_local": "2026-10-08T20:00:00"
+    },
+    "Packet": {
+      "Number": 93
+    },
+    "TEROS12_Probe_1": {
+      "Volumetric_Water_Content_m3_m3": 0.204,
+      "Soil_Temperature_C": 16.557,
+      "Bulk_Electrical_Conductivity_dS_m": 0.451
+    },
+    "TEROS12_Probe_2": {
+      "Volumetric_Water_Content_m3_m3": 0.248,
+      "Soil_Temperature_C": 14.842,
+      "Bulk_Electrical_Conductivity_dS_m": 0.517
+    },
+    "TEROS12_Probe_3": {
+      "Volumetric_Water_Content_m3_m3": 0.276,
+      "Soil_Temperature_C": 13.573,
+      "Bulk_Electrical_Conductivity_dS_m": 0.577
+    },
+    "TEROS21_Gen2": {
+      "Soil_Matric_Potential_kPa": -91.2,
+      "Soil_Temperature_C": 14.842
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-09T04:00:00Z",
+      "time_local": "2026-10-08T21:00:00"
+    },
+    "Packet": {
+      "Number": 94
+    },
+    "TEROS12_Probe_1": {
+      "Volumetric_Water_Content_m3_m3": 0.204,
+      "Soil_Temperature_C": 15.917,
+      "Bulk_Electrical_Conductivity_dS_m": 0.451
+    },
+    "TEROS12_Probe_2": {
+      "Volumetric_Water_Content_m3_m3": 0.248,
+      "Soil_Temperature_C": 14.672,
+      "Bulk_Electrical_Conductivity_dS_m": 0.517
+    },
+    "TEROS12_Probe_3": {
+      "Volumetric_Water_Content_m3_m3": 0.276,
+      "Soil_Temperature_C": 13.6,
+      "Bulk_Electrical_Conductivity_dS_m": 0.577
+    },
+    "TEROS21_Gen2": {
+      "Soil_Matric_Potential_kPa": -91.2,
+      "Soil_Temperature_C": 14.672
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-09T05:00:00Z",
+      "time_local": "2026-10-08T22:00:00"
+    },
+    "Packet": {
+      "Number": 95
+    },
+    "TEROS12_Probe_1": {
+      "Volumetric_Water_Content_m3_m3": 0.203,
+      "Soil_Temperature_C": 15.172,
+      "Bulk_Electrical_Conductivity_dS_m": 0.451
+    },
+    "TEROS12_Probe_2": {
+      "Volumetric_Water_Content_m3_m3": 0.247,
+      "Soil_Temperature_C": 14.402,
+      "Bulk_Electrical_Conductivity_dS_m": 0.516
+    },
+    "TEROS12_Probe_3": {
+      "Volumetric_Water_Content_m3_m3": 0.276,
+      "Soil_Temperature_C": 13.573,
+      "Bulk_Electrical_Conductivity_dS_m": 0.577
+    },
+    "TEROS21_Gen2": {
+      "Soil_Matric_Potential_kPa": -91.5,
+      "Soil_Temperature_C": 14.402
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-09T06:00:00Z",
+      "time_local": "2026-10-08T23:00:00"
+    },
+    "Packet": {
+      "Number": 96
+    },
+    "TEROS12_Probe_1": {
+      "Volumetric_Water_Content_m3_m3": 0.203,
+      "Soil_Temperature_C": 14.372,
+      "Bulk_Electrical_Conductivity_dS_m": 0.451
+    },
+    "TEROS12_Probe_2": {
+      "Volumetric_Water_Content_m3_m3": 0.247,
+      "Soil_Temperature_C": 14.05,
+      "Bulk_Electrical_Conductivity_dS_m": 0.516
+    },
+    "TEROS12_Probe_3": {
+      "Volumetric_Water_Content_m3_m3": 0.276,
+      "Soil_Temperature_C": 13.493,
+      "Bulk_Electrical_Conductivity_dS_m": 0.577
+    },
+    "TEROS21_Gen2": {
+      "Soil_Matric_Potential_kPa": -91.5,
+      "Soil_Temperature_C": 14.05
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-09T07:00:00Z",
+      "time_local": "2026-10-09T00:00:00"
+    },
+    "Packet": {
+      "Number": 97
+    },
+    "TEROS12_Probe_1": {
+      "Volumetric_Water_Content_m3_m3": 0.202,
+      "Soil_Temperature_C": 13.572,
+      "Bulk_Electrical_Conductivity_dS_m": 0.451
+    },
+    "TEROS12_Probe_2": {
+      "Volumetric_Water_Content_m3_m3": 0.247,
+      "Soil_Temperature_C": 13.64,
+      "Bulk_Electrical_Conductivity_dS_m": 0.516
+    },
+    "TEROS12_Probe_3": {
+      "Volumetric_Water_Content_m3_m3": 0.277,
+      "Soil_Temperature_C": 13.366,
+      "Bulk_Electrical_Conductivity_dS_m": 0.577
+    },
+    "TEROS21_Gen2": {
+      "Soil_Matric_Potential_kPa": -91.5,
+      "Soil_Temperature_C": 13.64
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-09T08:00:00Z",
+      "time_local": "2026-10-09T01:00:00"
+    },
+    "Packet": {
+      "Number": 98
+    },
+    "TEROS12_Probe_1": {
+      "Volumetric_Water_Content_m3_m3": 0.202,
+      "Soil_Temperature_C": 12.827,
+      "Bulk_Electrical_Conductivity_dS_m": 0.451
+    },
+    "TEROS12_Probe_2": {
+      "Volumetric_Water_Content_m3_m3": 0.246,
+      "Soil_Temperature_C": 13.2,
+      "Bulk_Electrical_Conductivity_dS_m": 0.516
+    },
+    "TEROS12_Probe_3": {
+      "Volumetric_Water_Content_m3_m3": 0.278,
+      "Soil_Temperature_C": 13.2,
+      "Bulk_Electrical_Conductivity_dS_m": 0.577
+    },
+    "TEROS21_Gen2": {
+      "Soil_Matric_Potential_kPa": -91.9,
+      "Soil_Temperature_C": 13.2
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-09T09:00:00Z",
+      "time_local": "2026-10-09T02:00:00"
+    },
+    "Packet": {
+      "Number": 99
+    },
+    "TEROS12_Probe_1": {
+      "Volumetric_Water_Content_m3_m3": 0.202,
+      "Soil_Temperature_C": 12.187,
+      "Bulk_Electrical_Conductivity_dS_m": 0.451
+    },
+    "TEROS12_Probe_2": {
+      "Volumetric_Water_Content_m3_m3": 0.246,
+      "Soil_Temperature_C": 12.76,
+      "Bulk_Electrical_Conductivity_dS_m": 0.516
+    },
+    "TEROS12_Probe_3": {
+      "Volumetric_Water_Content_m3_m3": 0.281,
+      "Soil_Temperature_C": 13.007,
+      "Bulk_Electrical_Conductivity_dS_m": 0.578
+    },
+    "TEROS21_Gen2": {
+      "Soil_Matric_Potential_kPa": -91.9,
+      "Soil_Temperature_C": 12.76
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-09T10:00:00Z",
+      "time_local": "2026-10-09T03:00:00"
+    },
+    "Packet": {
+      "Number": 100
+    },
+    "TEROS12_Probe_1": {
+      "Volumetric_Water_Content_m3_m3": 0.201,
+      "Soil_Temperature_C": 11.697,
+      "Bulk_Electrical_Conductivity_dS_m": 0.45
+    },
+    "TEROS12_Probe_2": {
+      "Volumetric_Water_Content_m3_m3": 0.246,
+      "Soil_Temperature_C": 12.35,
+      "Bulk_Electrical_Conductivity_dS_m": 0.516
+    },
+    "TEROS12_Probe_3": {
+      "Volumetric_Water_Content_m3_m3": 0.282,
+      "Soil_Temperature_C": 12.8,
+      "Bulk_Electrical_Conductivity_dS_m": 0.579
+    },
+    "TEROS21_Gen2": {
+      "Soil_Matric_Potential_kPa": -91.9,
+      "Soil_Temperature_C": 12.35
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-09T11:00:00Z",
+      "time_local": "2026-10-09T04:00:00"
+    },
+    "Packet": {
+      "Number": 101
+    },
+    "TEROS12_Probe_1": {
+      "Volumetric_Water_Content_m3_m3": 0.201,
+      "Soil_Temperature_C": 11.389,
+      "Bulk_Electrical_Conductivity_dS_m": 0.45
+    },
+    "TEROS12_Probe_2": {
+      "Volumetric_Water_Content_m3_m3": 0.246,
+      "Soil_Temperature_C": 11.998,
+      "Bulk_Electrical_Conductivity_dS_m": 0.516
+    },
+    "TEROS12_Probe_3": {
+      "Volumetric_Water_Content_m3_m3": 0.282,
+      "Soil_Temperature_C": 12.593,
+      "Bulk_Electrical_Conductivity_dS_m": 0.579
+    },
+    "TEROS21_Gen2": {
+      "Soil_Matric_Potential_kPa": -91.9,
+      "Soil_Temperature_C": 11.998
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-09T12:00:00Z",
+      "time_local": "2026-10-09T05:00:00"
+    },
+    "Packet": {
+      "Number": 102
+    },
+    "TEROS12_Probe_1": {
+      "Volumetric_Water_Content_m3_m3": 0.201,
+      "Soil_Temperature_C": 11.285,
+      "Bulk_Electrical_Conductivity_dS_m": 0.45
+    },
+    "TEROS12_Probe_2": {
+      "Volumetric_Water_Content_m3_m3": 0.245,
+      "Soil_Temperature_C": 11.728,
+      "Bulk_Electrical_Conductivity_dS_m": 0.516
+    },
+    "TEROS12_Probe_3": {
+      "Volumetric_Water_Content_m3_m3": 0.282,
+      "Soil_Temperature_C": 12.4,
+      "Bulk_Electrical_Conductivity_dS_m": 0.579
+    },
+    "TEROS21_Gen2": {
+      "Soil_Matric_Potential_kPa": -92.2,
+      "Soil_Temperature_C": 11.728
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-09T13:00:00Z",
+      "time_local": "2026-10-09T06:00:00"
+    },
+    "Packet": {
+      "Number": 103
+    },
+    "TEROS12_Probe_1": {
+      "Volumetric_Water_Content_m3_m3": 0.201,
+      "Soil_Temperature_C": 11.392,
+      "Bulk_Electrical_Conductivity_dS_m": 0.45
+    },
+    "TEROS12_Probe_2": {
+      "Volumetric_Water_Content_m3_m3": 0.245,
+      "Soil_Temperature_C": 11.558,
+      "Bulk_Electrical_Conductivity_dS_m": 0.516
+    },
+    "TEROS12_Probe_3": {
+      "Volumetric_Water_Content_m3_m3": 0.281,
+      "Soil_Temperature_C": 12.234,
+      "Bulk_Electrical_Conductivity_dS_m": 0.578
+    },
+    "TEROS21_Gen2": {
+      "Soil_Matric_Potential_kPa": -92.2,
+      "Soil_Temperature_C": 11.558
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-09T14:00:00Z",
+      "time_local": "2026-10-09T07:00:00"
+    },
+    "Packet": {
+      "Number": 104
+    },
+    "TEROS12_Probe_1": {
+      "Volumetric_Water_Content_m3_m3": 0.2,
+      "Soil_Temperature_C": 11.704,
+      "Bulk_Electrical_Conductivity_dS_m": 0.45
+    },
+    "TEROS12_Probe_2": {
+      "Volumetric_Water_Content_m3_m3": 0.245,
+      "Soil_Temperature_C": 11.5,
+      "Bulk_Electrical_Conductivity_dS_m": 0.516
+    },
+    "TEROS12_Probe_3": {
+      "Volumetric_Water_Content_m3_m3": 0.281,
+      "Soil_Temperature_C": 12.107,
+      "Bulk_Electrical_Conductivity_dS_m": 0.578
+    },
+    "TEROS21_Gen2": {
+      "Soil_Matric_Potential_kPa": -92.2,
+      "Soil_Temperature_C": 11.5
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-09T15:00:00Z",
+      "time_local": "2026-10-09T08:00:00"
+    },
+    "Packet": {
+      "Number": 105
+    },
+    "TEROS12_Probe_1": {
+      "Volumetric_Water_Content_m3_m3": 0.2,
+      "Soil_Temperature_C": 12.198,
+      "Bulk_Electrical_Conductivity_dS_m": 0.45
+    },
+    "TEROS12_Probe_2": {
+      "Volumetric_Water_Content_m3_m3": 0.245,
+      "Soil_Temperature_C": 11.558,
+      "Bulk_Electrical_Conductivity_dS_m": 0.516
+    },
+    "TEROS12_Probe_3": {
+      "Volumetric_Water_Content_m3_m3": 0.281,
+      "Soil_Temperature_C": 12.027,
+      "Bulk_Electrical_Conductivity_dS_m": 0.578
+    },
+    "TEROS21_Gen2": {
+      "Soil_Matric_Potential_kPa": -92.2,
+      "Soil_Temperature_C": 11.558
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-09T16:00:00Z",
+      "time_local": "2026-10-09T09:00:00"
+    },
+    "Packet": {
+      "Number": 106
+    },
+    "TEROS12_Probe_1": {
+      "Volumetric_Water_Content_m3_m3": 0.2,
+      "Soil_Temperature_C": 12.841,
+      "Bulk_Electrical_Conductivity_dS_m": 0.45
+    },
+    "TEROS12_Probe_2": {
+      "Volumetric_Water_Content_m3_m3": 0.244,
+      "Soil_Temperature_C": 11.728,
+      "Bulk_Electrical_Conductivity_dS_m": 0.515
+    },
+    "TEROS12_Probe_3": {
+      "Volumetric_Water_Content_m3_m3": 0.281,
+      "Soil_Temperature_C": 12.0,
+      "Bulk_Electrical_Conductivity_dS_m": 0.578
+    },
+    "TEROS21_Gen2": {
+      "Soil_Matric_Potential_kPa": -92.6,
+      "Soil_Temperature_C": 11.728
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-09T17:00:00Z",
+      "time_local": "2026-10-09T10:00:00"
+    },
+    "Packet": {
+      "Number": 107
+    },
+    "TEROS12_Probe_1": {
+      "Volumetric_Water_Content_m3_m3": 0.2,
+      "Soil_Temperature_C": 13.59,
+      "Bulk_Electrical_Conductivity_dS_m": 0.45
+    },
+    "TEROS12_Probe_2": {
+      "Volumetric_Water_Content_m3_m3": 0.244,
+      "Soil_Temperature_C": 11.998,
+      "Bulk_Electrical_Conductivity_dS_m": 0.515
+    },
+    "TEROS12_Probe_3": {
+      "Volumetric_Water_Content_m3_m3": 0.281,
+      "Soil_Temperature_C": 12.027,
+      "Bulk_Electrical_Conductivity_dS_m": 0.578
+    },
+    "TEROS21_Gen2": {
+      "Soil_Matric_Potential_kPa": -92.6,
+      "Soil_Temperature_C": 11.998
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-09T18:00:00Z",
+      "time_local": "2026-10-09T11:00:00"
+    },
+    "Packet": {
+      "Number": 108
+    },
+    "TEROS12_Probe_1": {
+      "Volumetric_Water_Content_m3_m3": 0.2,
+      "Soil_Temperature_C": 14.394,
+      "Bulk_Electrical_Conductivity_dS_m": 0.45
+    },
+    "TEROS12_Probe_2": {
+      "Volumetric_Water_Content_m3_m3": 0.244,
+      "Soil_Temperature_C": 12.35,
+      "Bulk_Electrical_Conductivity_dS_m": 0.515
+    },
+    "TEROS12_Probe_3": {
+      "Volumetric_Water_Content_m3_m3": 0.281,
+      "Soil_Temperature_C": 12.107,
+      "Bulk_Electrical_Conductivity_dS_m": 0.578
+    },
+    "TEROS21_Gen2": {
+      "Soil_Matric_Potential_kPa": -92.6,
+      "Soil_Temperature_C": 12.35
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-09T19:00:00Z",
+      "time_local": "2026-10-09T12:00:00"
+    },
+    "Packet": {
+      "Number": 109
+    },
+    "TEROS12_Probe_1": {
+      "Volumetric_Water_Content_m3_m3": 0.2,
+      "Soil_Temperature_C": 15.197,
+      "Bulk_Electrical_Conductivity_dS_m": 0.45
+    },
+    "TEROS12_Probe_2": {
+      "Volumetric_Water_Content_m3_m3": 0.244,
+      "Soil_Temperature_C": 12.76,
+      "Bulk_Electrical_Conductivity_dS_m": 0.515
+    },
+    "TEROS12_Probe_3": {
+      "Volumetric_Water_Content_m3_m3": 0.281,
+      "Soil_Temperature_C": 12.234,
+      "Bulk_Electrical_Conductivity_dS_m": 0.578
+    },
+    "TEROS21_Gen2": {
+      "Soil_Matric_Potential_kPa": -92.6,
+      "Soil_Temperature_C": 12.76
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-09T20:00:00Z",
+      "time_local": "2026-10-09T13:00:00"
+    },
+    "Packet": {
+      "Number": 110
+    },
+    "TEROS12_Probe_1": {
+      "Volumetric_Water_Content_m3_m3": 0.2,
+      "Soil_Temperature_C": 15.946,
+      "Bulk_Electrical_Conductivity_dS_m": 0.45
+    },
+    "TEROS12_Probe_2": {
+      "Volumetric_Water_Content_m3_m3": 0.244,
+      "Soil_Temperature_C": 13.2,
+      "Bulk_Electrical_Conductivity_dS_m": 0.515
+    },
+    "TEROS12_Probe_3": {
+      "Volumetric_Water_Content_m3_m3": 0.281,
+      "Soil_Temperature_C": 12.4,
+      "Bulk_Electrical_Conductivity_dS_m": 0.578
+    },
+    "TEROS21_Gen2": {
+      "Soil_Matric_Potential_kPa": -92.6,
+      "Soil_Temperature_C": 13.2
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-09T21:00:00Z",
+      "time_local": "2026-10-09T14:00:00"
+    },
+    "Packet": {
+      "Number": 111
+    },
+    "TEROS12_Probe_1": {
+      "Volumetric_Water_Content_m3_m3": 0.199,
+      "Soil_Temperature_C": 16.589,
+      "Bulk_Electrical_Conductivity_dS_m": 0.45
+    },
+    "TEROS12_Probe_2": {
+      "Volumetric_Water_Content_m3_m3": 0.244,
+      "Soil_Temperature_C": 13.64,
+      "Bulk_Electrical_Conductivity_dS_m": 0.515
+    },
+    "TEROS12_Probe_3": {
+      "Volumetric_Water_Content_m3_m3": 0.28,
+      "Soil_Temperature_C": 12.593,
+      "Bulk_Electrical_Conductivity_dS_m": 0.578
+    },
+    "TEROS21_Gen2": {
+      "Soil_Matric_Potential_kPa": -92.6,
+      "Soil_Temperature_C": 13.64
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-09T22:00:00Z",
+      "time_local": "2026-10-09T15:00:00"
+    },
+    "Packet": {
+      "Number": 112
+    },
+    "TEROS12_Probe_1": {
+      "Volumetric_Water_Content_m3_m3": 0.199,
+      "Soil_Temperature_C": 17.082,
+      "Bulk_Electrical_Conductivity_dS_m": 0.45
+    },
+    "TEROS12_Probe_2": {
+      "Volumetric_Water_Content_m3_m3": 0.243,
+      "Soil_Temperature_C": 14.05,
+      "Bulk_Electrical_Conductivity_dS_m": 0.515
+    },
+    "TEROS12_Probe_3": {
+      "Volumetric_Water_Content_m3_m3": 0.28,
+      "Soil_Temperature_C": 12.8,
+      "Bulk_Electrical_Conductivity_dS_m": 0.578
+    },
+    "TEROS21_Gen2": {
+      "Soil_Matric_Potential_kPa": -93.0,
+      "Soil_Temperature_C": 14.05
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-09T23:00:00Z",
+      "time_local": "2026-10-09T16:00:00"
+    },
+    "Packet": {
+      "Number": 113
+    },
+    "TEROS12_Probe_1": {
+      "Volumetric_Water_Content_m3_m3": 0.199,
+      "Soil_Temperature_C": 17.393,
+      "Bulk_Electrical_Conductivity_dS_m": 0.45
+    },
+    "TEROS12_Probe_2": {
+      "Volumetric_Water_Content_m3_m3": 0.243,
+      "Soil_Temperature_C": 14.402,
+      "Bulk_Electrical_Conductivity_dS_m": 0.515
+    },
+    "TEROS12_Probe_3": {
+      "Volumetric_Water_Content_m3_m3": 0.28,
+      "Soil_Temperature_C": 13.007,
+      "Bulk_Electrical_Conductivity_dS_m": 0.578
+    },
+    "TEROS21_Gen2": {
+      "Soil_Matric_Potential_kPa": -93.0,
+      "Soil_Temperature_C": 14.402
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-10T00:00:00Z",
+      "time_local": "2026-10-09T17:00:00"
+    },
+    "Packet": {
+      "Number": 114
+    },
+    "TEROS12_Probe_1": {
+      "Volumetric_Water_Content_m3_m3": 0.199,
+      "Soil_Temperature_C": 17.499,
+      "Bulk_Electrical_Conductivity_dS_m": 0.45
+    },
+    "TEROS12_Probe_2": {
+      "Volumetric_Water_Content_m3_m3": 0.243,
+      "Soil_Temperature_C": 14.672,
+      "Bulk_Electrical_Conductivity_dS_m": 0.515
+    },
+    "TEROS12_Probe_3": {
+      "Volumetric_Water_Content_m3_m3": 0.28,
+      "Soil_Temperature_C": 13.2,
+      "Bulk_Electrical_Conductivity_dS_m": 0.578
+    },
+    "TEROS21_Gen2": {
+      "Soil_Matric_Potential_kPa": -93.0,
+      "Soil_Temperature_C": 14.672
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-10T01:00:00Z",
+      "time_local": "2026-10-09T18:00:00"
+    },
+    "Packet": {
+      "Number": 115
+    },
+    "TEROS12_Probe_1": {
+      "Volumetric_Water_Content_m3_m3": 0.199,
+      "Soil_Temperature_C": 17.394,
+      "Bulk_Electrical_Conductivity_dS_m": 0.45
+    },
+    "TEROS12_Probe_2": {
+      "Volumetric_Water_Content_m3_m3": 0.243,
+      "Soil_Temperature_C": 14.842,
+      "Bulk_Electrical_Conductivity_dS_m": 0.515
+    },
+    "TEROS12_Probe_3": {
+      "Volumetric_Water_Content_m3_m3": 0.28,
+      "Soil_Temperature_C": 13.366,
+      "Bulk_Electrical_Conductivity_dS_m": 0.578
+    },
+    "TEROS21_Gen2": {
+      "Soil_Matric_Potential_kPa": -93.0,
+      "Soil_Temperature_C": 14.842
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-10T02:00:00Z",
+      "time_local": "2026-10-09T19:00:00"
+    },
+    "Packet": {
+      "Number": 116
+    },
+    "TEROS12_Probe_1": {
+      "Volumetric_Water_Content_m3_m3": 0.199,
+      "Soil_Temperature_C": 17.084,
+      "Bulk_Electrical_Conductivity_dS_m": 0.45
+    },
+    "TEROS12_Probe_2": {
+      "Volumetric_Water_Content_m3_m3": 0.243,
+      "Soil_Temperature_C": 14.9,
+      "Bulk_Electrical_Conductivity_dS_m": 0.515
+    },
+    "TEROS12_Probe_3": {
+      "Volumetric_Water_Content_m3_m3": 0.28,
+      "Soil_Temperature_C": 13.493,
+      "Bulk_Electrical_Conductivity_dS_m": 0.578
+    },
+    "TEROS21_Gen2": {
+      "Soil_Matric_Potential_kPa": -93.0,
+      "Soil_Temperature_C": 14.9
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-10T03:00:00Z",
+      "time_local": "2026-10-09T20:00:00"
+    },
+    "Packet": {
+      "Number": 117
+    },
+    "TEROS12_Probe_1": {
+      "Volumetric_Water_Content_m3_m3": 0.199,
+      "Soil_Temperature_C": 16.592,
+      "Bulk_Electrical_Conductivity_dS_m": 0.45
+    },
+    "TEROS12_Probe_2": {
+      "Volumetric_Water_Content_m3_m3": 0.243,
+      "Soil_Temperature_C": 14.842,
+      "Bulk_Electrical_Conductivity_dS_m": 0.515
+    },
+    "TEROS12_Probe_3": {
+      "Volumetric_Water_Content_m3_m3": 0.28,
+      "Soil_Temperature_C": 13.573,
+      "Bulk_Electrical_Conductivity_dS_m": 0.578
+    },
+    "TEROS21_Gen2": {
+      "Soil_Matric_Potential_kPa": -93.0,
+      "Soil_Temperature_C": 14.842
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-10T04:00:00Z",
+      "time_local": "2026-10-09T21:00:00"
+    },
+    "Packet": {
+      "Number": 118
+    },
+    "TEROS12_Probe_1": {
+      "Volumetric_Water_Content_m3_m3": 0.199,
+      "Soil_Temperature_C": 15.95,
+      "Bulk_Electrical_Conductivity_dS_m": 0.45
+    },
+    "TEROS12_Probe_2": {
+      "Volumetric_Water_Content_m3_m3": 0.243,
+      "Soil_Temperature_C": 14.672,
+      "Bulk_Electrical_Conductivity_dS_m": 0.515
+    },
+    "TEROS12_Probe_3": {
+      "Volumetric_Water_Content_m3_m3": 0.279,
+      "Soil_Temperature_C": 13.6,
+      "Bulk_Electrical_Conductivity_dS_m": 0.578
+    },
+    "TEROS21_Gen2": {
+      "Soil_Matric_Potential_kPa": -93.0,
+      "Soil_Temperature_C": 14.672
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-10T05:00:00Z",
+      "time_local": "2026-10-09T22:00:00"
+    },
+    "Packet": {
+      "Number": 119
+    },
+    "TEROS12_Probe_1": {
+      "Volumetric_Water_Content_m3_m3": 0.199,
+      "Soil_Temperature_C": 15.202,
+      "Bulk_Electrical_Conductivity_dS_m": 0.45
+    },
+    "TEROS12_Probe_2": {
+      "Volumetric_Water_Content_m3_m3": 0.243,
+      "Soil_Temperature_C": 14.402,
+      "Bulk_Electrical_Conductivity_dS_m": 0.515
+    },
+    "TEROS12_Probe_3": {
+      "Volumetric_Water_Content_m3_m3": 0.279,
+      "Soil_Temperature_C": 13.573,
+      "Bulk_Electrical_Conductivity_dS_m": 0.578
+    },
+    "TEROS21_Gen2": {
+      "Soil_Matric_Potential_kPa": -93.0,
+      "Soil_Temperature_C": 14.402
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-10T06:00:00Z",
+      "time_local": "2026-10-09T23:00:00"
+    },
+    "Packet": {
+      "Number": 120
+    },
+    "TEROS12_Probe_1": {
+      "Volumetric_Water_Content_m3_m3": 0.199,
+      "Soil_Temperature_C": 14.4,
+      "Bulk_Electrical_Conductivity_dS_m": 0.45
+    },
+    "TEROS12_Probe_2": {
+      "Volumetric_Water_Content_m3_m3": 0.243,
+      "Soil_Temperature_C": 14.05,
+      "Bulk_Electrical_Conductivity_dS_m": 0.515
+    },
+    "TEROS12_Probe_3": {
+      "Volumetric_Water_Content_m3_m3": 0.279,
+      "Soil_Temperature_C": 13.493,
+      "Bulk_Electrical_Conductivity_dS_m": 0.578
+    },
+    "TEROS21_Gen2": {
+      "Soil_Matric_Potential_kPa": -93.0,
+      "Soil_Temperature_C": 14.05
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-10T07:00:00Z",
+      "time_local": "2026-10-10T00:00:00"
+    },
+    "Packet": {
+      "Number": 121
+    },
+    "TEROS12_Probe_1": {
+      "Volumetric_Water_Content_m3_m3": 0.199,
+      "Soil_Temperature_C": 13.597,
+      "Bulk_Electrical_Conductivity_dS_m": 0.45
+    },
+    "TEROS12_Probe_2": {
+      "Volumetric_Water_Content_m3_m3": 0.243,
+      "Soil_Temperature_C": 13.64,
+      "Bulk_Electrical_Conductivity_dS_m": 0.515
+    },
+    "TEROS12_Probe_3": {
+      "Volumetric_Water_Content_m3_m3": 0.279,
+      "Soil_Temperature_C": 13.366,
+      "Bulk_Electrical_Conductivity_dS_m": 0.578
+    },
+    "TEROS21_Gen2": {
+      "Soil_Matric_Potential_kPa": -93.0,
+      "Soil_Temperature_C": 13.64
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-10T08:00:00Z",
+      "time_local": "2026-10-10T01:00:00"
+    },
+    "Packet": {
+      "Number": 122
+    },
+    "TEROS12_Probe_1": {
+      "Volumetric_Water_Content_m3_m3": 0.199,
+      "Soil_Temperature_C": 12.849,
+      "Bulk_Electrical_Conductivity_dS_m": 0.45
+    },
+    "TEROS12_Probe_2": {
+      "Volumetric_Water_Content_m3_m3": 0.243,
+      "Soil_Temperature_C": 13.2,
+      "Bulk_Electrical_Conductivity_dS_m": 0.515
+    },
+    "TEROS12_Probe_3": {
+      "Volumetric_Water_Content_m3_m3": 0.279,
+      "Soil_Temperature_C": 13.2,
+      "Bulk_Electrical_Conductivity_dS_m": 0.578
+    },
+    "TEROS21_Gen2": {
+      "Soil_Matric_Potential_kPa": -93.0,
+      "Soil_Temperature_C": 13.2
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-10T09:00:00Z",
+      "time_local": "2026-10-10T02:00:00"
+    },
+    "Packet": {
+      "Number": 123
+    },
+    "TEROS12_Probe_1": {
+      "Volumetric_Water_Content_m3_m3": 0.199,
+      "Soil_Temperature_C": 12.207,
+      "Bulk_Electrical_Conductivity_dS_m": 0.45
+    },
+    "TEROS12_Probe_2": {
+      "Volumetric_Water_Content_m3_m3": 0.243,
+      "Soil_Temperature_C": 12.76,
+      "Bulk_Electrical_Conductivity_dS_m": 0.515
+    },
+    "TEROS12_Probe_3": {
+      "Volumetric_Water_Content_m3_m3": 0.279,
+      "Soil_Temperature_C": 13.007,
+      "Bulk_Electrical_Conductivity_dS_m": 0.578
+    },
+    "TEROS21_Gen2": {
+      "Soil_Matric_Potential_kPa": -93.0,
+      "Soil_Temperature_C": 12.76
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-10T10:00:00Z",
+      "time_local": "2026-10-10T03:00:00"
+    },
+    "Packet": {
+      "Number": 124
+    },
+    "TEROS12_Probe_1": {
+      "Volumetric_Water_Content_m3_m3": 0.199,
+      "Soil_Temperature_C": 11.714,
+      "Bulk_Electrical_Conductivity_dS_m": 0.45
+    },
+    "TEROS12_Probe_2": {
+      "Volumetric_Water_Content_m3_m3": 0.242,
+      "Soil_Temperature_C": 12.35,
+      "Bulk_Electrical_Conductivity_dS_m": 0.515
+    },
+    "TEROS12_Probe_3": {
+      "Volumetric_Water_Content_m3_m3": 0.279,
+      "Soil_Temperature_C": 12.8,
+      "Bulk_Electrical_Conductivity_dS_m": 0.578
+    },
+    "TEROS21_Gen2": {
+      "Soil_Matric_Potential_kPa": -93.3,
+      "Soil_Temperature_C": 12.35
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-10T11:00:00Z",
+      "time_local": "2026-10-10T04:00:00"
+    },
+    "Packet": {
+      "Number": 125
+    },
+    "TEROS12_Probe_1": {
+      "Volumetric_Water_Content_m3_m3": 0.199,
+      "Soil_Temperature_C": 11.404,
+      "Bulk_Electrical_Conductivity_dS_m": 0.45
+    },
+    "TEROS12_Probe_2": {
+      "Volumetric_Water_Content_m3_m3": 0.242,
+      "Soil_Temperature_C": 11.998,
+      "Bulk_Electrical_Conductivity_dS_m": 0.515
+    },
+    "TEROS12_Probe_3": {
+      "Volumetric_Water_Content_m3_m3": 0.279,
+      "Soil_Temperature_C": 12.593,
+      "Bulk_Electrical_Conductivity_dS_m": 0.578
+    },
+    "TEROS21_Gen2": {
+      "Soil_Matric_Potential_kPa": -93.3,
+      "Soil_Temperature_C": 11.998
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-10T12:00:00Z",
+      "time_local": "2026-10-10T05:00:00"
+    },
+    "Packet": {
+      "Number": 126
+    },
+    "TEROS12_Probe_1": {
+      "Volumetric_Water_Content_m3_m3": 0.199,
+      "Soil_Temperature_C": 11.297,
+      "Bulk_Electrical_Conductivity_dS_m": 0.45
+    },
+    "TEROS12_Probe_2": {
+      "Volumetric_Water_Content_m3_m3": 0.242,
+      "Soil_Temperature_C": 11.728,
+      "Bulk_Electrical_Conductivity_dS_m": 0.515
+    },
+    "TEROS12_Probe_3": {
+      "Volumetric_Water_Content_m3_m3": 0.279,
+      "Soil_Temperature_C": 12.4,
+      "Bulk_Electrical_Conductivity_dS_m": 0.578
+    },
+    "TEROS21_Gen2": {
+      "Soil_Matric_Potential_kPa": -93.3,
+      "Soil_Temperature_C": 11.728
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-10T13:00:00Z",
+      "time_local": "2026-10-10T06:00:00"
+    },
+    "Packet": {
+      "Number": 127
+    },
+    "TEROS12_Probe_1": {
+      "Volumetric_Water_Content_m3_m3": 0.199,
+      "Soil_Temperature_C": 11.402,
+      "Bulk_Electrical_Conductivity_dS_m": 0.45
+    },
+    "TEROS12_Probe_2": {
+      "Volumetric_Water_Content_m3_m3": 0.242,
+      "Soil_Temperature_C": 11.558,
+      "Bulk_Electrical_Conductivity_dS_m": 0.515
+    },
+    "TEROS12_Probe_3": {
+      "Volumetric_Water_Content_m3_m3": 0.279,
+      "Soil_Temperature_C": 12.234,
+      "Bulk_Electrical_Conductivity_dS_m": 0.578
+    },
+    "TEROS21_Gen2": {
+      "Soil_Matric_Potential_kPa": -93.3,
+      "Soil_Temperature_C": 11.558
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-10T14:00:00Z",
+      "time_local": "2026-10-10T07:00:00"
+    },
+    "Packet": {
+      "Number": 128
+    },
+    "TEROS12_Probe_1": {
+      "Volumetric_Water_Content_m3_m3": 0.199,
+      "Soil_Temperature_C": 11.711,
+      "Bulk_Electrical_Conductivity_dS_m": 0.45
+    },
+    "TEROS12_Probe_2": {
+      "Volumetric_Water_Content_m3_m3": 0.242,
+      "Soil_Temperature_C": 11.5,
+      "Bulk_Electrical_Conductivity_dS_m": 0.515
+    },
+    "TEROS12_Probe_3": {
+      "Volumetric_Water_Content_m3_m3": 0.279,
+      "Soil_Temperature_C": 12.107,
+      "Bulk_Electrical_Conductivity_dS_m": 0.578
+    },
+    "TEROS21_Gen2": {
+      "Soil_Matric_Potential_kPa": -93.3,
+      "Soil_Temperature_C": 11.5
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-10T15:00:00Z",
+      "time_local": "2026-10-10T08:00:00"
+    },
+    "Packet": {
+      "Number": 129
+    },
+    "TEROS12_Probe_1": {
+      "Volumetric_Water_Content_m3_m3": 0.199,
+      "Soil_Temperature_C": 12.202,
+      "Bulk_Electrical_Conductivity_dS_m": 0.45
+    },
+    "TEROS12_Probe_2": {
+      "Volumetric_Water_Content_m3_m3": 0.242,
+      "Soil_Temperature_C": 11.558,
+      "Bulk_Electrical_Conductivity_dS_m": 0.515
+    },
+    "TEROS12_Probe_3": {
+      "Volumetric_Water_Content_m3_m3": 0.278,
+      "Soil_Temperature_C": 12.027,
+      "Bulk_Electrical_Conductivity_dS_m": 0.577
+    },
+    "TEROS21_Gen2": {
+      "Soil_Matric_Potential_kPa": -93.3,
+      "Soil_Temperature_C": 11.558
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-10T16:00:00Z",
+      "time_local": "2026-10-10T09:00:00"
+    },
+    "Packet": {
+      "Number": 130
+    },
+    "TEROS12_Probe_1": {
+      "Volumetric_Water_Content_m3_m3": 0.199,
+      "Soil_Temperature_C": 12.843,
+      "Bulk_Electrical_Conductivity_dS_m": 0.45
+    },
+    "TEROS12_Probe_2": {
+      "Volumetric_Water_Content_m3_m3": 0.242,
+      "Soil_Temperature_C": 11.728,
+      "Bulk_Electrical_Conductivity_dS_m": 0.515
+    },
+    "TEROS12_Probe_3": {
+      "Volumetric_Water_Content_m3_m3": 0.278,
+      "Soil_Temperature_C": 12.0,
+      "Bulk_Electrical_Conductivity_dS_m": 0.577
+    },
+    "TEROS21_Gen2": {
+      "Soil_Matric_Potential_kPa": -93.3,
+      "Soil_Temperature_C": 11.728
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-10T17:00:00Z",
+      "time_local": "2026-10-10T10:00:00"
+    },
+    "Packet": {
+      "Number": 131
+    },
+    "TEROS12_Probe_1": {
+      "Volumetric_Water_Content_m3_m3": 0.199,
+      "Soil_Temperature_C": 13.59,
+      "Bulk_Electrical_Conductivity_dS_m": 0.45
+    },
+    "TEROS12_Probe_2": {
+      "Volumetric_Water_Content_m3_m3": 0.242,
+      "Soil_Temperature_C": 11.998,
+      "Bulk_Electrical_Conductivity_dS_m": 0.515
+    },
+    "TEROS12_Probe_3": {
+      "Volumetric_Water_Content_m3_m3": 0.278,
+      "Soil_Temperature_C": 12.027,
+      "Bulk_Electrical_Conductivity_dS_m": 0.577
+    },
+    "TEROS21_Gen2": {
+      "Soil_Matric_Potential_kPa": -93.3,
+      "Soil_Temperature_C": 11.998
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-10T18:00:00Z",
+      "time_local": "2026-10-10T11:00:00"
+    },
+    "Packet": {
+      "Number": 132
+    },
+    "TEROS12_Probe_1": {
+      "Volumetric_Water_Content_m3_m3": 0.199,
+      "Soil_Temperature_C": 14.391,
+      "Bulk_Electrical_Conductivity_dS_m": 0.45
+    },
+    "TEROS12_Probe_2": {
+      "Volumetric_Water_Content_m3_m3": 0.242,
+      "Soil_Temperature_C": 12.35,
+      "Bulk_Electrical_Conductivity_dS_m": 0.515
+    },
+    "TEROS12_Probe_3": {
+      "Volumetric_Water_Content_m3_m3": 0.278,
+      "Soil_Temperature_C": 12.107,
+      "Bulk_Electrical_Conductivity_dS_m": 0.577
+    },
+    "TEROS21_Gen2": {
+      "Soil_Matric_Potential_kPa": -93.3,
+      "Soil_Temperature_C": 12.35
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-10T19:00:00Z",
+      "time_local": "2026-10-10T12:00:00"
+    },
+    "Packet": {
+      "Number": 133
+    },
+    "TEROS12_Probe_1": {
+      "Volumetric_Water_Content_m3_m3": 0.198,
+      "Soil_Temperature_C": 15.192,
+      "Bulk_Electrical_Conductivity_dS_m": 0.449
+    },
+    "TEROS12_Probe_2": {
+      "Volumetric_Water_Content_m3_m3": 0.242,
+      "Soil_Temperature_C": 12.76,
+      "Bulk_Electrical_Conductivity_dS_m": 0.515
+    },
+    "TEROS12_Probe_3": {
+      "Volumetric_Water_Content_m3_m3": 0.278,
+      "Soil_Temperature_C": 12.234,
+      "Bulk_Electrical_Conductivity_dS_m": 0.577
+    },
+    "TEROS21_Gen2": {
+      "Soil_Matric_Potential_kPa": -93.3,
+      "Soil_Temperature_C": 12.76
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-10T20:00:00Z",
+      "time_local": "2026-10-10T13:00:00"
+    },
+    "Packet": {
+      "Number": 134
+    },
+    "TEROS12_Probe_1": {
+      "Volumetric_Water_Content_m3_m3": 0.198,
+      "Soil_Temperature_C": 15.938,
+      "Bulk_Electrical_Conductivity_dS_m": 0.449
+    },
+    "TEROS12_Probe_2": {
+      "Volumetric_Water_Content_m3_m3": 0.242,
+      "Soil_Temperature_C": 13.2,
+      "Bulk_Electrical_Conductivity_dS_m": 0.515
+    },
+    "TEROS12_Probe_3": {
+      "Volumetric_Water_Content_m3_m3": 0.278,
+      "Soil_Temperature_C": 12.4,
+      "Bulk_Electrical_Conductivity_dS_m": 0.577
+    },
+    "TEROS21_Gen2": {
+      "Soil_Matric_Potential_kPa": -93.3,
+      "Soil_Temperature_C": 13.2
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-10T21:00:00Z",
+      "time_local": "2026-10-10T14:00:00"
+    },
+    "Packet": {
+      "Number": 135
+    },
+    "TEROS12_Probe_1": {
+      "Volumetric_Water_Content_m3_m3": 0.198,
+      "Soil_Temperature_C": 16.578,
+      "Bulk_Electrical_Conductivity_dS_m": 0.449
+    },
+    "TEROS12_Probe_2": {
+      "Volumetric_Water_Content_m3_m3": 0.242,
+      "Soil_Temperature_C": 13.64,
+      "Bulk_Electrical_Conductivity_dS_m": 0.515
+    },
+    "TEROS12_Probe_3": {
+      "Volumetric_Water_Content_m3_m3": 0.278,
+      "Soil_Temperature_C": 12.593,
+      "Bulk_Electrical_Conductivity_dS_m": 0.577
+    },
+    "TEROS21_Gen2": {
+      "Soil_Matric_Potential_kPa": -93.3,
+      "Soil_Temperature_C": 13.64
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-10T22:00:00Z",
+      "time_local": "2026-10-10T15:00:00"
+    },
+    "Packet": {
+      "Number": 136
+    },
+    "TEROS12_Probe_1": {
+      "Volumetric_Water_Content_m3_m3": 0.198,
+      "Soil_Temperature_C": 17.069,
+      "Bulk_Electrical_Conductivity_dS_m": 0.449
+    },
+    "TEROS12_Probe_2": {
+      "Volumetric_Water_Content_m3_m3": 0.242,
+      "Soil_Temperature_C": 14.05,
+      "Bulk_Electrical_Conductivity_dS_m": 0.515
+    },
+    "TEROS12_Probe_3": {
+      "Volumetric_Water_Content_m3_m3": 0.278,
+      "Soil_Temperature_C": 12.8,
+      "Bulk_Electrical_Conductivity_dS_m": 0.577
+    },
+    "TEROS21_Gen2": {
+      "Soil_Matric_Potential_kPa": -93.3,
+      "Soil_Temperature_C": 14.05
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-10T23:00:00Z",
+      "time_local": "2026-10-10T16:00:00"
+    },
+    "Packet": {
+      "Number": 137
+    },
+    "TEROS12_Probe_1": {
+      "Volumetric_Water_Content_m3_m3": 0.209,
+      "Soil_Temperature_C": 17.377,
+      "Bulk_Electrical_Conductivity_dS_m": 0.453
+    },
+    "TEROS12_Probe_2": {
+      "Volumetric_Water_Content_m3_m3": 0.242,
+      "Soil_Temperature_C": 14.402,
+      "Bulk_Electrical_Conductivity_dS_m": 0.515
+    },
+    "TEROS12_Probe_3": {
+      "Volumetric_Water_Content_m3_m3": 0.278,
+      "Soil_Temperature_C": 13.007,
+      "Bulk_Electrical_Conductivity_dS_m": 0.577
+    },
+    "TEROS21_Gen2": {
+      "Soil_Matric_Potential_kPa": -93.3,
+      "Soil_Temperature_C": 14.402
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-11T00:00:00Z",
+      "time_local": "2026-10-10T17:00:00"
+    },
+    "Packet": {
+      "Number": 138
+    },
+    "TEROS12_Probe_1": {
+      "Volumetric_Water_Content_m3_m3": 0.218,
+      "Soil_Temperature_C": 17.48,
+      "Bulk_Electrical_Conductivity_dS_m": 0.456
+    },
+    "TEROS12_Probe_2": {
+      "Volumetric_Water_Content_m3_m3": 0.242,
+      "Soil_Temperature_C": 14.672,
+      "Bulk_Electrical_Conductivity_dS_m": 0.515
+    },
+    "TEROS12_Probe_3": {
+      "Volumetric_Water_Content_m3_m3": 0.278,
+      "Soil_Temperature_C": 13.2,
+      "Bulk_Electrical_Conductivity_dS_m": 0.577
+    },
+    "TEROS21_Gen2": {
+      "Soil_Matric_Potential_kPa": -93.3,
+      "Soil_Temperature_C": 14.672
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-11T01:00:00Z",
+      "time_local": "2026-10-10T18:00:00"
+    },
+    "Packet": {
+      "Number": 139
+    },
+    "TEROS12_Probe_1": {
+      "Volumetric_Water_Content_m3_m3": 0.22,
+      "Soil_Temperature_C": 17.373,
+      "Bulk_Electrical_Conductivity_dS_m": 0.457
+    },
+    "TEROS12_Probe_2": {
+      "Volumetric_Water_Content_m3_m3": 0.242,
+      "Soil_Temperature_C": 14.842,
+      "Bulk_Electrical_Conductivity_dS_m": 0.515
+    },
+    "TEROS12_Probe_3": {
+      "Volumetric_Water_Content_m3_m3": 0.278,
+      "Soil_Temperature_C": 13.366,
+      "Bulk_Electrical_Conductivity_dS_m": 0.577
+    },
+    "TEROS21_Gen2": {
+      "Soil_Matric_Potential_kPa": -93.3,
+      "Soil_Temperature_C": 14.842
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-11T02:00:00Z",
+      "time_local": "2026-10-10T19:00:00"
+    },
+    "Packet": {
+      "Number": 140
+    },
+    "TEROS12_Probe_1": {
+      "Volumetric_Water_Content_m3_m3": 0.218,
+      "Soil_Temperature_C": 17.061,
+      "Bulk_Electrical_Conductivity_dS_m": 0.456
+    },
+    "TEROS12_Probe_2": {
+      "Volumetric_Water_Content_m3_m3": 0.242,
+      "Soil_Temperature_C": 14.9,
+      "Bulk_Electrical_Conductivity_dS_m": 0.515
+    },
+    "TEROS12_Probe_3": {
+      "Volumetric_Water_Content_m3_m3": 0.278,
+      "Soil_Temperature_C": 13.493,
+      "Bulk_Electrical_Conductivity_dS_m": 0.577
+    },
+    "TEROS21_Gen2": {
+      "Soil_Matric_Potential_kPa": -93.3,
+      "Soil_Temperature_C": 14.9
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-11T03:00:00Z",
+      "time_local": "2026-10-10T20:00:00"
+    },
+    "Packet": {
+      "Number": 141
+    },
+    "TEROS12_Probe_1": {
+      "Volumetric_Water_Content_m3_m3": 0.217,
+      "Soil_Temperature_C": 16.566,
+      "Bulk_Electrical_Conductivity_dS_m": 0.456
+    },
+    "TEROS12_Probe_2": {
+      "Volumetric_Water_Content_m3_m3": 0.242,
+      "Soil_Temperature_C": 14.842,
+      "Bulk_Electrical_Conductivity_dS_m": 0.515
+    },
+    "TEROS12_Probe_3": {
+      "Volumetric_Water_Content_m3_m3": 0.278,
+      "Soil_Temperature_C": 13.573,
+      "Bulk_Electrical_Conductivity_dS_m": 0.577
+    },
+    "TEROS21_Gen2": {
+      "Soil_Matric_Potential_kPa": -93.3,
+      "Soil_Temperature_C": 14.842
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-11T04:00:00Z",
+      "time_local": "2026-10-10T21:00:00"
+    },
+    "Packet": {
+      "Number": 142
+    },
+    "TEROS12_Probe_1": {
+      "Volumetric_Water_Content_m3_m3": 0.216,
+      "Soil_Temperature_C": 15.922,
+      "Bulk_Electrical_Conductivity_dS_m": 0.456
+    },
+    "TEROS12_Probe_2": {
+      "Volumetric_Water_Content_m3_m3": 0.249,
+      "Soil_Temperature_C": 14.672,
+      "Bulk_Electrical_Conductivity_dS_m": 0.517
+    },
+    "TEROS12_Probe_3": {
+      "Volumetric_Water_Content_m3_m3": 0.278,
+      "Soil_Temperature_C": 13.6,
+      "Bulk_Electrical_Conductivity_dS_m": 0.577
+    },
+    "TEROS21_Gen2": {
+      "Soil_Matric_Potential_kPa": -90.8,
+      "Soil_Temperature_C": 14.672
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-11T05:00:00Z",
+      "time_local": "2026-10-10T22:00:00"
+    },
+    "Packet": {
+      "Number": 143
+    },
+    "TEROS12_Probe_1": {
+      "Volumetric_Water_Content_m3_m3": 0.215,
+      "Soil_Temperature_C": 15.171,
+      "Bulk_Electrical_Conductivity_dS_m": 0.455
+    },
+    "TEROS12_Probe_2": {
+      "Volumetric_Water_Content_m3_m3": 0.255,
+      "Soil_Temperature_C": 14.402,
+      "Bulk_Electrical_Conductivity_dS_m": 0.519
+    },
+    "TEROS12_Probe_3": {
+      "Volumetric_Water_Content_m3_m3": 0.278,
+      "Soil_Temperature_C": 13.573,
+      "Bulk_Electrical_Conductivity_dS_m": 0.577
+    },
+    "TEROS21_Gen2": {
+      "Soil_Matric_Potential_kPa": -88.8,
+      "Soil_Temperature_C": 14.402
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-11T06:00:00Z",
+      "time_local": "2026-10-10T23:00:00"
+    },
+    "Packet": {
+      "Number": 144
+    },
+    "TEROS12_Probe_1": {
+      "Volumetric_Water_Content_m3_m3": 0.214,
+      "Soil_Temperature_C": 14.366,
+      "Bulk_Electrical_Conductivity_dS_m": 0.455
+    },
+    "TEROS12_Probe_2": {
+      "Volumetric_Water_Content_m3_m3": 0.257,
+      "Soil_Temperature_C": 14.05,
+      "Bulk_Electrical_Conductivity_dS_m": 0.52
+    },
+    "TEROS12_Probe_3": {
+      "Volumetric_Water_Content_m3_m3": 0.278,
+      "Soil_Temperature_C": 13.493,
+      "Bulk_Electrical_Conductivity_dS_m": 0.577
+    },
+    "TEROS21_Gen2": {
+      "Soil_Matric_Potential_kPa": -88.0,
+      "Soil_Temperature_C": 14.05
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-11T07:00:00Z",
+      "time_local": "2026-10-11T00:00:00"
+    },
+    "Packet": {
+      "Number": 145
+    },
+    "TEROS12_Probe_1": {
+      "Volumetric_Water_Content_m3_m3": 0.213,
+      "Soil_Temperature_C": 13.561,
+      "Bulk_Electrical_Conductivity_dS_m": 0.455
+    },
+    "TEROS12_Probe_2": {
+      "Volumetric_Water_Content_m3_m3": 0.256,
+      "Soil_Temperature_C": 13.64,
+      "Bulk_Electrical_Conductivity_dS_m": 0.52
+    },
+    "TEROS12_Probe_3": {
+      "Volumetric_Water_Content_m3_m3": 0.278,
+      "Soil_Temperature_C": 13.366,
+      "Bulk_Electrical_Conductivity_dS_m": 0.577
+    },
+    "TEROS21_Gen2": {
+      "Soil_Matric_Potential_kPa": -88.4,
+      "Soil_Temperature_C": 13.64
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-11T08:00:00Z",
+      "time_local": "2026-10-11T01:00:00"
+    },
+    "Packet": {
+      "Number": 146
+    },
+    "TEROS12_Probe_1": {
+      "Volumetric_Water_Content_m3_m3": 0.212,
+      "Soil_Temperature_C": 12.811,
+      "Bulk_Electrical_Conductivity_dS_m": 0.454
+    },
+    "TEROS12_Probe_2": {
+      "Volumetric_Water_Content_m3_m3": 0.255,
+      "Soil_Temperature_C": 13.2,
+      "Bulk_Electrical_Conductivity_dS_m": 0.519
+    },
+    "TEROS12_Probe_3": {
+      "Volumetric_Water_Content_m3_m3": 0.278,
+      "Soil_Temperature_C": 13.2,
+      "Bulk_Electrical_Conductivity_dS_m": 0.577
+    },
+    "TEROS21_Gen2": {
+      "Soil_Matric_Potential_kPa": -88.8,
+      "Soil_Temperature_C": 13.2
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-11T09:00:00Z",
+      "time_local": "2026-10-11T02:00:00"
+    },
+    "Packet": {
+      "Number": 147
+    },
+    "TEROS12_Probe_1": {
+      "Volumetric_Water_Content_m3_m3": 0.211,
+      "Soil_Temperature_C": 12.166,
+      "Bulk_Electrical_Conductivity_dS_m": 0.454
+    },
+    "TEROS12_Probe_2": {
+      "Volumetric_Water_Content_m3_m3": 0.255,
+      "Soil_Temperature_C": 12.76,
+      "Bulk_Electrical_Conductivity_dS_m": 0.519
+    },
+    "TEROS12_Probe_3": {
+      "Volumetric_Water_Content_m3_m3": 0.278,
+      "Soil_Temperature_C": 13.007,
+      "Bulk_Electrical_Conductivity_dS_m": 0.577
+    },
+    "TEROS21_Gen2": {
+      "Soil_Matric_Potential_kPa": -88.8,
+      "Soil_Temperature_C": 12.76
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-11T10:00:00Z",
+      "time_local": "2026-10-11T03:00:00"
+    },
+    "Packet": {
+      "Number": 148
+    },
+    "TEROS12_Probe_1": {
+      "Volumetric_Water_Content_m3_m3": 0.21,
+      "Soil_Temperature_C": 11.67,
+      "Bulk_Electrical_Conductivity_dS_m": 0.454
+    },
+    "TEROS12_Probe_2": {
+      "Volumetric_Water_Content_m3_m3": 0.254,
+      "Soil_Temperature_C": 12.35,
+      "Bulk_Electrical_Conductivity_dS_m": 0.519
+    },
+    "TEROS12_Probe_3": {
+      "Volumetric_Water_Content_m3_m3": 0.278,
+      "Soil_Temperature_C": 12.8,
+      "Bulk_Electrical_Conductivity_dS_m": 0.577
+    },
+    "TEROS21_Gen2": {
+      "Soil_Matric_Potential_kPa": -89.1,
+      "Soil_Temperature_C": 12.35
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-11T11:00:00Z",
+      "time_local": "2026-10-11T04:00:00"
+    },
+    "Packet": {
+      "Number": 149
+    },
+    "TEROS12_Probe_1": {
+      "Volumetric_Water_Content_m3_m3": 0.209,
+      "Soil_Temperature_C": 11.358,
+      "Bulk_Electrical_Conductivity_dS_m": 0.453
+    },
+    "TEROS12_Probe_2": {
+      "Volumetric_Water_Content_m3_m3": 0.254,
+      "Soil_Temperature_C": 11.998,
+      "Bulk_Electrical_Conductivity_dS_m": 0.519
+    },
+    "TEROS12_Probe_3": {
+      "Volumetric_Water_Content_m3_m3": 0.278,
+      "Soil_Temperature_C": 12.593,
+      "Bulk_Electrical_Conductivity_dS_m": 0.577
+    },
+    "TEROS21_Gen2": {
+      "Soil_Matric_Potential_kPa": -89.1,
+      "Soil_Temperature_C": 11.998
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-11T12:00:00Z",
+      "time_local": "2026-10-11T05:00:00"
+    },
+    "Packet": {
+      "Number": 150
+    },
+    "TEROS12_Probe_1": {
+      "Volumetric_Water_Content_m3_m3": 0.208,
+      "Soil_Temperature_C": 11.249,
+      "Bulk_Electrical_Conductivity_dS_m": 0.453
+    },
+    "TEROS12_Probe_2": {
+      "Volumetric_Water_Content_m3_m3": 0.253,
+      "Soil_Temperature_C": 11.728,
+      "Bulk_Electrical_Conductivity_dS_m": 0.519
+    },
+    "TEROS12_Probe_3": {
+      "Volumetric_Water_Content_m3_m3": 0.278,
+      "Soil_Temperature_C": 12.4,
+      "Bulk_Electrical_Conductivity_dS_m": 0.577
+    },
+    "TEROS21_Gen2": {
+      "Soil_Matric_Potential_kPa": -89.5,
+      "Soil_Temperature_C": 11.728
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-11T13:00:00Z",
+      "time_local": "2026-10-11T06:00:00"
+    },
+    "Packet": {
+      "Number": 151
+    },
+    "TEROS12_Probe_1": {
+      "Volumetric_Water_Content_m3_m3": 0.208,
+      "Soil_Temperature_C": 11.351,
+      "Bulk_Electrical_Conductivity_dS_m": 0.453
+    },
+    "TEROS12_Probe_2": {
+      "Volumetric_Water_Content_m3_m3": 0.253,
+      "Soil_Temperature_C": 11.558,
+      "Bulk_Electrical_Conductivity_dS_m": 0.519
+    },
+    "TEROS12_Probe_3": {
+      "Volumetric_Water_Content_m3_m3": 0.278,
+      "Soil_Temperature_C": 12.234,
+      "Bulk_Electrical_Conductivity_dS_m": 0.577
+    },
+    "TEROS21_Gen2": {
+      "Soil_Matric_Potential_kPa": -89.5,
+      "Soil_Temperature_C": 11.558
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-11T14:00:00Z",
+      "time_local": "2026-10-11T07:00:00"
+    },
+    "Packet": {
+      "Number": 152
+    },
+    "TEROS12_Probe_1": {
+      "Volumetric_Water_Content_m3_m3": 0.207,
+      "Soil_Temperature_C": 11.658,
+      "Bulk_Electrical_Conductivity_dS_m": 0.452
+    },
+    "TEROS12_Probe_2": {
+      "Volumetric_Water_Content_m3_m3": 0.252,
+      "Soil_Temperature_C": 11.5,
+      "Bulk_Electrical_Conductivity_dS_m": 0.518
+    },
+    "TEROS12_Probe_3": {
+      "Volumetric_Water_Content_m3_m3": 0.278,
+      "Soil_Temperature_C": 12.107,
+      "Bulk_Electrical_Conductivity_dS_m": 0.577
+    },
+    "TEROS21_Gen2": {
+      "Soil_Matric_Potential_kPa": -89.8,
+      "Soil_Temperature_C": 11.5
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-11T15:00:00Z",
+      "time_local": "2026-10-11T08:00:00"
+    },
+    "Packet": {
+      "Number": 153
+    },
+    "TEROS12_Probe_1": {
+      "Volumetric_Water_Content_m3_m3": 0.206,
+      "Soil_Temperature_C": 12.147,
+      "Bulk_Electrical_Conductivity_dS_m": 0.452
+    },
+    "TEROS12_Probe_2": {
+      "Volumetric_Water_Content_m3_m3": 0.252,
+      "Soil_Temperature_C": 11.558,
+      "Bulk_Electrical_Conductivity_dS_m": 0.518
+    },
+    "TEROS12_Probe_3": {
+      "Volumetric_Water_Content_m3_m3": 0.278,
+      "Soil_Temperature_C": 12.027,
+      "Bulk_Electrical_Conductivity_dS_m": 0.577
+    },
+    "TEROS21_Gen2": {
+      "Soil_Matric_Potential_kPa": -89.8,
+      "Soil_Temperature_C": 11.558
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-11T16:00:00Z",
+      "time_local": "2026-10-11T09:00:00"
+    },
+    "Packet": {
+      "Number": 154
+    },
+    "TEROS12_Probe_1": {
+      "Volumetric_Water_Content_m3_m3": 0.206,
+      "Soil_Temperature_C": 12.785,
+      "Bulk_Electrical_Conductivity_dS_m": 0.452
+    },
+    "TEROS12_Probe_2": {
+      "Volumetric_Water_Content_m3_m3": 0.251,
+      "Soil_Temperature_C": 11.728,
+      "Bulk_Electrical_Conductivity_dS_m": 0.518
+    },
+    "TEROS12_Probe_3": {
+      "Volumetric_Water_Content_m3_m3": 0.282,
+      "Soil_Temperature_C": 12.0,
+      "Bulk_Electrical_Conductivity_dS_m": 0.579
+    },
+    "TEROS21_Gen2": {
+      "Soil_Matric_Potential_kPa": -90.2,
+      "Soil_Temperature_C": 11.728
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-11T17:00:00Z",
+      "time_local": "2026-10-11T10:00:00"
+    },
+    "Packet": {
+      "Number": 155
+    },
+    "TEROS12_Probe_1": {
+      "Volumetric_Water_Content_m3_m3": 0.205,
+      "Soil_Temperature_C": 13.529,
+      "Bulk_Electrical_Conductivity_dS_m": 0.452
+    },
+    "TEROS12_Probe_2": {
+      "Volumetric_Water_Content_m3_m3": 0.251,
+      "Soil_Temperature_C": 11.998,
+      "Bulk_Electrical_Conductivity_dS_m": 0.518
+    },
+    "TEROS12_Probe_3": {
+      "Volumetric_Water_Content_m3_m3": 0.284,
+      "Soil_Temperature_C": 12.027,
+      "Bulk_Electrical_Conductivity_dS_m": 0.579
+    },
+    "TEROS21_Gen2": {
+      "Soil_Matric_Potential_kPa": -90.2,
+      "Soil_Temperature_C": 11.998
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-11T18:00:00Z",
+      "time_local": "2026-10-11T11:00:00"
+    },
+    "Packet": {
+      "Number": 156
+    },
+    "TEROS12_Probe_1": {
+      "Volumetric_Water_Content_m3_m3": 0.205,
+      "Soil_Temperature_C": 14.328,
+      "Bulk_Electrical_Conductivity_dS_m": 0.452
+    },
+    "TEROS12_Probe_2": {
+      "Volumetric_Water_Content_m3_m3": 0.251,
+      "Soil_Temperature_C": 12.35,
+      "Bulk_Electrical_Conductivity_dS_m": 0.518
+    },
+    "TEROS12_Probe_3": {
+      "Volumetric_Water_Content_m3_m3": 0.285,
+      "Soil_Temperature_C": 12.107,
+      "Bulk_Electrical_Conductivity_dS_m": 0.58
+    },
+    "TEROS21_Gen2": {
+      "Soil_Matric_Potential_kPa": -90.2,
+      "Soil_Temperature_C": 12.35
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-11T19:00:00Z",
+      "time_local": "2026-10-11T12:00:00"
+    },
+    "Packet": {
+      "Number": 157
+    },
+    "TEROS12_Probe_1": {
+      "Volumetric_Water_Content_m3_m3": 0.204,
+      "Soil_Temperature_C": 15.126,
+      "Bulk_Electrical_Conductivity_dS_m": 0.451
+    },
+    "TEROS12_Probe_2": {
+      "Volumetric_Water_Content_m3_m3": 0.25,
+      "Soil_Temperature_C": 12.76,
+      "Bulk_Electrical_Conductivity_dS_m": 0.517
+    },
+    "TEROS12_Probe_3": {
+      "Volumetric_Water_Content_m3_m3": 0.285,
+      "Soil_Temperature_C": 12.234,
+      "Bulk_Electrical_Conductivity_dS_m": 0.58
+    },
+    "TEROS21_Gen2": {
+      "Soil_Matric_Potential_kPa": -90.5,
+      "Soil_Temperature_C": 12.76
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-11T20:00:00Z",
+      "time_local": "2026-10-11T13:00:00"
+    },
+    "Packet": {
+      "Number": 158
+    },
+    "TEROS12_Probe_1": {
+      "Volumetric_Water_Content_m3_m3": 0.204,
+      "Soil_Temperature_C": 15.87,
+      "Bulk_Electrical_Conductivity_dS_m": 0.451
+    },
+    "TEROS12_Probe_2": {
+      "Volumetric_Water_Content_m3_m3": 0.25,
+      "Soil_Temperature_C": 13.2,
+      "Bulk_Electrical_Conductivity_dS_m": 0.517
+    },
+    "TEROS12_Probe_3": {
+      "Volumetric_Water_Content_m3_m3": 0.285,
+      "Soil_Temperature_C": 12.4,
+      "Bulk_Electrical_Conductivity_dS_m": 0.58
+    },
+    "TEROS21_Gen2": {
+      "Soil_Matric_Potential_kPa": -90.5,
+      "Soil_Temperature_C": 13.2
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-11T21:00:00Z",
+      "time_local": "2026-10-11T14:00:00"
+    },
+    "Packet": {
+      "Number": 159
+    },
+    "TEROS12_Probe_1": {
+      "Volumetric_Water_Content_m3_m3": 0.203,
+      "Soil_Temperature_C": 16.508,
+      "Bulk_Electrical_Conductivity_dS_m": 0.451
+    },
+    "TEROS12_Probe_2": {
+      "Volumetric_Water_Content_m3_m3": 0.249,
+      "Soil_Temperature_C": 13.64,
+      "Bulk_Electrical_Conductivity_dS_m": 0.517
+    },
+    "TEROS12_Probe_3": {
+      "Volumetric_Water_Content_m3_m3": 0.285,
+      "Soil_Temperature_C": 12.593,
+      "Bulk_Electrical_Conductivity_dS_m": 0.58
+    },
+    "TEROS21_Gen2": {
+      "Soil_Matric_Potential_kPa": -90.8,
+      "Soil_Temperature_C": 13.64
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-11T22:00:00Z",
+      "time_local": "2026-10-11T15:00:00"
+    },
+    "Packet": {
+      "Number": 160
+    },
+    "TEROS12_Probe_1": {
+      "Volumetric_Water_Content_m3_m3": 0.203,
+      "Soil_Temperature_C": 16.996,
+      "Bulk_Electrical_Conductivity_dS_m": 0.451
+    },
+    "TEROS12_Probe_2": {
+      "Volumetric_Water_Content_m3_m3": 0.249,
+      "Soil_Temperature_C": 14.05,
+      "Bulk_Electrical_Conductivity_dS_m": 0.517
+    },
+    "TEROS12_Probe_3": {
+      "Volumetric_Water_Content_m3_m3": 0.285,
+      "Soil_Temperature_C": 12.8,
+      "Bulk_Electrical_Conductivity_dS_m": 0.58
+    },
+    "TEROS21_Gen2": {
+      "Soil_Matric_Potential_kPa": -90.8,
+      "Soil_Temperature_C": 14.05
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-11T23:00:00Z",
+      "time_local": "2026-10-11T16:00:00"
+    },
+    "Packet": {
+      "Number": 161
+    },
+    "TEROS12_Probe_1": {
+      "Volumetric_Water_Content_m3_m3": 0.203,
+      "Soil_Temperature_C": 17.302,
+      "Bulk_Electrical_Conductivity_dS_m": 0.451
+    },
+    "TEROS12_Probe_2": {
+      "Volumetric_Water_Content_m3_m3": 0.248,
+      "Soil_Temperature_C": 14.402,
+      "Bulk_Electrical_Conductivity_dS_m": 0.517
+    },
+    "TEROS12_Probe_3": {
+      "Volumetric_Water_Content_m3_m3": 0.284,
+      "Soil_Temperature_C": 13.007,
+      "Bulk_Electrical_Conductivity_dS_m": 0.579
+    },
+    "TEROS21_Gen2": {
+      "Soil_Matric_Potential_kPa": -91.2,
+      "Soil_Temperature_C": 14.402
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-12T00:00:00Z",
+      "time_local": "2026-10-11T17:00:00"
+    },
+    "Packet": {
+      "Number": 162
+    },
+    "TEROS12_Probe_1": {
+      "Volumetric_Water_Content_m3_m3": 0.202,
+      "Soil_Temperature_C": 17.403,
+      "Bulk_Electrical_Conductivity_dS_m": 0.451
+    },
+    "TEROS12_Probe_2": {
+      "Volumetric_Water_Content_m3_m3": 0.248,
+      "Soil_Temperature_C": 14.672,
+      "Bulk_Electrical_Conductivity_dS_m": 0.517
+    },
+    "TEROS12_Probe_3": {
+      "Volumetric_Water_Content_m3_m3": 0.284,
+      "Soil_Temperature_C": 13.2,
+      "Bulk_Electrical_Conductivity_dS_m": 0.579
+    },
+    "TEROS21_Gen2": {
+      "Soil_Matric_Potential_kPa": -91.2,
+      "Soil_Temperature_C": 14.672
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-12T01:00:00Z",
+      "time_local": "2026-10-11T18:00:00"
+    },
+    "Packet": {
+      "Number": 163
+    },
+    "TEROS12_Probe_1": {
+      "Volumetric_Water_Content_m3_m3": 0.202,
+      "Soil_Temperature_C": 17.293,
+      "Bulk_Electrical_Conductivity_dS_m": 0.451
+    },
+    "TEROS12_Probe_2": {
+      "Volumetric_Water_Content_m3_m3": 0.248,
+      "Soil_Temperature_C": 14.842,
+      "Bulk_Electrical_Conductivity_dS_m": 0.517
+    },
+    "TEROS12_Probe_3": {
+      "Volumetric_Water_Content_m3_m3": 0.284,
+      "Soil_Temperature_C": 13.366,
+      "Bulk_Electrical_Conductivity_dS_m": 0.579
+    },
+    "TEROS21_Gen2": {
+      "Soil_Matric_Potential_kPa": -91.2,
+      "Soil_Temperature_C": 14.842
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-12T02:00:00Z",
+      "time_local": "2026-10-11T19:00:00"
+    },
+    "Packet": {
+      "Number": 164
+    },
+    "TEROS12_Probe_1": {
+      "Volumetric_Water_Content_m3_m3": 0.202,
+      "Soil_Temperature_C": 16.979,
+      "Bulk_Electrical_Conductivity_dS_m": 0.451
+    },
+    "TEROS12_Probe_2": {
+      "Volumetric_Water_Content_m3_m3": 0.248,
+      "Soil_Temperature_C": 14.9,
+      "Bulk_Electrical_Conductivity_dS_m": 0.517
+    },
+    "TEROS12_Probe_3": {
+      "Volumetric_Water_Content_m3_m3": 0.284,
+      "Soil_Temperature_C": 13.493,
+      "Bulk_Electrical_Conductivity_dS_m": 0.579
+    },
+    "TEROS21_Gen2": {
+      "Soil_Matric_Potential_kPa": -91.2,
+      "Soil_Temperature_C": 14.9
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-12T03:00:00Z",
+      "time_local": "2026-10-11T20:00:00"
+    },
+    "Packet": {
+      "Number": 165
+    },
+    "TEROS12_Probe_1": {
+      "Volumetric_Water_Content_m3_m3": 0.201,
+      "Soil_Temperature_C": 16.482,
+      "Bulk_Electrical_Conductivity_dS_m": 0.45
+    },
+    "TEROS12_Probe_2": {
+      "Volumetric_Water_Content_m3_m3": 0.247,
+      "Soil_Temperature_C": 14.842,
+      "Bulk_Electrical_Conductivity_dS_m": 0.516
+    },
+    "TEROS12_Probe_3": {
+      "Volumetric_Water_Content_m3_m3": 0.284,
+      "Soil_Temperature_C": 13.573,
+      "Bulk_Electrical_Conductivity_dS_m": 0.579
+    },
+    "TEROS21_Gen2": {
+      "Soil_Matric_Potential_kPa": -91.5,
+      "Soil_Temperature_C": 14.842
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-12T04:00:00Z",
+      "time_local": "2026-10-11T21:00:00"
+    },
+    "Packet": {
+      "Number": 166
+    },
+    "TEROS12_Probe_1": {
+      "Volumetric_Water_Content_m3_m3": 0.201,
+      "Soil_Temperature_C": 15.835,
+      "Bulk_Electrical_Conductivity_dS_m": 0.45
+    },
+    "TEROS12_Probe_2": {
+      "Volumetric_Water_Content_m3_m3": 0.247,
+      "Soil_Temperature_C": 14.672,
+      "Bulk_Electrical_Conductivity_dS_m": 0.516
+    },
+    "TEROS12_Probe_3": {
+      "Volumetric_Water_Content_m3_m3": 0.284,
+      "Soil_Temperature_C": 13.6,
+      "Bulk_Electrical_Conductivity_dS_m": 0.579
+    },
+    "TEROS21_Gen2": {
+      "Soil_Matric_Potential_kPa": -91.5,
+      "Soil_Temperature_C": 14.672
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-12T05:00:00Z",
+      "time_local": "2026-10-11T22:00:00"
+    },
+    "Packet": {
+      "Number": 167
+    },
+    "TEROS12_Probe_1": {
+      "Volumetric_Water_Content_m3_m3": 0.201,
+      "Soil_Temperature_C": 15.083,
+      "Bulk_Electrical_Conductivity_dS_m": 0.45
+    },
+    "TEROS12_Probe_2": {
+      "Volumetric_Water_Content_m3_m3": 0.247,
+      "Soil_Temperature_C": 14.402,
+      "Bulk_Electrical_Conductivity_dS_m": 0.516
+    },
+    "TEROS12_Probe_3": {
+      "Volumetric_Water_Content_m3_m3": 0.283,
+      "Soil_Temperature_C": 13.573,
+      "Bulk_Electrical_Conductivity_dS_m": 0.579
+    },
+    "TEROS21_Gen2": {
+      "Soil_Matric_Potential_kPa": -91.5,
+      "Soil_Temperature_C": 14.402
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-12T06:00:00Z",
+      "time_local": "2026-10-11T23:00:00"
+    },
+    "Packet": {
+      "Number": 168
+    },
+    "TEROS12_Probe_1": {
+      "Volumetric_Water_Content_m3_m3": 0.2,
+      "Soil_Temperature_C": 14.276,
+      "Bulk_Electrical_Conductivity_dS_m": 0.45
+    },
+    "TEROS12_Probe_2": {
+      "Volumetric_Water_Content_m3_m3": 0.247,
+      "Soil_Temperature_C": 14.05,
+      "Bulk_Electrical_Conductivity_dS_m": 0.516
+    },
+    "TEROS12_Probe_3": {
+      "Volumetric_Water_Content_m3_m3": 0.283,
+      "Soil_Temperature_C": 13.493,
+      "Bulk_Electrical_Conductivity_dS_m": 0.579
+    },
+    "TEROS21_Gen2": {
+      "Soil_Matric_Potential_kPa": -91.5,
+      "Soil_Temperature_C": 14.05
+    }
+  }
+]

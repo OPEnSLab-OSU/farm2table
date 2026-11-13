@@ -1,0 +1,30 @@
+{
+  "Type": "data",
+  "Timestamp": {
+    "time_utc": "2026-11-12T18:00:00Z",
+    "time_local": "2026-11-12T10:00:00"
+  },
+  "Packet": {
+    "Number": 1
+  },
+  "Analog": {
+    "Vbat": 4.1,
+    "Vbat_MV": 4100
+  },
+  "LTE": {
+    "RSSI": 20
+  },
+  "WeatherStation": {
+    "Air_Temperature_C": 12.5,
+    "Relative_Humidity_%RH": 65.2,
+    "Atmospheric_Pressure_mbar": 1015.3,
+    "Wind_Speed_m_s": 3.2,
+    "Wind_Direction_degrees": 245,
+    "Wind_Gust_m_s": 5.8,
+    "Solar_Radiation_W_m2": 320.5
+  },
+  "TippingBucket": {
+    "Tips": 2,
+    "Hourly_Rainfall_mm": 0.4
+  }
+}

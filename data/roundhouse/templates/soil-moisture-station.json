@@ -1,0 +1,29 @@
+{
+  "Type": "data",
+  "Timestamp": {
+    "time_utc": "2026-11-12T18:00:00Z",
+    "time_local": "2026-11-12T10:00:00"
+  },
+  "Packet": {
+    "Number": 1
+  },
+  "TEROS12_Probe_1": {
+    "Volumetric_Water_Content_m3_m3": 0.22,
+    "Soil_Temperature_C": 15.2,
+    "Bulk_Electrical_Conductivity_dS_m": 0.41
+  },
+  "TEROS12_Probe_2": {
+    "Volumetric_Water_Content_m3_m3": 0.26,
+    "Soil_Temperature_C": 14.3,
+    "Bulk_Electrical_Conductivity_dS_m": 0.53
+  },
+  "TEROS12_Probe_3": {
+    "Volumetric_Water_Content_m3_m3": 0.30,
+    "Soil_Temperature_C": 13.7,
+    "Bulk_Electrical_Conductivity_dS_m": 0.61
+  },
+  "TEROS21_Gen2": {
+    "Soil_Matric_Potential_kPa": -35.0,
+    "Soil_Temperature_C": 14.0
+  }
+}

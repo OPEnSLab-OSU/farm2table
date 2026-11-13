@@ -1,0 +1,3362 @@
+[
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-05T07:00:00Z",
+      "time_local": "2026-10-05T00:00:00"
+    },
+    "Packet": {
+      "Number": 1
+    },
+    "TEROS54": {
+      "VWC_15cm_m3_m3": 0.18,
+      "VWC_30cm_m3_m3": 0.23,
+      "VWC_45cm_m3_m3": 0.27,
+      "VWC_60cm_m3_m3": 0.305,
+      "Soil_Temperature_15cm_C": 12.698,
+      "Soil_Temperature_30cm_C": 13.64,
+      "Soil_Temperature_45cm_C": 13.366,
+      "Soil_Temperature_60cm_C": 12.69
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-05T08:00:00Z",
+      "time_local": "2026-10-05T01:00:00"
+    },
+    "Packet": {
+      "Number": 2
+    },
+    "TEROS54": {
+      "VWC_15cm_m3_m3": 0.18,
+      "VWC_30cm_m3_m3": 0.23,
+      "VWC_45cm_m3_m3": 0.27,
+      "VWC_60cm_m3_m3": 0.305,
+      "Soil_Temperature_15cm_C": 11.958,
+      "Soil_Temperature_30cm_C": 13.2,
+      "Soil_Temperature_45cm_C": 13.2,
+      "Soil_Temperature_60cm_C": 12.66
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-05T09:00:00Z",
+      "time_local": "2026-10-05T02:00:00"
+    },
+    "Packet": {
+      "Number": 3
+    },
+    "TEROS54": {
+      "VWC_15cm_m3_m3": 0.18,
+      "VWC_30cm_m3_m3": 0.23,
+      "VWC_45cm_m3_m3": 0.27,
+      "VWC_60cm_m3_m3": 0.305,
+      "Soil_Temperature_15cm_C": 11.324,
+      "Soil_Temperature_30cm_C": 12.76,
+      "Soil_Temperature_45cm_C": 13.007,
+      "Soil_Temperature_60cm_C": 12.612
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-05T10:00:00Z",
+      "time_local": "2026-10-05T03:00:00"
+    },
+    "Packet": {
+      "Number": 4
+    },
+    "TEROS54": {
+      "VWC_15cm_m3_m3": 0.181,
+      "VWC_30cm_m3_m3": 0.23,
+      "VWC_45cm_m3_m3": 0.27,
+      "VWC_60cm_m3_m3": 0.305,
+      "Soil_Temperature_15cm_C": 10.839,
+      "Soil_Temperature_30cm_C": 12.35,
+      "Soil_Temperature_45cm_C": 12.8,
+      "Soil_Temperature_60cm_C": 12.55
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-05T11:00:00Z",
+      "time_local": "2026-10-05T04:00:00"
+    },
+    "Packet": {
+      "Number": 5
+    },
+    "TEROS54": {
+      "VWC_15cm_m3_m3": 0.181,
+      "VWC_30cm_m3_m3": 0.23,
+      "VWC_45cm_m3_m3": 0.27,
+      "VWC_60cm_m3_m3": 0.305,
+      "Soil_Temperature_15cm_C": 10.538,
+      "Soil_Temperature_30cm_C": 11.998,
+      "Soil_Temperature_45cm_C": 12.593,
+      "Soil_Temperature_60cm_C": 12.478
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-05T12:00:00Z",
+      "time_local": "2026-10-05T05:00:00"
+    },
+    "Packet": {
+      "Number": 6
+    },
+    "TEROS54": {
+      "VWC_15cm_m3_m3": 0.181,
+      "VWC_30cm_m3_m3": 0.23,
+      "VWC_45cm_m3_m3": 0.27,
+      "VWC_60cm_m3_m3": 0.305,
+      "Soil_Temperature_15cm_C": 10.44,
+      "Soil_Temperature_30cm_C": 11.728,
+      "Soil_Temperature_45cm_C": 12.4,
+      "Soil_Temperature_60cm_C": 12.4
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-05T13:00:00Z",
+      "time_local": "2026-10-05T06:00:00"
+    },
+    "Packet": {
+      "Number": 7
+    },
+    "TEROS54": {
+      "VWC_15cm_m3_m3": 0.181,
+      "VWC_30cm_m3_m3": 0.231,
+      "VWC_45cm_m3_m3": 0.27,
+      "VWC_60cm_m3_m3": 0.305,
+      "Soil_Temperature_15cm_C": 10.554,
+      "Soil_Temperature_30cm_C": 11.558,
+      "Soil_Temperature_45cm_C": 12.234,
+      "Soil_Temperature_60cm_C": 12.322
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-05T14:00:00Z",
+      "time_local": "2026-10-05T07:00:00"
+    },
+    "Packet": {
+      "Number": 8
+    },
+    "TEROS54": {
+      "VWC_15cm_m3_m3": 0.181,
+      "VWC_30cm_m3_m3": 0.231,
+      "VWC_45cm_m3_m3": 0.27,
+      "VWC_60cm_m3_m3": 0.305,
+      "Soil_Temperature_15cm_C": 10.871,
+      "Soil_Temperature_30cm_C": 11.5,
+      "Soil_Temperature_45cm_C": 12.107,
+      "Soil_Temperature_60cm_C": 12.25
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-05T15:00:00Z",
+      "time_local": "2026-10-05T08:00:00"
+    },
+    "Packet": {
+      "Number": 9
+    },
+    "TEROS54": {
+      "VWC_15cm_m3_m3": 0.182,
+      "VWC_30cm_m3_m3": 0.231,
+      "VWC_45cm_m3_m3": 0.27,
+      "VWC_60cm_m3_m3": 0.305,
+      "Soil_Temperature_15cm_C": 11.372,
+      "Soil_Temperature_30cm_C": 11.558,
+      "Soil_Temperature_45cm_C": 12.027,
+      "Soil_Temperature_60cm_C": 12.188
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-05T16:00:00Z",
+      "time_local": "2026-10-05T09:00:00"
+    },
+    "Packet": {
+      "Number": 10
+    },
+    "TEROS54": {
+      "VWC_15cm_m3_m3": 0.182,
+      "VWC_30cm_m3_m3": 0.231,
+      "VWC_45cm_m3_m3": 0.27,
+      "VWC_60cm_m3_m3": 0.305,
+      "Soil_Temperature_15cm_C": 12.022,
+      "Soil_Temperature_30cm_C": 11.728,
+      "Soil_Temperature_45cm_C": 12.0,
+      "Soil_Temperature_60cm_C": 12.14
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-05T17:00:00Z",
+      "time_local": "2026-10-05T10:00:00"
+    },
+    "Packet": {
+      "Number": 11
+    },
+    "TEROS54": {
+      "VWC_15cm_m3_m3": 0.182,
+      "VWC_30cm_m3_m3": 0.231,
+      "VWC_45cm_m3_m3": 0.271,
+      "VWC_60cm_m3_m3": 0.305,
+      "Soil_Temperature_15cm_C": 12.777,
+      "Soil_Temperature_30cm_C": 11.998,
+      "Soil_Temperature_45cm_C": 12.027,
+      "Soil_Temperature_60cm_C": 12.11
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-05T18:00:00Z",
+      "time_local": "2026-10-05T11:00:00"
+    },
+    "Packet": {
+      "Number": 12
+    },
+    "TEROS54": {
+      "VWC_15cm_m3_m3": 0.182,
+      "VWC_30cm_m3_m3": 0.231,
+      "VWC_45cm_m3_m3": 0.271,
+      "VWC_60cm_m3_m3": 0.305,
+      "Soil_Temperature_15cm_C": 13.588,
+      "Soil_Temperature_30cm_C": 12.35,
+      "Soil_Temperature_45cm_C": 12.107,
+      "Soil_Temperature_60cm_C": 12.1
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-05T19:00:00Z",
+      "time_local": "2026-10-05T12:00:00"
+    },
+    "Packet": {
+      "Number": 13
+    },
+    "TEROS54": {
+      "VWC_15cm_m3_m3": 0.182,
+      "VWC_30cm_m3_m3": 0.231,
+      "VWC_45cm_m3_m3": 0.271,
+      "VWC_60cm_m3_m3": 0.305,
+      "Soil_Temperature_15cm_C": 14.398,
+      "Soil_Temperature_30cm_C": 12.76,
+      "Soil_Temperature_45cm_C": 12.234,
+      "Soil_Temperature_60cm_C": 12.11
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-05T20:00:00Z",
+      "time_local": "2026-10-05T13:00:00"
+    },
+    "Packet": {
+      "Number": 14
+    },
+    "TEROS54": {
+      "VWC_15cm_m3_m3": 0.183,
+      "VWC_30cm_m3_m3": 0.231,
+      "VWC_45cm_m3_m3": 0.271,
+      "VWC_60cm_m3_m3": 0.305,
+      "Soil_Temperature_15cm_C": 15.153,
+      "Soil_Temperature_30cm_C": 13.2,
+      "Soil_Temperature_45cm_C": 12.4,
+      "Soil_Temperature_60cm_C": 12.14
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-05T21:00:00Z",
+      "time_local": "2026-10-05T14:00:00"
+    },
+    "Packet": {
+      "Number": 15
+    },
+    "TEROS54": {
+      "VWC_15cm_m3_m3": 0.183,
+      "VWC_30cm_m3_m3": 0.231,
+      "VWC_45cm_m3_m3": 0.271,
+      "VWC_60cm_m3_m3": 0.305,
+      "Soil_Temperature_15cm_C": 15.803,
+      "Soil_Temperature_30cm_C": 13.64,
+      "Soil_Temperature_45cm_C": 12.593,
+      "Soil_Temperature_60cm_C": 12.188
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-05T22:00:00Z",
+      "time_local": "2026-10-05T15:00:00"
+    },
+    "Packet": {
+      "Number": 16
+    },
+    "TEROS54": {
+      "VWC_15cm_m3_m3": 0.183,
+      "VWC_30cm_m3_m3": 0.231,
+      "VWC_45cm_m3_m3": 0.271,
+      "VWC_60cm_m3_m3": 0.305,
+      "Soil_Temperature_15cm_C": 16.304,
+      "Soil_Temperature_30cm_C": 14.05,
+      "Soil_Temperature_45cm_C": 12.8,
+      "Soil_Temperature_60cm_C": 12.25
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-05T23:00:00Z",
+      "time_local": "2026-10-05T16:00:00"
+    },
+    "Packet": {
+      "Number": 17
+    },
+    "TEROS54": {
+      "VWC_15cm_m3_m3": 0.183,
+      "VWC_30cm_m3_m3": 0.232,
+      "VWC_45cm_m3_m3": 0.271,
+      "VWC_60cm_m3_m3": 0.305,
+      "Soil_Temperature_15cm_C": 16.621,
+      "Soil_Temperature_30cm_C": 14.402,
+      "Soil_Temperature_45cm_C": 13.007,
+      "Soil_Temperature_60cm_C": 12.322
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-06T00:00:00Z",
+      "time_local": "2026-10-05T17:00:00"
+    },
+    "Packet": {
+      "Number": 18
+    },
+    "TEROS54": {
+      "VWC_15cm_m3_m3": 0.183,
+      "VWC_30cm_m3_m3": 0.232,
+      "VWC_45cm_m3_m3": 0.271,
+      "VWC_60cm_m3_m3": 0.305,
+      "Soil_Temperature_15cm_C": 16.735,
+      "Soil_Temperature_30cm_C": 14.672,
+      "Soil_Temperature_45cm_C": 13.2,
+      "Soil_Temperature_60cm_C": 12.4
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-06T01:00:00Z",
+      "time_local": "2026-10-05T18:00:00"
+    },
+    "Packet": {
+      "Number": 19
+    },
+    "TEROS54": {
+      "VWC_15cm_m3_m3": 0.184,
+      "VWC_30cm_m3_m3": 0.232,
+      "VWC_45cm_m3_m3": 0.271,
+      "VWC_60cm_m3_m3": 0.305,
+      "Soil_Temperature_15cm_C": 16.637,
+      "Soil_Temperature_30cm_C": 14.842,
+      "Soil_Temperature_45cm_C": 13.366,
+      "Soil_Temperature_60cm_C": 12.478
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-06T02:00:00Z",
+      "time_local": "2026-10-05T19:00:00"
+    },
+    "Packet": {
+      "Number": 20
+    },
+    "TEROS54": {
+      "VWC_15cm_m3_m3": 0.184,
+      "VWC_30cm_m3_m3": 0.232,
+      "VWC_45cm_m3_m3": 0.271,
+      "VWC_60cm_m3_m3": 0.305,
+      "Soil_Temperature_15cm_C": 16.335,
+      "Soil_Temperature_30cm_C": 14.9,
+      "Soil_Temperature_45cm_C": 13.493,
+      "Soil_Temperature_60cm_C": 12.55
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-06T03:00:00Z",
+      "time_local": "2026-10-05T20:00:00"
+    },
+    "Packet": {
+      "Number": 21
+    },
+    "TEROS54": {
+      "VWC_15cm_m3_m3": 0.184,
+      "VWC_30cm_m3_m3": 0.232,
+      "VWC_45cm_m3_m3": 0.271,
+      "VWC_60cm_m3_m3": 0.305,
+      "Soil_Temperature_15cm_C": 15.85,
+      "Soil_Temperature_30cm_C": 14.842,
+      "Soil_Temperature_45cm_C": 13.573,
+      "Soil_Temperature_60cm_C": 12.612
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-06T04:00:00Z",
+      "time_local": "2026-10-05T21:00:00"
+    },
+    "Packet": {
+      "Number": 22
+    },
+    "TEROS54": {
+      "VWC_15cm_m3_m3": 0.184,
+      "VWC_30cm_m3_m3": 0.232,
+      "VWC_45cm_m3_m3": 0.271,
+      "VWC_60cm_m3_m3": 0.306,
+      "Soil_Temperature_15cm_C": 15.216,
+      "Soil_Temperature_30cm_C": 14.672,
+      "Soil_Temperature_45cm_C": 13.6,
+      "Soil_Temperature_60cm_C": 12.66
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-06T05:00:00Z",
+      "time_local": "2026-10-05T22:00:00"
+    },
+    "Packet": {
+      "Number": 23
+    },
+    "TEROS54": {
+      "VWC_15cm_m3_m3": 0.184,
+      "VWC_30cm_m3_m3": 0.232,
+      "VWC_45cm_m3_m3": 0.271,
+      "VWC_60cm_m3_m3": 0.306,
+      "Soil_Temperature_15cm_C": 14.476,
+      "Soil_Temperature_30cm_C": 14.402,
+      "Soil_Temperature_45cm_C": 13.573,
+      "Soil_Temperature_60cm_C": 12.69
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-06T06:00:00Z",
+      "time_local": "2026-10-05T23:00:00"
+    },
+    "Packet": {
+      "Number": 24
+    },
+    "TEROS54": {
+      "VWC_15cm_m3_m3": 0.185,
+      "VWC_30cm_m3_m3": 0.232,
+      "VWC_45cm_m3_m3": 0.271,
+      "VWC_60cm_m3_m3": 0.306,
+      "Soil_Temperature_15cm_C": 13.681,
+      "Soil_Temperature_30cm_C": 14.05,
+      "Soil_Temperature_45cm_C": 13.493,
+      "Soil_Temperature_60cm_C": 12.7
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-06T07:00:00Z",
+      "time_local": "2026-10-06T00:00:00"
+    },
+    "Packet": {
+      "Number": 25
+    },
+    "TEROS54": {
+      "VWC_15cm_m3_m3": 0.185,
+      "VWC_30cm_m3_m3": 0.232,
+      "VWC_45cm_m3_m3": 0.271,
+      "VWC_60cm_m3_m3": 0.306,
+      "Soil_Temperature_15cm_C": 12.886,
+      "Soil_Temperature_30cm_C": 13.64,
+      "Soil_Temperature_45cm_C": 13.366,
+      "Soil_Temperature_60cm_C": 12.69
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-06T08:00:00Z",
+      "time_local": "2026-10-06T01:00:00"
+    },
+    "Packet": {
+      "Number": 26
+    },
+    "TEROS54": {
+      "VWC_15cm_m3_m3": 0.185,
+      "VWC_30cm_m3_m3": 0.232,
+      "VWC_45cm_m3_m3": 0.271,
+      "VWC_60cm_m3_m3": 0.306,
+      "Soil_Temperature_15cm_C": 12.146,
+      "Soil_Temperature_30cm_C": 13.2,
+      "Soil_Temperature_45cm_C": 13.2,
+      "Soil_Temperature_60cm_C": 12.66
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-06T09:00:00Z",
+      "time_local": "2026-10-06T02:00:00"
+    },
+    "Packet": {
+      "Number": 27
+    },
+    "TEROS54": {
+      "VWC_15cm_m3_m3": 0.191,
+      "VWC_30cm_m3_m3": 0.233,
+      "VWC_45cm_m3_m3": 0.271,
+      "VWC_60cm_m3_m3": 0.306,
+      "Soil_Temperature_15cm_C": 11.512,
+      "Soil_Temperature_30cm_C": 12.76,
+      "Soil_Temperature_45cm_C": 13.007,
+      "Soil_Temperature_60cm_C": 12.612
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-06T10:00:00Z",
+      "time_local": "2026-10-06T03:00:00"
+    },
+    "Packet": {
+      "Number": 28
+    },
+    "TEROS54": {
+      "VWC_15cm_m3_m3": 0.199,
+      "VWC_30cm_m3_m3": 0.233,
+      "VWC_45cm_m3_m3": 0.271,
+      "VWC_60cm_m3_m3": 0.306,
+      "Soil_Temperature_15cm_C": 11.027,
+      "Soil_Temperature_30cm_C": 12.35,
+      "Soil_Temperature_45cm_C": 12.8,
+      "Soil_Temperature_60cm_C": 12.55
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-06T11:00:00Z",
+      "time_local": "2026-10-06T04:00:00"
+    },
+    "Packet": {
+      "Number": 29
+    },
+    "TEROS54": {
+      "VWC_15cm_m3_m3": 0.202,
+      "VWC_30cm_m3_m3": 0.233,
+      "VWC_45cm_m3_m3": 0.271,
+      "VWC_60cm_m3_m3": 0.306,
+      "Soil_Temperature_15cm_C": 10.724,
+      "Soil_Temperature_30cm_C": 11.998,
+      "Soil_Temperature_45cm_C": 12.593,
+      "Soil_Temperature_60cm_C": 12.478
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-06T12:00:00Z",
+      "time_local": "2026-10-06T05:00:00"
+    },
+    "Packet": {
+      "Number": 30
+    },
+    "TEROS54": {
+      "VWC_15cm_m3_m3": 0.201,
+      "VWC_30cm_m3_m3": 0.233,
+      "VWC_45cm_m3_m3": 0.272,
+      "VWC_60cm_m3_m3": 0.306,
+      "Soil_Temperature_15cm_C": 10.626,
+      "Soil_Temperature_30cm_C": 11.728,
+      "Soil_Temperature_45cm_C": 12.4,
+      "Soil_Temperature_60cm_C": 12.4
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-06T13:00:00Z",
+      "time_local": "2026-10-06T06:00:00"
+    },
+    "Packet": {
+      "Number": 31
+    },
+    "TEROS54": {
+      "VWC_15cm_m3_m3": 0.201,
+      "VWC_30cm_m3_m3": 0.233,
+      "VWC_45cm_m3_m3": 0.272,
+      "VWC_60cm_m3_m3": 0.306,
+      "Soil_Temperature_15cm_C": 10.739,
+      "Soil_Temperature_30cm_C": 11.558,
+      "Soil_Temperature_45cm_C": 12.234,
+      "Soil_Temperature_60cm_C": 12.322
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-06T14:00:00Z",
+      "time_local": "2026-10-06T07:00:00"
+    },
+    "Packet": {
+      "Number": 32
+    },
+    "TEROS54": {
+      "VWC_15cm_m3_m3": 0.2,
+      "VWC_30cm_m3_m3": 0.237,
+      "VWC_45cm_m3_m3": 0.272,
+      "VWC_60cm_m3_m3": 0.306,
+      "Soil_Temperature_15cm_C": 11.056,
+      "Soil_Temperature_30cm_C": 11.5,
+      "Soil_Temperature_45cm_C": 12.107,
+      "Soil_Temperature_60cm_C": 12.25
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-06T15:00:00Z",
+      "time_local": "2026-10-06T08:00:00"
+    },
+    "Packet": {
+      "Number": 33
+    },
+    "TEROS54": {
+      "VWC_15cm_m3_m3": 0.199,
+      "VWC_30cm_m3_m3": 0.243,
+      "VWC_45cm_m3_m3": 0.272,
+      "VWC_60cm_m3_m3": 0.306,
+      "Soil_Temperature_15cm_C": 11.556,
+      "Soil_Temperature_30cm_C": 11.558,
+      "Soil_Temperature_45cm_C": 12.027,
+      "Soil_Temperature_60cm_C": 12.188
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-06T16:00:00Z",
+      "time_local": "2026-10-06T09:00:00"
+    },
+    "Packet": {
+      "Number": 34
+    },
+    "TEROS54": {
+      "VWC_15cm_m3_m3": 0.198,
+      "VWC_30cm_m3_m3": 0.245,
+      "VWC_45cm_m3_m3": 0.272,
+      "VWC_60cm_m3_m3": 0.306,
+      "Soil_Temperature_15cm_C": 12.206,
+      "Soil_Temperature_30cm_C": 11.728,
+      "Soil_Temperature_45cm_C": 12.0,
+      "Soil_Temperature_60cm_C": 12.14
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-06T17:00:00Z",
+      "time_local": "2026-10-06T10:00:00"
+    },
+    "Packet": {
+      "Number": 35
+    },
+    "TEROS54": {
+      "VWC_15cm_m3_m3": 0.198,
+      "VWC_30cm_m3_m3": 0.244,
+      "VWC_45cm_m3_m3": 0.272,
+      "VWC_60cm_m3_m3": 0.306,
+      "Soil_Temperature_15cm_C": 12.96,
+      "Soil_Temperature_30cm_C": 11.998,
+      "Soil_Temperature_45cm_C": 12.027,
+      "Soil_Temperature_60cm_C": 12.11
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-06T18:00:00Z",
+      "time_local": "2026-10-06T11:00:00"
+    },
+    "Packet": {
+      "Number": 36
+    },
+    "TEROS54": {
+      "VWC_15cm_m3_m3": 0.197,
+      "VWC_30cm_m3_m3": 0.244,
+      "VWC_45cm_m3_m3": 0.272,
+      "VWC_60cm_m3_m3": 0.306,
+      "Soil_Temperature_15cm_C": 13.77,
+      "Soil_Temperature_30cm_C": 12.35,
+      "Soil_Temperature_45cm_C": 12.107,
+      "Soil_Temperature_60cm_C": 12.1
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-06T19:00:00Z",
+      "time_local": "2026-10-06T12:00:00"
+    },
+    "Packet": {
+      "Number": 37
+    },
+    "TEROS54": {
+      "VWC_15cm_m3_m3": 0.197,
+      "VWC_30cm_m3_m3": 0.244,
+      "VWC_45cm_m3_m3": 0.272,
+      "VWC_60cm_m3_m3": 0.306,
+      "Soil_Temperature_15cm_C": 14.579,
+      "Soil_Temperature_30cm_C": 12.76,
+      "Soil_Temperature_45cm_C": 12.234,
+      "Soil_Temperature_60cm_C": 12.11
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-06T20:00:00Z",
+      "time_local": "2026-10-06T13:00:00"
+    },
+    "Packet": {
+      "Number": 38
+    },
+    "TEROS54": {
+      "VWC_15cm_m3_m3": 0.196,
+      "VWC_30cm_m3_m3": 0.243,
+      "VWC_45cm_m3_m3": 0.272,
+      "VWC_60cm_m3_m3": 0.306,
+      "Soil_Temperature_15cm_C": 15.334,
+      "Soil_Temperature_30cm_C": 13.2,
+      "Soil_Temperature_45cm_C": 12.4,
+      "Soil_Temperature_60cm_C": 12.14
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-06T21:00:00Z",
+      "time_local": "2026-10-06T14:00:00"
+    },
+    "Packet": {
+      "Number": 39
+    },
+    "TEROS54": {
+      "VWC_15cm_m3_m3": 0.196,
+      "VWC_30cm_m3_m3": 0.243,
+      "VWC_45cm_m3_m3": 0.272,
+      "VWC_60cm_m3_m3": 0.306,
+      "Soil_Temperature_15cm_C": 15.983,
+      "Soil_Temperature_30cm_C": 13.64,
+      "Soil_Temperature_45cm_C": 12.593,
+      "Soil_Temperature_60cm_C": 12.188
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-06T22:00:00Z",
+      "time_local": "2026-10-06T15:00:00"
+    },
+    "Packet": {
+      "Number": 40
+    },
+    "TEROS54": {
+      "VWC_15cm_m3_m3": 0.196,
+      "VWC_30cm_m3_m3": 0.243,
+      "VWC_45cm_m3_m3": 0.272,
+      "VWC_60cm_m3_m3": 0.306,
+      "Soil_Temperature_15cm_C": 16.483,
+      "Soil_Temperature_30cm_C": 14.05,
+      "Soil_Temperature_45cm_C": 12.8,
+      "Soil_Temperature_60cm_C": 12.25
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-06T23:00:00Z",
+      "time_local": "2026-10-06T16:00:00"
+    },
+    "Packet": {
+      "Number": 41
+    },
+    "TEROS54": {
+      "VWC_15cm_m3_m3": 0.195,
+      "VWC_30cm_m3_m3": 0.242,
+      "VWC_45cm_m3_m3": 0.272,
+      "VWC_60cm_m3_m3": 0.306,
+      "Soil_Temperature_15cm_C": 16.799,
+      "Soil_Temperature_30cm_C": 14.402,
+      "Soil_Temperature_45cm_C": 13.007,
+      "Soil_Temperature_60cm_C": 12.322
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-07T00:00:00Z",
+      "time_local": "2026-10-06T17:00:00"
+    },
+    "Packet": {
+      "Number": 42
+    },
+    "TEROS54": {
+      "VWC_15cm_m3_m3": 0.195,
+      "VWC_30cm_m3_m3": 0.242,
+      "VWC_45cm_m3_m3": 0.272,
+      "VWC_60cm_m3_m3": 0.306,
+      "Soil_Temperature_15cm_C": 16.912,
+      "Soil_Temperature_30cm_C": 14.672,
+      "Soil_Temperature_45cm_C": 13.2,
+      "Soil_Temperature_60cm_C": 12.4
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-07T01:00:00Z",
+      "time_local": "2026-10-06T18:00:00"
+    },
+    "Packet": {
+      "Number": 43
+    },
+    "TEROS54": {
+      "VWC_15cm_m3_m3": 0.195,
+      "VWC_30cm_m3_m3": 0.242,
+      "VWC_45cm_m3_m3": 0.272,
+      "VWC_60cm_m3_m3": 0.306,
+      "Soil_Temperature_15cm_C": 16.813,
+      "Soil_Temperature_30cm_C": 14.842,
+      "Soil_Temperature_45cm_C": 13.366,
+      "Soil_Temperature_60cm_C": 12.478
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-07T02:00:00Z",
+      "time_local": "2026-10-06T19:00:00"
+    },
+    "Packet": {
+      "Number": 44
+    },
+    "TEROS54": {
+      "VWC_15cm_m3_m3": 0.194,
+      "VWC_30cm_m3_m3": 0.241,
+      "VWC_45cm_m3_m3": 0.274,
+      "VWC_60cm_m3_m3": 0.306,
+      "Soil_Temperature_15cm_C": 16.51,
+      "Soil_Temperature_30cm_C": 14.9,
+      "Soil_Temperature_45cm_C": 13.493,
+      "Soil_Temperature_60cm_C": 12.55
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-07T03:00:00Z",
+      "time_local": "2026-10-06T20:00:00"
+    },
+    "Packet": {
+      "Number": 45
+    },
+    "TEROS54": {
+      "VWC_15cm_m3_m3": 0.194,
+      "VWC_30cm_m3_m3": 0.241,
+      "VWC_45cm_m3_m3": 0.277,
+      "VWC_60cm_m3_m3": 0.306,
+      "Soil_Temperature_15cm_C": 16.024,
+      "Soil_Temperature_30cm_C": 14.842,
+      "Soil_Temperature_45cm_C": 13.573,
+      "Soil_Temperature_60cm_C": 12.612
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-07T04:00:00Z",
+      "time_local": "2026-10-06T21:00:00"
+    },
+    "Packet": {
+      "Number": 46
+    },
+    "TEROS54": {
+      "VWC_15cm_m3_m3": 0.194,
+      "VWC_30cm_m3_m3": 0.241,
+      "VWC_45cm_m3_m3": 0.278,
+      "VWC_60cm_m3_m3": 0.306,
+      "Soil_Temperature_15cm_C": 15.389,
+      "Soil_Temperature_30cm_C": 14.672,
+      "Soil_Temperature_45cm_C": 13.6,
+      "Soil_Temperature_60cm_C": 12.66
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-07T05:00:00Z",
+      "time_local": "2026-10-06T22:00:00"
+    },
+    "Packet": {
+      "Number": 47
+    },
+    "TEROS54": {
+      "VWC_15cm_m3_m3": 0.194,
+      "VWC_30cm_m3_m3": 0.241,
+      "VWC_45cm_m3_m3": 0.278,
+      "VWC_60cm_m3_m3": 0.306,
+      "Soil_Temperature_15cm_C": 14.648,
+      "Soil_Temperature_30cm_C": 14.402,
+      "Soil_Temperature_45cm_C": 13.573,
+      "Soil_Temperature_60cm_C": 12.69
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-07T06:00:00Z",
+      "time_local": "2026-10-06T23:00:00"
+    },
+    "Packet": {
+      "Number": 48
+    },
+    "TEROS54": {
+      "VWC_15cm_m3_m3": 0.194,
+      "VWC_30cm_m3_m3": 0.241,
+      "VWC_45cm_m3_m3": 0.278,
+      "VWC_60cm_m3_m3": 0.306,
+      "Soil_Temperature_15cm_C": 13.852,
+      "Soil_Temperature_30cm_C": 14.05,
+      "Soil_Temperature_45cm_C": 13.493,
+      "Soil_Temperature_60cm_C": 12.7
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-07T07:00:00Z",
+      "time_local": "2026-10-07T00:00:00"
+    },
+    "Packet": {
+      "Number": 49
+    },
+    "TEROS54": {
+      "VWC_15cm_m3_m3": 0.194,
+      "VWC_30cm_m3_m3": 0.24,
+      "VWC_45cm_m3_m3": 0.278,
+      "VWC_60cm_m3_m3": 0.306,
+      "Soil_Temperature_15cm_C": 13.056,
+      "Soil_Temperature_30cm_C": 13.64,
+      "Soil_Temperature_45cm_C": 13.366,
+      "Soil_Temperature_60cm_C": 12.69
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-07T08:00:00Z",
+      "time_local": "2026-10-07T01:00:00"
+    },
+    "Packet": {
+      "Number": 50
+    },
+    "TEROS54": {
+      "VWC_15cm_m3_m3": 0.193,
+      "VWC_30cm_m3_m3": 0.24,
+      "VWC_45cm_m3_m3": 0.278,
+      "VWC_60cm_m3_m3": 0.306,
+      "Soil_Temperature_15cm_C": 12.315,
+      "Soil_Temperature_30cm_C": 13.2,
+      "Soil_Temperature_45cm_C": 13.2,
+      "Soil_Temperature_60cm_C": 12.66
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-07T09:00:00Z",
+      "time_local": "2026-10-07T02:00:00"
+    },
+    "Packet": {
+      "Number": 51
+    },
+    "TEROS54": {
+      "VWC_15cm_m3_m3": 0.193,
+      "VWC_30cm_m3_m3": 0.24,
+      "VWC_45cm_m3_m3": 0.278,
+      "VWC_60cm_m3_m3": 0.306,
+      "Soil_Temperature_15cm_C": 11.679,
+      "Soil_Temperature_30cm_C": 12.76,
+      "Soil_Temperature_45cm_C": 13.007,
+      "Soil_Temperature_60cm_C": 12.612
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-07T10:00:00Z",
+      "time_local": "2026-10-07T03:00:00"
+    },
+    "Packet": {
+      "Number": 52
+    },
+    "TEROS54": {
+      "VWC_15cm_m3_m3": 0.193,
+      "VWC_30cm_m3_m3": 0.24,
+      "VWC_45cm_m3_m3": 0.278,
+      "VWC_60cm_m3_m3": 0.306,
+      "Soil_Temperature_15cm_C": 11.193,
+      "Soil_Temperature_30cm_C": 12.35,
+      "Soil_Temperature_45cm_C": 12.8,
+      "Soil_Temperature_60cm_C": 12.55
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-07T11:00:00Z",
+      "time_local": "2026-10-07T04:00:00"
+    },
+    "Packet": {
+      "Number": 53
+    },
+    "TEROS54": {
+      "VWC_15cm_m3_m3": 0.193,
+      "VWC_30cm_m3_m3": 0.24,
+      "VWC_45cm_m3_m3": 0.277,
+      "VWC_60cm_m3_m3": 0.306,
+      "Soil_Temperature_15cm_C": 10.889,
+      "Soil_Temperature_30cm_C": 11.998,
+      "Soil_Temperature_45cm_C": 12.593,
+      "Soil_Temperature_60cm_C": 12.478
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-07T12:00:00Z",
+      "time_local": "2026-10-07T05:00:00"
+    },
+    "Packet": {
+      "Number": 54
+    },
+    "TEROS54": {
+      "VWC_15cm_m3_m3": 0.193,
+      "VWC_30cm_m3_m3": 0.24,
+      "VWC_45cm_m3_m3": 0.277,
+      "VWC_60cm_m3_m3": 0.306,
+      "Soil_Temperature_15cm_C": 10.79,
+      "Soil_Temperature_30cm_C": 11.728,
+      "Soil_Temperature_45cm_C": 12.4,
+      "Soil_Temperature_60cm_C": 12.4
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-07T13:00:00Z",
+      "time_local": "2026-10-07T06:00:00"
+    },
+    "Packet": {
+      "Number": 55
+    },
+    "TEROS54": {
+      "VWC_15cm_m3_m3": 0.193,
+      "VWC_30cm_m3_m3": 0.24,
+      "VWC_45cm_m3_m3": 0.277,
+      "VWC_60cm_m3_m3": 0.306,
+      "Soil_Temperature_15cm_C": 10.901,
+      "Soil_Temperature_30cm_C": 11.558,
+      "Soil_Temperature_45cm_C": 12.234,
+      "Soil_Temperature_60cm_C": 12.322
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-07T14:00:00Z",
+      "time_local": "2026-10-07T07:00:00"
+    },
+    "Packet": {
+      "Number": 56
+    },
+    "TEROS54": {
+      "VWC_15cm_m3_m3": 0.193,
+      "VWC_30cm_m3_m3": 0.24,
+      "VWC_45cm_m3_m3": 0.277,
+      "VWC_60cm_m3_m3": 0.307,
+      "Soil_Temperature_15cm_C": 11.217,
+      "Soil_Temperature_30cm_C": 11.5,
+      "Soil_Temperature_45cm_C": 12.107,
+      "Soil_Temperature_60cm_C": 12.25
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-07T15:00:00Z",
+      "time_local": "2026-10-07T08:00:00"
+    },
+    "Packet": {
+      "Number": 57
+    },
+    "TEROS54": {
+      "VWC_15cm_m3_m3": 0.193,
+      "VWC_30cm_m3_m3": 0.239,
+      "VWC_45cm_m3_m3": 0.277,
+      "VWC_60cm_m3_m3": 0.309,
+      "Soil_Temperature_15cm_C": 11.715,
+      "Soil_Temperature_30cm_C": 11.558,
+      "Soil_Temperature_45cm_C": 12.027,
+      "Soil_Temperature_60cm_C": 12.188
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-07T16:00:00Z",
+      "time_local": "2026-10-07T09:00:00"
+    },
+    "Packet": {
+      "Number": 58
+    },
+    "TEROS54": {
+      "VWC_15cm_m3_m3": 0.193,
+      "VWC_30cm_m3_m3": 0.239,
+      "VWC_45cm_m3_m3": 0.277,
+      "VWC_60cm_m3_m3": 0.309,
+      "Soil_Temperature_15cm_C": 12.363,
+      "Soil_Temperature_30cm_C": 11.728,
+      "Soil_Temperature_45cm_C": 12.0,
+      "Soil_Temperature_60cm_C": 12.14
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-07T17:00:00Z",
+      "time_local": "2026-10-07T10:00:00"
+    },
+    "Packet": {
+      "Number": 59
+    },
+    "TEROS54": {
+      "VWC_15cm_m3_m3": 0.193,
+      "VWC_30cm_m3_m3": 0.239,
+      "VWC_45cm_m3_m3": 0.277,
+      "VWC_60cm_m3_m3": 0.309,
+      "Soil_Temperature_15cm_C": 13.117,
+      "Soil_Temperature_30cm_C": 11.998,
+      "Soil_Temperature_45cm_C": 12.027,
+      "Soil_Temperature_60cm_C": 12.11
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-07T18:00:00Z",
+      "time_local": "2026-10-07T11:00:00"
+    },
+    "Packet": {
+      "Number": 60
+    },
+    "TEROS54": {
+      "VWC_15cm_m3_m3": 0.193,
+      "VWC_30cm_m3_m3": 0.239,
+      "VWC_45cm_m3_m3": 0.277,
+      "VWC_60cm_m3_m3": 0.309,
+      "Soil_Temperature_15cm_C": 13.925,
+      "Soil_Temperature_30cm_C": 12.35,
+      "Soil_Temperature_45cm_C": 12.107,
+      "Soil_Temperature_60cm_C": 12.1
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-07T19:00:00Z",
+      "time_local": "2026-10-07T12:00:00"
+    },
+    "Packet": {
+      "Number": 61
+    },
+    "TEROS54": {
+      "VWC_15cm_m3_m3": 0.193,
+      "VWC_30cm_m3_m3": 0.239,
+      "VWC_45cm_m3_m3": 0.277,
+      "VWC_60cm_m3_m3": 0.309,
+      "Soil_Temperature_15cm_C": 14.733,
+      "Soil_Temperature_30cm_C": 12.76,
+      "Soil_Temperature_45cm_C": 12.234,
+      "Soil_Temperature_60cm_C": 12.11
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-07T20:00:00Z",
+      "time_local": "2026-10-07T13:00:00"
+    },
+    "Packet": {
+      "Number": 62
+    },
+    "TEROS54": {
+      "VWC_15cm_m3_m3": 0.193,
+      "VWC_30cm_m3_m3": 0.239,
+      "VWC_45cm_m3_m3": 0.277,
+      "VWC_60cm_m3_m3": 0.309,
+      "Soil_Temperature_15cm_C": 15.486,
+      "Soil_Temperature_30cm_C": 13.2,
+      "Soil_Temperature_45cm_C": 12.4,
+      "Soil_Temperature_60cm_C": 12.14
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-07T21:00:00Z",
+      "time_local": "2026-10-07T14:00:00"
+    },
+    "Packet": {
+      "Number": 63
+    },
+    "TEROS54": {
+      "VWC_15cm_m3_m3": 0.193,
+      "VWC_30cm_m3_m3": 0.239,
+      "VWC_45cm_m3_m3": 0.277,
+      "VWC_60cm_m3_m3": 0.309,
+      "Soil_Temperature_15cm_C": 16.133,
+      "Soil_Temperature_30cm_C": 13.64,
+      "Soil_Temperature_45cm_C": 12.593,
+      "Soil_Temperature_60cm_C": 12.188
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-07T22:00:00Z",
+      "time_local": "2026-10-07T15:00:00"
+    },
+    "Packet": {
+      "Number": 64
+    },
+    "TEROS54": {
+      "VWC_15cm_m3_m3": 0.193,
+      "VWC_30cm_m3_m3": 0.239,
+      "VWC_45cm_m3_m3": 0.277,
+      "VWC_60cm_m3_m3": 0.309,
+      "Soil_Temperature_15cm_C": 16.631,
+      "Soil_Temperature_30cm_C": 14.05,
+      "Soil_Temperature_45cm_C": 12.8,
+      "Soil_Temperature_60cm_C": 12.25
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-07T23:00:00Z",
+      "time_local": "2026-10-07T16:00:00"
+    },
+    "Packet": {
+      "Number": 65
+    },
+    "TEROS54": {
+      "VWC_15cm_m3_m3": 0.193,
+      "VWC_30cm_m3_m3": 0.239,
+      "VWC_45cm_m3_m3": 0.277,
+      "VWC_60cm_m3_m3": 0.309,
+      "Soil_Temperature_15cm_C": 16.946,
+      "Soil_Temperature_30cm_C": 14.402,
+      "Soil_Temperature_45cm_C": 13.007,
+      "Soil_Temperature_60cm_C": 12.322
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-08T00:00:00Z",
+      "time_local": "2026-10-07T17:00:00"
+    },
+    "Packet": {
+      "Number": 66
+    },
+    "TEROS54": {
+      "VWC_15cm_m3_m3": 0.193,
+      "VWC_30cm_m3_m3": 0.239,
+      "VWC_45cm_m3_m3": 0.277,
+      "VWC_60cm_m3_m3": 0.309,
+      "Soil_Temperature_15cm_C": 17.057,
+      "Soil_Temperature_30cm_C": 14.672,
+      "Soil_Temperature_45cm_C": 13.2,
+      "Soil_Temperature_60cm_C": 12.4
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-08T01:00:00Z",
+      "time_local": "2026-10-07T18:00:00"
+    },
+    "Packet": {
+      "Number": 67
+    },
+    "TEROS54": {
+      "VWC_15cm_m3_m3": 0.193,
+      "VWC_30cm_m3_m3": 0.239,
+      "VWC_45cm_m3_m3": 0.277,
+      "VWC_60cm_m3_m3": 0.309,
+      "Soil_Temperature_15cm_C": 16.957,
+      "Soil_Temperature_30cm_C": 14.842,
+      "Soil_Temperature_45cm_C": 13.366,
+      "Soil_Temperature_60cm_C": 12.478
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-08T02:00:00Z",
+      "time_local": "2026-10-07T19:00:00"
+    },
+    "Packet": {
+      "Number": 68
+    },
+    "TEROS54": {
+      "VWC_15cm_m3_m3": 0.193,
+      "VWC_30cm_m3_m3": 0.239,
+      "VWC_45cm_m3_m3": 0.276,
+      "VWC_60cm_m3_m3": 0.309,
+      "Soil_Temperature_15cm_C": 16.652,
+      "Soil_Temperature_30cm_C": 14.9,
+      "Soil_Temperature_45cm_C": 13.493,
+      "Soil_Temperature_60cm_C": 12.55
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-08T03:00:00Z",
+      "time_local": "2026-10-07T20:00:00"
+    },
+    "Packet": {
+      "Number": 69
+    },
+    "TEROS54": {
+      "VWC_15cm_m3_m3": 0.194,
+      "VWC_30cm_m3_m3": 0.239,
+      "VWC_45cm_m3_m3": 0.276,
+      "VWC_60cm_m3_m3": 0.309,
+      "Soil_Temperature_15cm_C": 16.165,
+      "Soil_Temperature_30cm_C": 14.842,
+      "Soil_Temperature_45cm_C": 13.573,
+      "Soil_Temperature_60cm_C": 12.612
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-08T04:00:00Z",
+      "time_local": "2026-10-07T21:00:00"
+    },
+    "Packet": {
+      "Number": 70
+    },
+    "TEROS54": {
+      "VWC_15cm_m3_m3": 0.194,
+      "VWC_30cm_m3_m3": 0.239,
+      "VWC_45cm_m3_m3": 0.276,
+      "VWC_60cm_m3_m3": 0.309,
+      "Soil_Temperature_15cm_C": 15.527,
+      "Soil_Temperature_30cm_C": 14.672,
+      "Soil_Temperature_45cm_C": 13.6,
+      "Soil_Temperature_60cm_C": 12.66
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-08T05:00:00Z",
+      "time_local": "2026-10-07T22:00:00"
+    },
+    "Packet": {
+      "Number": 71
+    },
+    "TEROS54": {
+      "VWC_15cm_m3_m3": 0.194,
+      "VWC_30cm_m3_m3": 0.239,
+      "VWC_45cm_m3_m3": 0.276,
+      "VWC_60cm_m3_m3": 0.309,
+      "Soil_Temperature_15cm_C": 14.785,
+      "Soil_Temperature_30cm_C": 14.402,
+      "Soil_Temperature_45cm_C": 13.573,
+      "Soil_Temperature_60cm_C": 12.69
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-08T06:00:00Z",
+      "time_local": "2026-10-07T23:00:00"
+    },
+    "Packet": {
+      "Number": 72
+    },
+    "TEROS54": {
+      "VWC_15cm_m3_m3": 0.194,
+      "VWC_30cm_m3_m3": 0.239,
+      "VWC_45cm_m3_m3": 0.276,
+      "VWC_60cm_m3_m3": 0.309,
+      "Soil_Temperature_15cm_C": 13.987,
+      "Soil_Temperature_30cm_C": 14.05,
+      "Soil_Temperature_45cm_C": 13.493,
+      "Soil_Temperature_60cm_C": 12.7
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-08T07:00:00Z",
+      "time_local": "2026-10-08T00:00:00"
+    },
+    "Packet": {
+      "Number": 73
+    },
+    "TEROS54": {
+      "VWC_15cm_m3_m3": 0.194,
+      "VWC_30cm_m3_m3": 0.239,
+      "VWC_45cm_m3_m3": 0.276,
+      "VWC_60cm_m3_m3": 0.309,
+      "Soil_Temperature_15cm_C": 13.189,
+      "Soil_Temperature_30cm_C": 13.64,
+      "Soil_Temperature_45cm_C": 13.366,
+      "Soil_Temperature_60cm_C": 12.69
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-08T08:00:00Z",
+      "time_local": "2026-10-08T01:00:00"
+    },
+    "Packet": {
+      "Number": 74
+    },
+    "TEROS54": {
+      "VWC_15cm_m3_m3": 0.194,
+      "VWC_30cm_m3_m3": 0.239,
+      "VWC_45cm_m3_m3": 0.276,
+      "VWC_60cm_m3_m3": 0.309,
+      "Soil_Temperature_15cm_C": 12.446,
+      "Soil_Temperature_30cm_C": 13.2,
+      "Soil_Temperature_45cm_C": 13.2,
+      "Soil_Temperature_60cm_C": 12.66
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-08T09:00:00Z",
+      "time_local": "2026-10-08T02:00:00"
+    },
+    "Packet": {
+      "Number": 75
+    },
+    "TEROS54": {
+      "VWC_15cm_m3_m3": 0.194,
+      "VWC_30cm_m3_m3": 0.239,
+      "VWC_45cm_m3_m3": 0.276,
+      "VWC_60cm_m3_m3": 0.309,
+      "Soil_Temperature_15cm_C": 11.808,
+      "Soil_Temperature_30cm_C": 12.76,
+      "Soil_Temperature_45cm_C": 13.007,
+      "Soil_Temperature_60cm_C": 12.612
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-08T10:00:00Z",
+      "time_local": "2026-10-08T03:00:00"
+    },
+    "Packet": {
+      "Number": 76
+    },
+    "TEROS54": {
+      "VWC_15cm_m3_m3": 0.194,
+      "VWC_30cm_m3_m3": 0.239,
+      "VWC_45cm_m3_m3": 0.276,
+      "VWC_60cm_m3_m3": 0.309,
+      "Soil_Temperature_15cm_C": 11.32,
+      "Soil_Temperature_30cm_C": 12.35,
+      "Soil_Temperature_45cm_C": 12.8,
+      "Soil_Temperature_60cm_C": 12.55
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-08T11:00:00Z",
+      "time_local": "2026-10-08T04:00:00"
+    },
+    "Packet": {
+      "Number": 77
+    },
+    "TEROS54": {
+      "VWC_15cm_m3_m3": 0.194,
+      "VWC_30cm_m3_m3": 0.239,
+      "VWC_45cm_m3_m3": 0.276,
+      "VWC_60cm_m3_m3": 0.309,
+      "Soil_Temperature_15cm_C": 11.015,
+      "Soil_Temperature_30cm_C": 11.998,
+      "Soil_Temperature_45cm_C": 12.593,
+      "Soil_Temperature_60cm_C": 12.478
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-08T12:00:00Z",
+      "time_local": "2026-10-08T05:00:00"
+    },
+    "Packet": {
+      "Number": 78
+    },
+    "TEROS54": {
+      "VWC_15cm_m3_m3": 0.194,
+      "VWC_30cm_m3_m3": 0.239,
+      "VWC_45cm_m3_m3": 0.276,
+      "VWC_60cm_m3_m3": 0.309,
+      "Soil_Temperature_15cm_C": 10.913,
+      "Soil_Temperature_30cm_C": 11.728,
+      "Soil_Temperature_45cm_C": 12.4,
+      "Soil_Temperature_60cm_C": 12.4
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-08T13:00:00Z",
+      "time_local": "2026-10-08T06:00:00"
+    },
+    "Packet": {
+      "Number": 79
+    },
+    "TEROS54": {
+      "VWC_15cm_m3_m3": 0.194,
+      "VWC_30cm_m3_m3": 0.239,
+      "VWC_45cm_m3_m3": 0.276,
+      "VWC_60cm_m3_m3": 0.309,
+      "Soil_Temperature_15cm_C": 11.023,
+      "Soil_Temperature_30cm_C": 11.558,
+      "Soil_Temperature_45cm_C": 12.234,
+      "Soil_Temperature_60cm_C": 12.322
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-08T14:00:00Z",
+      "time_local": "2026-10-08T07:00:00"
+    },
+    "Packet": {
+      "Number": 80
+    },
+    "TEROS54": {
+      "VWC_15cm_m3_m3": 0.196,
+      "VWC_30cm_m3_m3": 0.239,
+      "VWC_45cm_m3_m3": 0.276,
+      "VWC_60cm_m3_m3": 0.309,
+      "Soil_Temperature_15cm_C": 11.337,
+      "Soil_Temperature_30cm_C": 11.5,
+      "Soil_Temperature_45cm_C": 12.107,
+      "Soil_Temperature_60cm_C": 12.25
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-08T15:00:00Z",
+      "time_local": "2026-10-08T08:00:00"
+    },
+    "Packet": {
+      "Number": 81
+    },
+    "TEROS54": {
+      "VWC_15cm_m3_m3": 0.202,
+      "VWC_30cm_m3_m3": 0.239,
+      "VWC_45cm_m3_m3": 0.276,
+      "VWC_60cm_m3_m3": 0.309,
+      "Soil_Temperature_15cm_C": 11.833,
+      "Soil_Temperature_30cm_C": 11.558,
+      "Soil_Temperature_45cm_C": 12.027,
+      "Soil_Temperature_60cm_C": 12.188
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-08T16:00:00Z",
+      "time_local": "2026-10-08T09:00:00"
+    },
+    "Packet": {
+      "Number": 82
+    },
+    "TEROS54": {
+      "VWC_15cm_m3_m3": 0.208,
+      "VWC_30cm_m3_m3": 0.239,
+      "VWC_45cm_m3_m3": 0.276,
+      "VWC_60cm_m3_m3": 0.308,
+      "Soil_Temperature_15cm_C": 12.479,
+      "Soil_Temperature_30cm_C": 11.728,
+      "Soil_Temperature_45cm_C": 12.0,
+      "Soil_Temperature_60cm_C": 12.14
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-08T17:00:00Z",
+      "time_local": "2026-10-08T10:00:00"
+    },
+    "Packet": {
+      "Number": 83
+    },
+    "TEROS54": {
+      "VWC_15cm_m3_m3": 0.211,
+      "VWC_30cm_m3_m3": 0.239,
+      "VWC_45cm_m3_m3": 0.276,
+      "VWC_60cm_m3_m3": 0.308,
+      "Soil_Temperature_15cm_C": 13.231,
+      "Soil_Temperature_30cm_C": 11.998,
+      "Soil_Temperature_45cm_C": 12.027,
+      "Soil_Temperature_60cm_C": 12.11
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-08T18:00:00Z",
+      "time_local": "2026-10-08T11:00:00"
+    },
+    "Packet": {
+      "Number": 84
+    },
+    "TEROS54": {
+      "VWC_15cm_m3_m3": 0.21,
+      "VWC_30cm_m3_m3": 0.239,
+      "VWC_45cm_m3_m3": 0.276,
+      "VWC_60cm_m3_m3": 0.308,
+      "Soil_Temperature_15cm_C": 14.037,
+      "Soil_Temperature_30cm_C": 12.35,
+      "Soil_Temperature_45cm_C": 12.107,
+      "Soil_Temperature_60cm_C": 12.1
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-08T19:00:00Z",
+      "time_local": "2026-10-08T12:00:00"
+    },
+    "Packet": {
+      "Number": 85
+    },
+    "TEROS54": {
+      "VWC_15cm_m3_m3": 0.209,
+      "VWC_30cm_m3_m3": 0.24,
+      "VWC_45cm_m3_m3": 0.276,
+      "VWC_60cm_m3_m3": 0.308,
+      "Soil_Temperature_15cm_C": 14.842,
+      "Soil_Temperature_30cm_C": 12.76,
+      "Soil_Temperature_45cm_C": 12.234,
+      "Soil_Temperature_60cm_C": 12.11
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-08T20:00:00Z",
+      "time_local": "2026-10-08T13:00:00"
+    },
+    "Packet": {
+      "Number": 86
+    },
+    "TEROS54": {
+      "VWC_15cm_m3_m3": 0.208,
+      "VWC_30cm_m3_m3": 0.244,
+      "VWC_45cm_m3_m3": 0.276,
+      "VWC_60cm_m3_m3": 0.308,
+      "Soil_Temperature_15cm_C": 15.593,
+      "Soil_Temperature_30cm_C": 13.2,
+      "Soil_Temperature_45cm_C": 12.4,
+      "Soil_Temperature_60cm_C": 12.14
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-08T21:00:00Z",
+      "time_local": "2026-10-08T14:00:00"
+    },
+    "Packet": {
+      "Number": 87
+    },
+    "TEROS54": {
+      "VWC_15cm_m3_m3": 0.208,
+      "VWC_30cm_m3_m3": 0.248,
+      "VWC_45cm_m3_m3": 0.276,
+      "VWC_60cm_m3_m3": 0.308,
+      "Soil_Temperature_15cm_C": 16.239,
+      "Soil_Temperature_30cm_C": 13.64,
+      "Soil_Temperature_45cm_C": 12.593,
+      "Soil_Temperature_60cm_C": 12.188
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-08T22:00:00Z",
+      "time_local": "2026-10-08T15:00:00"
+    },
+    "Packet": {
+      "Number": 88
+    },
+    "TEROS54": {
+      "VWC_15cm_m3_m3": 0.207,
+      "VWC_30cm_m3_m3": 0.25,
+      "VWC_45cm_m3_m3": 0.276,
+      "VWC_60cm_m3_m3": 0.308,
+      "Soil_Temperature_15cm_C": 16.735,
+      "Soil_Temperature_30cm_C": 14.05,
+      "Soil_Temperature_45cm_C": 12.8,
+      "Soil_Temperature_60cm_C": 12.25
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-08T23:00:00Z",
+      "time_local": "2026-10-08T16:00:00"
+    },
+    "Packet": {
+      "Number": 89
+    },
+    "TEROS54": {
+      "VWC_15cm_m3_m3": 0.206,
+      "VWC_30cm_m3_m3": 0.25,
+      "VWC_45cm_m3_m3": 0.276,
+      "VWC_60cm_m3_m3": 0.308,
+      "Soil_Temperature_15cm_C": 17.048,
+      "Soil_Temperature_30cm_C": 14.402,
+      "Soil_Temperature_45cm_C": 13.007,
+      "Soil_Temperature_60cm_C": 12.322
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-09T00:00:00Z",
+      "time_local": "2026-10-08T17:00:00"
+    },
+    "Packet": {
+      "Number": 90
+    },
+    "TEROS54": {
+      "VWC_15cm_m3_m3": 0.206,
+      "VWC_30cm_m3_m3": 0.249,
+      "VWC_45cm_m3_m3": 0.276,
+      "VWC_60cm_m3_m3": 0.308,
+      "Soil_Temperature_15cm_C": 17.156,
+      "Soil_Temperature_30cm_C": 14.672,
+      "Soil_Temperature_45cm_C": 13.2,
+      "Soil_Temperature_60cm_C": 12.4
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-09T01:00:00Z",
+      "time_local": "2026-10-08T18:00:00"
+    },
+    "Packet": {
+      "Number": 91
+    },
+    "TEROS54": {
+      "VWC_15cm_m3_m3": 0.205,
+      "VWC_30cm_m3_m3": 0.249,
+      "VWC_45cm_m3_m3": 0.276,
+      "VWC_60cm_m3_m3": 0.308,
+      "Soil_Temperature_15cm_C": 17.054,
+      "Soil_Temperature_30cm_C": 14.842,
+      "Soil_Temperature_45cm_C": 13.366,
+      "Soil_Temperature_60cm_C": 12.478
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-09T02:00:00Z",
+      "time_local": "2026-10-08T19:00:00"
+    },
+    "Packet": {
+      "Number": 92
+    },
+    "TEROS54": {
+      "VWC_15cm_m3_m3": 0.205,
+      "VWC_30cm_m3_m3": 0.249,
+      "VWC_45cm_m3_m3": 0.276,
+      "VWC_60cm_m3_m3": 0.308,
+      "Soil_Temperature_15cm_C": 16.747,
+      "Soil_Temperature_30cm_C": 14.9,
+      "Soil_Temperature_45cm_C": 13.493,
+      "Soil_Temperature_60cm_C": 12.55
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-09T03:00:00Z",
+      "time_local": "2026-10-08T20:00:00"
+    },
+    "Packet": {
+      "Number": 93
+    },
+    "TEROS54": {
+      "VWC_15cm_m3_m3": 0.204,
+      "VWC_30cm_m3_m3": 0.248,
+      "VWC_45cm_m3_m3": 0.276,
+      "VWC_60cm_m3_m3": 0.308,
+      "Soil_Temperature_15cm_C": 16.257,
+      "Soil_Temperature_30cm_C": 14.842,
+      "Soil_Temperature_45cm_C": 13.573,
+      "Soil_Temperature_60cm_C": 12.612
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-09T04:00:00Z",
+      "time_local": "2026-10-08T21:00:00"
+    },
+    "Packet": {
+      "Number": 94
+    },
+    "TEROS54": {
+      "VWC_15cm_m3_m3": 0.204,
+      "VWC_30cm_m3_m3": 0.248,
+      "VWC_45cm_m3_m3": 0.276,
+      "VWC_60cm_m3_m3": 0.308,
+      "Soil_Temperature_15cm_C": 15.617,
+      "Soil_Temperature_30cm_C": 14.672,
+      "Soil_Temperature_45cm_C": 13.6,
+      "Soil_Temperature_60cm_C": 12.66
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-09T05:00:00Z",
+      "time_local": "2026-10-08T22:00:00"
+    },
+    "Packet": {
+      "Number": 95
+    },
+    "TEROS54": {
+      "VWC_15cm_m3_m3": 0.203,
+      "VWC_30cm_m3_m3": 0.247,
+      "VWC_45cm_m3_m3": 0.276,
+      "VWC_60cm_m3_m3": 0.308,
+      "Soil_Temperature_15cm_C": 14.872,
+      "Soil_Temperature_30cm_C": 14.402,
+      "Soil_Temperature_45cm_C": 13.573,
+      "Soil_Temperature_60cm_C": 12.69
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-09T06:00:00Z",
+      "time_local": "2026-10-08T23:00:00"
+    },
+    "Packet": {
+      "Number": 96
+    },
+    "TEROS54": {
+      "VWC_15cm_m3_m3": 0.203,
+      "VWC_30cm_m3_m3": 0.247,
+      "VWC_45cm_m3_m3": 0.276,
+      "VWC_60cm_m3_m3": 0.308,
+      "Soil_Temperature_15cm_C": 14.072,
+      "Soil_Temperature_30cm_C": 14.05,
+      "Soil_Temperature_45cm_C": 13.493,
+      "Soil_Temperature_60cm_C": 12.7
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-09T07:00:00Z",
+      "time_local": "2026-10-09T00:00:00"
+    },
+    "Packet": {
+      "Number": 97
+    },
+    "TEROS54": {
+      "VWC_15cm_m3_m3": 0.202,
+      "VWC_30cm_m3_m3": 0.247,
+      "VWC_45cm_m3_m3": 0.277,
+      "VWC_60cm_m3_m3": 0.308,
+      "Soil_Temperature_15cm_C": 13.272,
+      "Soil_Temperature_30cm_C": 13.64,
+      "Soil_Temperature_45cm_C": 13.366,
+      "Soil_Temperature_60cm_C": 12.69
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-09T08:00:00Z",
+      "time_local": "2026-10-09T01:00:00"
+    },
+    "Packet": {
+      "Number": 98
+    },
+    "TEROS54": {
+      "VWC_15cm_m3_m3": 0.202,
+      "VWC_30cm_m3_m3": 0.246,
+      "VWC_45cm_m3_m3": 0.278,
+      "VWC_60cm_m3_m3": 0.308,
+      "Soil_Temperature_15cm_C": 12.527,
+      "Soil_Temperature_30cm_C": 13.2,
+      "Soil_Temperature_45cm_C": 13.2,
+      "Soil_Temperature_60cm_C": 12.66
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-09T09:00:00Z",
+      "time_local": "2026-10-09T02:00:00"
+    },
+    "Packet": {
+      "Number": 99
+    },
+    "TEROS54": {
+      "VWC_15cm_m3_m3": 0.202,
+      "VWC_30cm_m3_m3": 0.246,
+      "VWC_45cm_m3_m3": 0.281,
+      "VWC_60cm_m3_m3": 0.308,
+      "Soil_Temperature_15cm_C": 11.887,
+      "Soil_Temperature_30cm_C": 12.76,
+      "Soil_Temperature_45cm_C": 13.007,
+      "Soil_Temperature_60cm_C": 12.612
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-09T10:00:00Z",
+      "time_local": "2026-10-09T03:00:00"
+    },
+    "Packet": {
+      "Number": 100
+    },
+    "TEROS54": {
+      "VWC_15cm_m3_m3": 0.201,
+      "VWC_30cm_m3_m3": 0.246,
+      "VWC_45cm_m3_m3": 0.282,
+      "VWC_60cm_m3_m3": 0.308,
+      "Soil_Temperature_15cm_C": 11.397,
+      "Soil_Temperature_30cm_C": 12.35,
+      "Soil_Temperature_45cm_C": 12.8,
+      "Soil_Temperature_60cm_C": 12.55
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-09T11:00:00Z",
+      "time_local": "2026-10-09T04:00:00"
+    },
+    "Packet": {
+      "Number": 101
+    },
+    "TEROS54": {
+      "VWC_15cm_m3_m3": 0.201,
+      "VWC_30cm_m3_m3": 0.246,
+      "VWC_45cm_m3_m3": 0.282,
+      "VWC_60cm_m3_m3": 0.308,
+      "Soil_Temperature_15cm_C": 11.089,
+      "Soil_Temperature_30cm_C": 11.998,
+      "Soil_Temperature_45cm_C": 12.593,
+      "Soil_Temperature_60cm_C": 12.478
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-09T12:00:00Z",
+      "time_local": "2026-10-09T05:00:00"
+    },
+    "Packet": {
+      "Number": 102
+    },
+    "TEROS54": {
+      "VWC_15cm_m3_m3": 0.201,
+      "VWC_30cm_m3_m3": 0.245,
+      "VWC_45cm_m3_m3": 0.282,
+      "VWC_60cm_m3_m3": 0.308,
+      "Soil_Temperature_15cm_C": 10.985,
+      "Soil_Temperature_30cm_C": 11.728,
+      "Soil_Temperature_45cm_C": 12.4,
+      "Soil_Temperature_60cm_C": 12.4
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-09T13:00:00Z",
+      "time_local": "2026-10-09T06:00:00"
+    },
+    "Packet": {
+      "Number": 103
+    },
+    "TEROS54": {
+      "VWC_15cm_m3_m3": 0.201,
+      "VWC_30cm_m3_m3": 0.245,
+      "VWC_45cm_m3_m3": 0.281,
+      "VWC_60cm_m3_m3": 0.308,
+      "Soil_Temperature_15cm_C": 11.092,
+      "Soil_Temperature_30cm_C": 11.558,
+      "Soil_Temperature_45cm_C": 12.234,
+      "Soil_Temperature_60cm_C": 12.322
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-09T14:00:00Z",
+      "time_local": "2026-10-09T07:00:00"
+    },
+    "Packet": {
+      "Number": 104
+    },
+    "TEROS54": {
+      "VWC_15cm_m3_m3": 0.2,
+      "VWC_30cm_m3_m3": 0.245,
+      "VWC_45cm_m3_m3": 0.281,
+      "VWC_60cm_m3_m3": 0.308,
+      "Soil_Temperature_15cm_C": 11.404,
+      "Soil_Temperature_30cm_C": 11.5,
+      "Soil_Temperature_45cm_C": 12.107,
+      "Soil_Temperature_60cm_C": 12.25
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-09T15:00:00Z",
+      "time_local": "2026-10-09T08:00:00"
+    },
+    "Packet": {
+      "Number": 105
+    },
+    "TEROS54": {
+      "VWC_15cm_m3_m3": 0.2,
+      "VWC_30cm_m3_m3": 0.245,
+      "VWC_45cm_m3_m3": 0.281,
+      "VWC_60cm_m3_m3": 0.308,
+      "Soil_Temperature_15cm_C": 11.898,
+      "Soil_Temperature_30cm_C": 11.558,
+      "Soil_Temperature_45cm_C": 12.027,
+      "Soil_Temperature_60cm_C": 12.188
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-09T16:00:00Z",
+      "time_local": "2026-10-09T09:00:00"
+    },
+    "Packet": {
+      "Number": 106
+    },
+    "TEROS54": {
+      "VWC_15cm_m3_m3": 0.2,
+      "VWC_30cm_m3_m3": 0.244,
+      "VWC_45cm_m3_m3": 0.281,
+      "VWC_60cm_m3_m3": 0.308,
+      "Soil_Temperature_15cm_C": 12.541,
+      "Soil_Temperature_30cm_C": 11.728,
+      "Soil_Temperature_45cm_C": 12.0,
+      "Soil_Temperature_60cm_C": 12.14
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-09T17:00:00Z",
+      "time_local": "2026-10-09T10:00:00"
+    },
+    "Packet": {
+      "Number": 107
+    },
+    "TEROS54": {
+      "VWC_15cm_m3_m3": 0.2,
+      "VWC_30cm_m3_m3": 0.244,
+      "VWC_45cm_m3_m3": 0.281,
+      "VWC_60cm_m3_m3": 0.308,
+      "Soil_Temperature_15cm_C": 13.29,
+      "Soil_Temperature_30cm_C": 11.998,
+      "Soil_Temperature_45cm_C": 12.027,
+      "Soil_Temperature_60cm_C": 12.11
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-09T18:00:00Z",
+      "time_local": "2026-10-09T11:00:00"
+    },
+    "Packet": {
+      "Number": 108
+    },
+    "TEROS54": {
+      "VWC_15cm_m3_m3": 0.2,
+      "VWC_30cm_m3_m3": 0.244,
+      "VWC_45cm_m3_m3": 0.281,
+      "VWC_60cm_m3_m3": 0.308,
+      "Soil_Temperature_15cm_C": 14.094,
+      "Soil_Temperature_30cm_C": 12.35,
+      "Soil_Temperature_45cm_C": 12.107,
+      "Soil_Temperature_60cm_C": 12.1
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-09T19:00:00Z",
+      "time_local": "2026-10-09T12:00:00"
+    },
+    "Packet": {
+      "Number": 109
+    },
+    "TEROS54": {
+      "VWC_15cm_m3_m3": 0.2,
+      "VWC_30cm_m3_m3": 0.244,
+      "VWC_45cm_m3_m3": 0.281,
+      "VWC_60cm_m3_m3": 0.309,
+      "Soil_Temperature_15cm_C": 14.897,
+      "Soil_Temperature_30cm_C": 12.76,
+      "Soil_Temperature_45cm_C": 12.234,
+      "Soil_Temperature_60cm_C": 12.11
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-09T20:00:00Z",
+      "time_local": "2026-10-09T13:00:00"
+    },
+    "Packet": {
+      "Number": 110
+    },
+    "TEROS54": {
+      "VWC_15cm_m3_m3": 0.2,
+      "VWC_30cm_m3_m3": 0.244,
+      "VWC_45cm_m3_m3": 0.281,
+      "VWC_60cm_m3_m3": 0.309,
+      "Soil_Temperature_15cm_C": 15.646,
+      "Soil_Temperature_30cm_C": 13.2,
+      "Soil_Temperature_45cm_C": 12.4,
+      "Soil_Temperature_60cm_C": 12.14
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-09T21:00:00Z",
+      "time_local": "2026-10-09T14:00:00"
+    },
+    "Packet": {
+      "Number": 111
+    },
+    "TEROS54": {
+      "VWC_15cm_m3_m3": 0.199,
+      "VWC_30cm_m3_m3": 0.244,
+      "VWC_45cm_m3_m3": 0.28,
+      "VWC_60cm_m3_m3": 0.311,
+      "Soil_Temperature_15cm_C": 16.289,
+      "Soil_Temperature_30cm_C": 13.64,
+      "Soil_Temperature_45cm_C": 12.593,
+      "Soil_Temperature_60cm_C": 12.188
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-09T22:00:00Z",
+      "time_local": "2026-10-09T15:00:00"
+    },
+    "Packet": {
+      "Number": 112
+    },
+    "TEROS54": {
+      "VWC_15cm_m3_m3": 0.199,
+      "VWC_30cm_m3_m3": 0.243,
+      "VWC_45cm_m3_m3": 0.28,
+      "VWC_60cm_m3_m3": 0.311,
+      "Soil_Temperature_15cm_C": 16.782,
+      "Soil_Temperature_30cm_C": 14.05,
+      "Soil_Temperature_45cm_C": 12.8,
+      "Soil_Temperature_60cm_C": 12.25
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-09T23:00:00Z",
+      "time_local": "2026-10-09T16:00:00"
+    },
+    "Packet": {
+      "Number": 113
+    },
+    "TEROS54": {
+      "VWC_15cm_m3_m3": 0.199,
+      "VWC_30cm_m3_m3": 0.243,
+      "VWC_45cm_m3_m3": 0.28,
+      "VWC_60cm_m3_m3": 0.311,
+      "Soil_Temperature_15cm_C": 17.093,
+      "Soil_Temperature_30cm_C": 14.402,
+      "Soil_Temperature_45cm_C": 13.007,
+      "Soil_Temperature_60cm_C": 12.322
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-10T00:00:00Z",
+      "time_local": "2026-10-09T17:00:00"
+    },
+    "Packet": {
+      "Number": 114
+    },
+    "TEROS54": {
+      "VWC_15cm_m3_m3": 0.199,
+      "VWC_30cm_m3_m3": 0.243,
+      "VWC_45cm_m3_m3": 0.28,
+      "VWC_60cm_m3_m3": 0.311,
+      "Soil_Temperature_15cm_C": 17.199,
+      "Soil_Temperature_30cm_C": 14.672,
+      "Soil_Temperature_45cm_C": 13.2,
+      "Soil_Temperature_60cm_C": 12.4
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-10T01:00:00Z",
+      "time_local": "2026-10-09T18:00:00"
+    },
+    "Packet": {
+      "Number": 115
+    },
+    "TEROS54": {
+      "VWC_15cm_m3_m3": 0.199,
+      "VWC_30cm_m3_m3": 0.243,
+      "VWC_45cm_m3_m3": 0.28,
+      "VWC_60cm_m3_m3": 0.311,
+      "Soil_Temperature_15cm_C": 17.094,
+      "Soil_Temperature_30cm_C": 14.842,
+      "Soil_Temperature_45cm_C": 13.366,
+      "Soil_Temperature_60cm_C": 12.478
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-10T02:00:00Z",
+      "time_local": "2026-10-09T19:00:00"
+    },
+    "Packet": {
+      "Number": 116
+    },
+    "TEROS54": {
+      "VWC_15cm_m3_m3": 0.199,
+      "VWC_30cm_m3_m3": 0.243,
+      "VWC_45cm_m3_m3": 0.28,
+      "VWC_60cm_m3_m3": 0.311,
+      "Soil_Temperature_15cm_C": 16.784,
+      "Soil_Temperature_30cm_C": 14.9,
+      "Soil_Temperature_45cm_C": 13.493,
+      "Soil_Temperature_60cm_C": 12.55
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-10T03:00:00Z",
+      "time_local": "2026-10-09T20:00:00"
+    },
+    "Packet": {
+      "Number": 117
+    },
+    "TEROS54": {
+      "VWC_15cm_m3_m3": 0.199,
+      "VWC_30cm_m3_m3": 0.243,
+      "VWC_45cm_m3_m3": 0.28,
+      "VWC_60cm_m3_m3": 0.311,
+      "Soil_Temperature_15cm_C": 16.292,
+      "Soil_Temperature_30cm_C": 14.842,
+      "Soil_Temperature_45cm_C": 13.573,
+      "Soil_Temperature_60cm_C": 12.612
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-10T04:00:00Z",
+      "time_local": "2026-10-09T21:00:00"
+    },
+    "Packet": {
+      "Number": 118
+    },
+    "TEROS54": {
+      "VWC_15cm_m3_m3": 0.199,
+      "VWC_30cm_m3_m3": 0.243,
+      "VWC_45cm_m3_m3": 0.279,
+      "VWC_60cm_m3_m3": 0.311,
+      "Soil_Temperature_15cm_C": 15.65,
+      "Soil_Temperature_30cm_C": 14.672,
+      "Soil_Temperature_45cm_C": 13.6,
+      "Soil_Temperature_60cm_C": 12.66
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-10T05:00:00Z",
+      "time_local": "2026-10-09T22:00:00"
+    },
+    "Packet": {
+      "Number": 119
+    },
+    "TEROS54": {
+      "VWC_15cm_m3_m3": 0.199,
+      "VWC_30cm_m3_m3": 0.243,
+      "VWC_45cm_m3_m3": 0.279,
+      "VWC_60cm_m3_m3": 0.311,
+      "Soil_Temperature_15cm_C": 14.902,
+      "Soil_Temperature_30cm_C": 14.402,
+      "Soil_Temperature_45cm_C": 13.573,
+      "Soil_Temperature_60cm_C": 12.69
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-10T06:00:00Z",
+      "time_local": "2026-10-09T23:00:00"
+    },
+    "Packet": {
+      "Number": 120
+    },
+    "TEROS54": {
+      "VWC_15cm_m3_m3": 0.199,
+      "VWC_30cm_m3_m3": 0.243,
+      "VWC_45cm_m3_m3": 0.279,
+      "VWC_60cm_m3_m3": 0.311,
+      "Soil_Temperature_15cm_C": 14.1,
+      "Soil_Temperature_30cm_C": 14.05,
+      "Soil_Temperature_45cm_C": 13.493,
+      "Soil_Temperature_60cm_C": 12.7
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-10T07:00:00Z",
+      "time_local": "2026-10-10T00:00:00"
+    },
+    "Packet": {
+      "Number": 121
+    },
+    "TEROS54": {
+      "VWC_15cm_m3_m3": 0.199,
+      "VWC_30cm_m3_m3": 0.243,
+      "VWC_45cm_m3_m3": 0.279,
+      "VWC_60cm_m3_m3": 0.311,
+      "Soil_Temperature_15cm_C": 13.297,
+      "Soil_Temperature_30cm_C": 13.64,
+      "Soil_Temperature_45cm_C": 13.366,
+      "Soil_Temperature_60cm_C": 12.69
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-10T08:00:00Z",
+      "time_local": "2026-10-10T01:00:00"
+    },
+    "Packet": {
+      "Number": 122
+    },
+    "TEROS54": {
+      "VWC_15cm_m3_m3": 0.199,
+      "VWC_30cm_m3_m3": 0.243,
+      "VWC_45cm_m3_m3": 0.279,
+      "VWC_60cm_m3_m3": 0.311,
+      "Soil_Temperature_15cm_C": 12.549,
+      "Soil_Temperature_30cm_C": 13.2,
+      "Soil_Temperature_45cm_C": 13.2,
+      "Soil_Temperature_60cm_C": 12.66
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-10T09:00:00Z",
+      "time_local": "2026-10-10T02:00:00"
+    },
+    "Packet": {
+      "Number": 123
+    },
+    "TEROS54": {
+      "VWC_15cm_m3_m3": 0.199,
+      "VWC_30cm_m3_m3": 0.243,
+      "VWC_45cm_m3_m3": 0.279,
+      "VWC_60cm_m3_m3": 0.31,
+      "Soil_Temperature_15cm_C": 11.907,
+      "Soil_Temperature_30cm_C": 12.76,
+      "Soil_Temperature_45cm_C": 13.007,
+      "Soil_Temperature_60cm_C": 12.612
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-10T10:00:00Z",
+      "time_local": "2026-10-10T03:00:00"
+    },
+    "Packet": {
+      "Number": 124
+    },
+    "TEROS54": {
+      "VWC_15cm_m3_m3": 0.199,
+      "VWC_30cm_m3_m3": 0.242,
+      "VWC_45cm_m3_m3": 0.279,
+      "VWC_60cm_m3_m3": 0.31,
+      "Soil_Temperature_15cm_C": 11.414,
+      "Soil_Temperature_30cm_C": 12.35,
+      "Soil_Temperature_45cm_C": 12.8,
+      "Soil_Temperature_60cm_C": 12.55
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-10T11:00:00Z",
+      "time_local": "2026-10-10T04:00:00"
+    },
+    "Packet": {
+      "Number": 125
+    },
+    "TEROS54": {
+      "VWC_15cm_m3_m3": 0.199,
+      "VWC_30cm_m3_m3": 0.242,
+      "VWC_45cm_m3_m3": 0.279,
+      "VWC_60cm_m3_m3": 0.31,
+      "Soil_Temperature_15cm_C": 11.104,
+      "Soil_Temperature_30cm_C": 11.998,
+      "Soil_Temperature_45cm_C": 12.593,
+      "Soil_Temperature_60cm_C": 12.478
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-10T12:00:00Z",
+      "time_local": "2026-10-10T05:00:00"
+    },
+    "Packet": {
+      "Number": 126
+    },
+    "TEROS54": {
+      "VWC_15cm_m3_m3": 0.199,
+      "VWC_30cm_m3_m3": 0.242,
+      "VWC_45cm_m3_m3": 0.279,
+      "VWC_60cm_m3_m3": 0.31,
+      "Soil_Temperature_15cm_C": 10.997,
+      "Soil_Temperature_30cm_C": 11.728,
+      "Soil_Temperature_45cm_C": 12.4,
+      "Soil_Temperature_60cm_C": 12.4
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-10T13:00:00Z",
+      "time_local": "2026-10-10T06:00:00"
+    },
+    "Packet": {
+      "Number": 127
+    },
+    "TEROS54": {
+      "VWC_15cm_m3_m3": 0.199,
+      "VWC_30cm_m3_m3": 0.242,
+      "VWC_45cm_m3_m3": 0.279,
+      "VWC_60cm_m3_m3": 0.31,
+      "Soil_Temperature_15cm_C": 11.102,
+      "Soil_Temperature_30cm_C": 11.558,
+      "Soil_Temperature_45cm_C": 12.234,
+      "Soil_Temperature_60cm_C": 12.322
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-10T14:00:00Z",
+      "time_local": "2026-10-10T07:00:00"
+    },
+    "Packet": {
+      "Number": 128
+    },
+    "TEROS54": {
+      "VWC_15cm_m3_m3": 0.199,
+      "VWC_30cm_m3_m3": 0.242,
+      "VWC_45cm_m3_m3": 0.279,
+      "VWC_60cm_m3_m3": 0.31,
+      "Soil_Temperature_15cm_C": 11.411,
+      "Soil_Temperature_30cm_C": 11.5,
+      "Soil_Temperature_45cm_C": 12.107,
+      "Soil_Temperature_60cm_C": 12.25
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-10T15:00:00Z",
+      "time_local": "2026-10-10T08:00:00"
+    },
+    "Packet": {
+      "Number": 129
+    },
+    "TEROS54": {
+      "VWC_15cm_m3_m3": 0.199,
+      "VWC_30cm_m3_m3": 0.242,
+      "VWC_45cm_m3_m3": 0.278,
+      "VWC_60cm_m3_m3": 0.31,
+      "Soil_Temperature_15cm_C": 11.902,
+      "Soil_Temperature_30cm_C": 11.558,
+      "Soil_Temperature_45cm_C": 12.027,
+      "Soil_Temperature_60cm_C": 12.188
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-10T16:00:00Z",
+      "time_local": "2026-10-10T09:00:00"
+    },
+    "Packet": {
+      "Number": 130
+    },
+    "TEROS54": {
+      "VWC_15cm_m3_m3": 0.199,
+      "VWC_30cm_m3_m3": 0.242,
+      "VWC_45cm_m3_m3": 0.278,
+      "VWC_60cm_m3_m3": 0.31,
+      "Soil_Temperature_15cm_C": 12.543,
+      "Soil_Temperature_30cm_C": 11.728,
+      "Soil_Temperature_45cm_C": 12.0,
+      "Soil_Temperature_60cm_C": 12.14
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-10T17:00:00Z",
+      "time_local": "2026-10-10T10:00:00"
+    },
+    "Packet": {
+      "Number": 131
+    },
+    "TEROS54": {
+      "VWC_15cm_m3_m3": 0.199,
+      "VWC_30cm_m3_m3": 0.242,
+      "VWC_45cm_m3_m3": 0.278,
+      "VWC_60cm_m3_m3": 0.31,
+      "Soil_Temperature_15cm_C": 13.29,
+      "Soil_Temperature_30cm_C": 11.998,
+      "Soil_Temperature_45cm_C": 12.027,
+      "Soil_Temperature_60cm_C": 12.11
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-10T18:00:00Z",
+      "time_local": "2026-10-10T11:00:00"
+    },
+    "Packet": {
+      "Number": 132
+    },
+    "TEROS54": {
+      "VWC_15cm_m3_m3": 0.199,
+      "VWC_30cm_m3_m3": 0.242,
+      "VWC_45cm_m3_m3": 0.278,
+      "VWC_60cm_m3_m3": 0.31,
+      "Soil_Temperature_15cm_C": 14.091,
+      "Soil_Temperature_30cm_C": 12.35,
+      "Soil_Temperature_45cm_C": 12.107,
+      "Soil_Temperature_60cm_C": 12.1
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-10T19:00:00Z",
+      "time_local": "2026-10-10T12:00:00"
+    },
+    "Packet": {
+      "Number": 133
+    },
+    "TEROS54": {
+      "VWC_15cm_m3_m3": 0.198,
+      "VWC_30cm_m3_m3": 0.242,
+      "VWC_45cm_m3_m3": 0.278,
+      "VWC_60cm_m3_m3": 0.31,
+      "Soil_Temperature_15cm_C": 14.892,
+      "Soil_Temperature_30cm_C": 12.76,
+      "Soil_Temperature_45cm_C": 12.234,
+      "Soil_Temperature_60cm_C": 12.11
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-10T20:00:00Z",
+      "time_local": "2026-10-10T13:00:00"
+    },
+    "Packet": {
+      "Number": 134
+    },
+    "TEROS54": {
+      "VWC_15cm_m3_m3": 0.198,
+      "VWC_30cm_m3_m3": 0.242,
+      "VWC_45cm_m3_m3": 0.278,
+      "VWC_60cm_m3_m3": 0.31,
+      "Soil_Temperature_15cm_C": 15.638,
+      "Soil_Temperature_30cm_C": 13.2,
+      "Soil_Temperature_45cm_C": 12.4,
+      "Soil_Temperature_60cm_C": 12.14
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-10T21:00:00Z",
+      "time_local": "2026-10-10T14:00:00"
+    },
+    "Packet": {
+      "Number": 135
+    },
+    "TEROS54": {
+      "VWC_15cm_m3_m3": 0.198,
+      "VWC_30cm_m3_m3": 0.242,
+      "VWC_45cm_m3_m3": 0.278,
+      "VWC_60cm_m3_m3": 0.31,
+      "Soil_Temperature_15cm_C": 16.278,
+      "Soil_Temperature_30cm_C": 13.64,
+      "Soil_Temperature_45cm_C": 12.593,
+      "Soil_Temperature_60cm_C": 12.188
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-10T22:00:00Z",
+      "time_local": "2026-10-10T15:00:00"
+    },
+    "Packet": {
+      "Number": 136
+    },
+    "TEROS54": {
+      "VWC_15cm_m3_m3": 0.198,
+      "VWC_30cm_m3_m3": 0.242,
+      "VWC_45cm_m3_m3": 0.278,
+      "VWC_60cm_m3_m3": 0.31,
+      "Soil_Temperature_15cm_C": 16.769,
+      "Soil_Temperature_30cm_C": 14.05,
+      "Soil_Temperature_45cm_C": 12.8,
+      "Soil_Temperature_60cm_C": 12.25
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-10T23:00:00Z",
+      "time_local": "2026-10-10T16:00:00"
+    },
+    "Packet": {
+      "Number": 137
+    },
+    "TEROS54": {
+      "VWC_15cm_m3_m3": 0.209,
+      "VWC_30cm_m3_m3": 0.242,
+      "VWC_45cm_m3_m3": 0.278,
+      "VWC_60cm_m3_m3": 0.309,
+      "Soil_Temperature_15cm_C": 17.077,
+      "Soil_Temperature_30cm_C": 14.402,
+      "Soil_Temperature_45cm_C": 13.007,
+      "Soil_Temperature_60cm_C": 12.322
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-11T00:00:00Z",
+      "time_local": "2026-10-10T17:00:00"
+    },
+    "Packet": {
+      "Number": 138
+    },
+    "TEROS54": {
+      "VWC_15cm_m3_m3": 0.218,
+      "VWC_30cm_m3_m3": 0.242,
+      "VWC_45cm_m3_m3": 0.278,
+      "VWC_60cm_m3_m3": 0.309,
+      "Soil_Temperature_15cm_C": 17.18,
+      "Soil_Temperature_30cm_C": 14.672,
+      "Soil_Temperature_45cm_C": 13.2,
+      "Soil_Temperature_60cm_C": 12.4
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-11T01:00:00Z",
+      "time_local": "2026-10-10T18:00:00"
+    },
+    "Packet": {
+      "Number": 139
+    },
+    "TEROS54": {
+      "VWC_15cm_m3_m3": 0.22,
+      "VWC_30cm_m3_m3": 0.242,
+      "VWC_45cm_m3_m3": 0.278,
+      "VWC_60cm_m3_m3": 0.309,
+      "Soil_Temperature_15cm_C": 17.073,
+      "Soil_Temperature_30cm_C": 14.842,
+      "Soil_Temperature_45cm_C": 13.366,
+      "Soil_Temperature_60cm_C": 12.478
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-11T02:00:00Z",
+      "time_local": "2026-10-10T19:00:00"
+    },
+    "Packet": {
+      "Number": 140
+    },
+    "TEROS54": {
+      "VWC_15cm_m3_m3": 0.218,
+      "VWC_30cm_m3_m3": 0.242,
+      "VWC_45cm_m3_m3": 0.278,
+      "VWC_60cm_m3_m3": 0.309,
+      "Soil_Temperature_15cm_C": 16.761,
+      "Soil_Temperature_30cm_C": 14.9,
+      "Soil_Temperature_45cm_C": 13.493,
+      "Soil_Temperature_60cm_C": 12.55
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-11T03:00:00Z",
+      "time_local": "2026-10-10T20:00:00"
+    },
+    "Packet": {
+      "Number": 141
+    },
+    "TEROS54": {
+      "VWC_15cm_m3_m3": 0.217,
+      "VWC_30cm_m3_m3": 0.242,
+      "VWC_45cm_m3_m3": 0.278,
+      "VWC_60cm_m3_m3": 0.309,
+      "Soil_Temperature_15cm_C": 16.266,
+      "Soil_Temperature_30cm_C": 14.842,
+      "Soil_Temperature_45cm_C": 13.573,
+      "Soil_Temperature_60cm_C": 12.612
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-11T04:00:00Z",
+      "time_local": "2026-10-10T21:00:00"
+    },
+    "Packet": {
+      "Number": 142
+    },
+    "TEROS54": {
+      "VWC_15cm_m3_m3": 0.216,
+      "VWC_30cm_m3_m3": 0.249,
+      "VWC_45cm_m3_m3": 0.278,
+      "VWC_60cm_m3_m3": 0.309,
+      "Soil_Temperature_15cm_C": 15.622,
+      "Soil_Temperature_30cm_C": 14.672,
+      "Soil_Temperature_45cm_C": 13.6,
+      "Soil_Temperature_60cm_C": 12.66
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-11T05:00:00Z",
+      "time_local": "2026-10-10T22:00:00"
+    },
+    "Packet": {
+      "Number": 143
+    },
+    "TEROS54": {
+      "VWC_15cm_m3_m3": 0.215,
+      "VWC_30cm_m3_m3": 0.255,
+      "VWC_45cm_m3_m3": 0.278,
+      "VWC_60cm_m3_m3": 0.309,
+      "Soil_Temperature_15cm_C": 14.871,
+      "Soil_Temperature_30cm_C": 14.402,
+      "Soil_Temperature_45cm_C": 13.573,
+      "Soil_Temperature_60cm_C": 12.69
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-11T06:00:00Z",
+      "time_local": "2026-10-10T23:00:00"
+    },
+    "Packet": {
+      "Number": 144
+    },
+    "TEROS54": {
+      "VWC_15cm_m3_m3": 0.214,
+      "VWC_30cm_m3_m3": 0.257,
+      "VWC_45cm_m3_m3": 0.278,
+      "VWC_60cm_m3_m3": 0.309,
+      "Soil_Temperature_15cm_C": 14.066,
+      "Soil_Temperature_30cm_C": 14.05,
+      "Soil_Temperature_45cm_C": 13.493,
+      "Soil_Temperature_60cm_C": 12.7
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-11T07:00:00Z",
+      "time_local": "2026-10-11T00:00:00"
+    },
+    "Packet": {
+      "Number": 145
+    },
+    "TEROS54": {
+      "VWC_15cm_m3_m3": 0.213,
+      "VWC_30cm_m3_m3": 0.256,
+      "VWC_45cm_m3_m3": 0.278,
+      "VWC_60cm_m3_m3": 0.309,
+      "Soil_Temperature_15cm_C": 13.261,
+      "Soil_Temperature_30cm_C": 13.64,
+      "Soil_Temperature_45cm_C": 13.366,
+      "Soil_Temperature_60cm_C": 12.69
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-11T08:00:00Z",
+      "time_local": "2026-10-11T01:00:00"
+    },
+    "Packet": {
+      "Number": 146
+    },
+    "TEROS54": {
+      "VWC_15cm_m3_m3": 0.212,
+      "VWC_30cm_m3_m3": 0.255,
+      "VWC_45cm_m3_m3": 0.278,
+      "VWC_60cm_m3_m3": 0.309,
+      "Soil_Temperature_15cm_C": 12.511,
+      "Soil_Temperature_30cm_C": 13.2,
+      "Soil_Temperature_45cm_C": 13.2,
+      "Soil_Temperature_60cm_C": 12.66
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-11T09:00:00Z",
+      "time_local": "2026-10-11T02:00:00"
+    },
+    "Packet": {
+      "Number": 147
+    },
+    "TEROS54": {
+      "VWC_15cm_m3_m3": 0.211,
+      "VWC_30cm_m3_m3": 0.255,
+      "VWC_45cm_m3_m3": 0.278,
+      "VWC_60cm_m3_m3": 0.309,
+      "Soil_Temperature_15cm_C": 11.866,
+      "Soil_Temperature_30cm_C": 12.76,
+      "Soil_Temperature_45cm_C": 13.007,
+      "Soil_Temperature_60cm_C": 12.612
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-11T10:00:00Z",
+      "time_local": "2026-10-11T03:00:00"
+    },
+    "Packet": {
+      "Number": 148
+    },
+    "TEROS54": {
+      "VWC_15cm_m3_m3": 0.21,
+      "VWC_30cm_m3_m3": 0.254,
+      "VWC_45cm_m3_m3": 0.278,
+      "VWC_60cm_m3_m3": 0.309,
+      "Soil_Temperature_15cm_C": 11.37,
+      "Soil_Temperature_30cm_C": 12.35,
+      "Soil_Temperature_45cm_C": 12.8,
+      "Soil_Temperature_60cm_C": 12.55
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-11T11:00:00Z",
+      "time_local": "2026-10-11T04:00:00"
+    },
+    "Packet": {
+      "Number": 149
+    },
+    "TEROS54": {
+      "VWC_15cm_m3_m3": 0.209,
+      "VWC_30cm_m3_m3": 0.254,
+      "VWC_45cm_m3_m3": 0.278,
+      "VWC_60cm_m3_m3": 0.309,
+      "Soil_Temperature_15cm_C": 11.058,
+      "Soil_Temperature_30cm_C": 11.998,
+      "Soil_Temperature_45cm_C": 12.593,
+      "Soil_Temperature_60cm_C": 12.478
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-11T12:00:00Z",
+      "time_local": "2026-10-11T05:00:00"
+    },
+    "Packet": {
+      "Number": 150
+    },
+    "TEROS54": {
+      "VWC_15cm_m3_m3": 0.208,
+      "VWC_30cm_m3_m3": 0.253,
+      "VWC_45cm_m3_m3": 0.278,
+      "VWC_60cm_m3_m3": 0.309,
+      "Soil_Temperature_15cm_C": 10.949,
+      "Soil_Temperature_30cm_C": 11.728,
+      "Soil_Temperature_45cm_C": 12.4,
+      "Soil_Temperature_60cm_C": 12.4
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-11T13:00:00Z",
+      "time_local": "2026-10-11T06:00:00"
+    },
+    "Packet": {
+      "Number": 151
+    },
+    "TEROS54": {
+      "VWC_15cm_m3_m3": 0.208,
+      "VWC_30cm_m3_m3": 0.253,
+      "VWC_45cm_m3_m3": 0.278,
+      "VWC_60cm_m3_m3": 0.309,
+      "Soil_Temperature_15cm_C": 11.051,
+      "Soil_Temperature_30cm_C": 11.558,
+      "Soil_Temperature_45cm_C": 12.234,
+      "Soil_Temperature_60cm_C": 12.322
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-11T14:00:00Z",
+      "time_local": "2026-10-11T07:00:00"
+    },
+    "Packet": {
+      "Number": 152
+    },
+    "TEROS54": {
+      "VWC_15cm_m3_m3": 0.207,
+      "VWC_30cm_m3_m3": 0.252,
+      "VWC_45cm_m3_m3": 0.278,
+      "VWC_60cm_m3_m3": 0.309,
+      "Soil_Temperature_15cm_C": 11.358,
+      "Soil_Temperature_30cm_C": 11.5,
+      "Soil_Temperature_45cm_C": 12.107,
+      "Soil_Temperature_60cm_C": 12.25
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-11T15:00:00Z",
+      "time_local": "2026-10-11T08:00:00"
+    },
+    "Packet": {
+      "Number": 153
+    },
+    "TEROS54": {
+      "VWC_15cm_m3_m3": 0.206,
+      "VWC_30cm_m3_m3": 0.252,
+      "VWC_45cm_m3_m3": 0.278,
+      "VWC_60cm_m3_m3": 0.309,
+      "Soil_Temperature_15cm_C": 11.847,
+      "Soil_Temperature_30cm_C": 11.558,
+      "Soil_Temperature_45cm_C": 12.027,
+      "Soil_Temperature_60cm_C": 12.188
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-11T16:00:00Z",
+      "time_local": "2026-10-11T09:00:00"
+    },
+    "Packet": {
+      "Number": 154
+    },
+    "TEROS54": {
+      "VWC_15cm_m3_m3": 0.206,
+      "VWC_30cm_m3_m3": 0.251,
+      "VWC_45cm_m3_m3": 0.282,
+      "VWC_60cm_m3_m3": 0.309,
+      "Soil_Temperature_15cm_C": 12.485,
+      "Soil_Temperature_30cm_C": 11.728,
+      "Soil_Temperature_45cm_C": 12.0,
+      "Soil_Temperature_60cm_C": 12.14
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-11T17:00:00Z",
+      "time_local": "2026-10-11T10:00:00"
+    },
+    "Packet": {
+      "Number": 155
+    },
+    "TEROS54": {
+      "VWC_15cm_m3_m3": 0.205,
+      "VWC_30cm_m3_m3": 0.251,
+      "VWC_45cm_m3_m3": 0.284,
+      "VWC_60cm_m3_m3": 0.309,
+      "Soil_Temperature_15cm_C": 13.229,
+      "Soil_Temperature_30cm_C": 11.998,
+      "Soil_Temperature_45cm_C": 12.027,
+      "Soil_Temperature_60cm_C": 12.11
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-11T18:00:00Z",
+      "time_local": "2026-10-11T11:00:00"
+    },
+    "Packet": {
+      "Number": 156
+    },
+    "TEROS54": {
+      "VWC_15cm_m3_m3": 0.205,
+      "VWC_30cm_m3_m3": 0.251,
+      "VWC_45cm_m3_m3": 0.285,
+      "VWC_60cm_m3_m3": 0.309,
+      "Soil_Temperature_15cm_C": 14.028,
+      "Soil_Temperature_30cm_C": 12.35,
+      "Soil_Temperature_45cm_C": 12.107,
+      "Soil_Temperature_60cm_C": 12.1
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-11T19:00:00Z",
+      "time_local": "2026-10-11T12:00:00"
+    },
+    "Packet": {
+      "Number": 157
+    },
+    "TEROS54": {
+      "VWC_15cm_m3_m3": 0.204,
+      "VWC_30cm_m3_m3": 0.25,
+      "VWC_45cm_m3_m3": 0.285,
+      "VWC_60cm_m3_m3": 0.309,
+      "Soil_Temperature_15cm_C": 14.826,
+      "Soil_Temperature_30cm_C": 12.76,
+      "Soil_Temperature_45cm_C": 12.234,
+      "Soil_Temperature_60cm_C": 12.11
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-11T20:00:00Z",
+      "time_local": "2026-10-11T13:00:00"
+    },
+    "Packet": {
+      "Number": 158
+    },
+    "TEROS54": {
+      "VWC_15cm_m3_m3": 0.204,
+      "VWC_30cm_m3_m3": 0.25,
+      "VWC_45cm_m3_m3": 0.285,
+      "VWC_60cm_m3_m3": 0.309,
+      "Soil_Temperature_15cm_C": 15.57,
+      "Soil_Temperature_30cm_C": 13.2,
+      "Soil_Temperature_45cm_C": 12.4,
+      "Soil_Temperature_60cm_C": 12.14
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-11T21:00:00Z",
+      "time_local": "2026-10-11T14:00:00"
+    },
+    "Packet": {
+      "Number": 159
+    },
+    "TEROS54": {
+      "VWC_15cm_m3_m3": 0.203,
+      "VWC_30cm_m3_m3": 0.249,
+      "VWC_45cm_m3_m3": 0.285,
+      "VWC_60cm_m3_m3": 0.309,
+      "Soil_Temperature_15cm_C": 16.208,
+      "Soil_Temperature_30cm_C": 13.64,
+      "Soil_Temperature_45cm_C": 12.593,
+      "Soil_Temperature_60cm_C": 12.188
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-11T22:00:00Z",
+      "time_local": "2026-10-11T15:00:00"
+    },
+    "Packet": {
+      "Number": 160
+    },
+    "TEROS54": {
+      "VWC_15cm_m3_m3": 0.203,
+      "VWC_30cm_m3_m3": 0.249,
+      "VWC_45cm_m3_m3": 0.285,
+      "VWC_60cm_m3_m3": 0.309,
+      "Soil_Temperature_15cm_C": 16.696,
+      "Soil_Temperature_30cm_C": 14.05,
+      "Soil_Temperature_45cm_C": 12.8,
+      "Soil_Temperature_60cm_C": 12.25
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-11T23:00:00Z",
+      "time_local": "2026-10-11T16:00:00"
+    },
+    "Packet": {
+      "Number": 161
+    },
+    "TEROS54": {
+      "VWC_15cm_m3_m3": 0.203,
+      "VWC_30cm_m3_m3": 0.248,
+      "VWC_45cm_m3_m3": 0.284,
+      "VWC_60cm_m3_m3": 0.309,
+      "Soil_Temperature_15cm_C": 17.002,
+      "Soil_Temperature_30cm_C": 14.402,
+      "Soil_Temperature_45cm_C": 13.007,
+      "Soil_Temperature_60cm_C": 12.322
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-12T00:00:00Z",
+      "time_local": "2026-10-11T17:00:00"
+    },
+    "Packet": {
+      "Number": 162
+    },
+    "TEROS54": {
+      "VWC_15cm_m3_m3": 0.202,
+      "VWC_30cm_m3_m3": 0.248,
+      "VWC_45cm_m3_m3": 0.284,
+      "VWC_60cm_m3_m3": 0.309,
+      "Soil_Temperature_15cm_C": 17.103,
+      "Soil_Temperature_30cm_C": 14.672,
+      "Soil_Temperature_45cm_C": 13.2,
+      "Soil_Temperature_60cm_C": 12.4
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-12T01:00:00Z",
+      "time_local": "2026-10-11T18:00:00"
+    },
+    "Packet": {
+      "Number": 163
+    },
+    "TEROS54": {
+      "VWC_15cm_m3_m3": 0.202,
+      "VWC_30cm_m3_m3": 0.248,
+      "VWC_45cm_m3_m3": 0.284,
+      "VWC_60cm_m3_m3": 0.309,
+      "Soil_Temperature_15cm_C": 16.993,
+      "Soil_Temperature_30cm_C": 14.842,
+      "Soil_Temperature_45cm_C": 13.366,
+      "Soil_Temperature_60cm_C": 12.478
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-12T02:00:00Z",
+      "time_local": "2026-10-11T19:00:00"
+    },
+    "Packet": {
+      "Number": 164
+    },
+    "TEROS54": {
+      "VWC_15cm_m3_m3": 0.202,
+      "VWC_30cm_m3_m3": 0.248,
+      "VWC_45cm_m3_m3": 0.284,
+      "VWC_60cm_m3_m3": 0.309,
+      "Soil_Temperature_15cm_C": 16.679,
+      "Soil_Temperature_30cm_C": 14.9,
+      "Soil_Temperature_45cm_C": 13.493,
+      "Soil_Temperature_60cm_C": 12.55
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-12T03:00:00Z",
+      "time_local": "2026-10-11T20:00:00"
+    },
+    "Packet": {
+      "Number": 165
+    },
+    "TEROS54": {
+      "VWC_15cm_m3_m3": 0.201,
+      "VWC_30cm_m3_m3": 0.247,
+      "VWC_45cm_m3_m3": 0.284,
+      "VWC_60cm_m3_m3": 0.309,
+      "Soil_Temperature_15cm_C": 16.182,
+      "Soil_Temperature_30cm_C": 14.842,
+      "Soil_Temperature_45cm_C": 13.573,
+      "Soil_Temperature_60cm_C": 12.612
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-12T04:00:00Z",
+      "time_local": "2026-10-11T21:00:00"
+    },
+    "Packet": {
+      "Number": 166
+    },
+    "TEROS54": {
+      "VWC_15cm_m3_m3": 0.201,
+      "VWC_30cm_m3_m3": 0.247,
+      "VWC_45cm_m3_m3": 0.284,
+      "VWC_60cm_m3_m3": 0.311,
+      "Soil_Temperature_15cm_C": 15.535,
+      "Soil_Temperature_30cm_C": 14.672,
+      "Soil_Temperature_45cm_C": 13.6,
+      "Soil_Temperature_60cm_C": 12.66
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-12T05:00:00Z",
+      "time_local": "2026-10-11T22:00:00"
+    },
+    "Packet": {
+      "Number": 167
+    },
+    "TEROS54": {
+      "VWC_15cm_m3_m3": 0.201,
+      "VWC_30cm_m3_m3": 0.247,
+      "VWC_45cm_m3_m3": 0.283,
+      "VWC_60cm_m3_m3": 0.312,
+      "Soil_Temperature_15cm_C": 14.783,
+      "Soil_Temperature_30cm_C": 14.402,
+      "Soil_Temperature_45cm_C": 13.573,
+      "Soil_Temperature_60cm_C": 12.69
+    }
+  },
+  {
+    "Type": "data",
+    "Timestamp": {
+      "time_utc": "2026-10-12T06:00:00Z",
+      "time_local": "2026-10-11T23:00:00"
+    },
+    "Packet": {
+      "Number": 168
+    },
+    "TEROS54": {
+      "VWC_15cm_m3_m3": 0.2,
+      "VWC_30cm_m3_m3": 0.247,
+      "VWC_45cm_m3_m3": 0.283,
+      "VWC_60cm_m3_m3": 0.313,
+      "Soil_Temperature_15cm_C": 13.976,
+      "Soil_Temperature_30cm_C": 14.05,
+      "Soil_Temperature_45cm_C": 13.493,
+      "Soil_Temperature_60cm_C": 12.7
+    }
+  }
+]
