@@ -10,7 +10,7 @@ import { toReadings, toMetadata, summarizeSensors } from './translate.js'
 const HIDDEN_FIELDS = { Packet: 0, WiFi: 0, LTE: 0, LoRa: 0, Bringup: 0 }
 
 // How many recent packets to scan when building a station's sensor list
-const SENSOR_SAMPLE_SIZE = 100 //todo This can be changed or maybe use a different system
+// const SENSOR_SAMPLE_SIZE = 100 //todo This can be changed or maybe use a different system
 
 // Metadata documents may be spelled Type or type (Ear2Earth used lowercase).
 // Matching both is harmless until the lab confirms which one is real.
@@ -101,8 +101,26 @@ export const getLatest = async (stationId, n, { sensor } = {}) => {
 // Which sensors does THIS station have? Built from its recent packets,
 // so a new sensor on any station appears automatically, with no config file.
 //todo Might change this is every sensor ever used shows up. 
-export const getSensors = async (stationId) =>
-  summarizeSensors(await getLatest(stationId, SENSOR_SAMPLE_SIZE))
+// Discover all sensors throughout the station's recording history.
+export const getSensors = async (stationId) => {
+  const cursor = collection(stationId)
+    .find(IS_NOT_METADATA, { projection: HIDDEN_FIELDS })
+
+  const sensors = new Map()
+
+  for await (const doc of cursor) {
+    for (const reading of toReadings(stationId, doc)) {
+      const key = JSON.stringify([reading.sensor, reading.field])
+      const previous = sensors.get(key)
+
+      if (!previous || reading.timestamp > previous.timestamp) {
+        sensors.set(key, reading)
+      }
+    }
+  }
+
+  return summarizeSensors([...sensors.values()])
+}
 
 // Ear2Earth /metadata, but only THIS station's collection
 // (Ear2Earth searched every collection and returned the first match)

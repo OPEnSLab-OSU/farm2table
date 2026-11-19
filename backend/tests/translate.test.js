@@ -182,6 +182,26 @@ describe('summarizeSensors', () => {
     const list = summarizeSensors([...toReadings('A', stationA), ...toReadings('A', stationA)])
     assert.equal(list.length, 12)
   })
+
+  test('includes sensors that only appear in older packets', () => {
+    const older = {
+      ...stationA,
+      Timestamp: { time_utc: '2026-08-19T08:00:00Z' },
+      RainSensor: {
+        Rainfall_mm: 12.5
+      }
+    }
+
+    const list = summarizeSensors([
+      ...toReadings('A', stationA),
+      ...toReadings('A', older)
+    ])
+
+    const rain = list.find(s => s.sensor === 'RainSensor')
+
+    assert.ok(rain)
+    assert.equal(rain.lastValue, 12.5)
+  })
 })
 
 describe('toMetadata', () => {
