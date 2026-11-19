@@ -10,7 +10,6 @@
 |---|---|
 | Author | Son Thai Do Nguyen |
 | Date | 2026-10-25 |
-| Date | 2026-11-28 |
 | Last Updated | 2026-11-18 |
 | Status | Proposed |
 | Decision Date | TBD |
