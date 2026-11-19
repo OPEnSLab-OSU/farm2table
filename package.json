@@ -5,6 +5,7 @@
   "private": true,
   "description": "Farm2Table initial CI scaffold",
   "scripts": {
-    "test": "node --test"
+    "test": "node --test",
+    "dev": "node scripts/dev.mjs"
   }
 }

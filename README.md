@@ -28,7 +28,7 @@ Checkpoint 1: scaffold only. No product features yet.
    cp backend/.env.example backend/.env
 ```
  
-   Then fill in the values (see [Environment variables](#environment-variables)). The scaffold does not need real keys yet.
+   Then fill in the values. You need real MongoDB values to run the app; ask a team member if needed.
  
 4. Run the tests to confirm the scaffold works:
 ```bash
@@ -36,6 +36,13 @@ Checkpoint 1: scaffold only. No product features yet.
 ```
  
    Expected result: all tests pass.
+
+5. Start the backend and frontend together:
+```bash
+   npm run dev
+```
+
+   This starts the API on http://localhost:3000, waits until it responds, then starts the frontend on http://localhost:5173. Open the frontend URL in your browser. Press Ctrl+C to stop both. This step needs real MongoDB values in `backend/.env`.
 
 ## Environment variables
  
@@ -48,6 +55,8 @@ Defined in `backend/.env.example`. Copy it to `backend/.env`; the real `.env` is
 | `src/` | Application code (scaffold: `coordinates.js`) |
 | `tests/` | Automated tests |
 | `backend/` | Backend configuration (`.env.example`) |
+| `frontend/` | React + Vite app |
+| `scripts/` | Dev tooling (`dev.mjs` starts the backend and frontend together) |
 | `docs/` | Living docs: requirements, design, risks |
 | `.github/workflows/ci.yml` | CI: runs the tests on every pull request |
  
