@@ -14,6 +14,7 @@ import {
   sensorKeys,
   toReadings,
   summarizeSensors,
+  latestToSummary,
   toMetadata,
 } from '../src/db/translate.js'
 
@@ -354,5 +355,49 @@ describe('unit parsing', () => {
   test('an unknown suffix is not treated as a unit', () => {
     assert.deepEqual(unitOf('Depth_10'), ['Depth_10', null])
     assert.deepEqual(unitOf('Tips'), ['Tips', null])
+  })
+})
+
+/* ---------- getLatestValues rows ---------- */
+
+// Does in JS what the getLatestValues aggregation does in MongoDB:
+// newest packet first, keep the first value seen for each sensor field.
+const latestRows = (docs) => {
+  const rows = new Map()
+  for (const doc of docs) {
+    for (const sensor of sensorKeys(doc)) {
+      for (const [field, value] of Object.entries(doc[sensor])) {
+        const key = `${sensor}|${field}`
+        if (!rows.has(key)) {
+          rows.set(key, { _id: { sensor, field }, value, time_utc: doc.Timestamp?.time_utc })
+        }
+      }
+    }
+  }
+  return [...rows.values()]
+}
+
+describe('latestToSummary', () => {
+  test('matches summarizeSensors for the same packets', () => {
+    for (const doc of [stationA, stationB, deployTest8, jolteon1]) {
+      assert.deepEqual(
+        latestToSummary('X', latestRows([doc])),
+        summarizeSensors(toReadings('X', doc))
+      )
+    }
+  })
+
+  test('names gas boards by their gas even on the Temp(C) field', () => {
+    const list = latestToSummary('X', latestRows([deployTest8]))
+    const temp = list.find((s) => s.sensor === 'DFR_MultiGasSensor_0' && s.field === 'Temp(C)')
+    assert.equal(temp.sensorName, 'Carbon Monoxide')
+  })
+
+  test('keeps sensors that only appear in older packets', () => {
+    const older = { ...stationA, Timestamp: { time_utc: '2026-08-19T08:00:00Z' }, RainSensor: { Rainfall_mm: 12.5 } }
+    const list = latestToSummary('A', latestRows([stationA, older]))
+    const rain = list.find((s) => s.sensor === 'RainSensor')
+    assert.equal(rain.lastValue, 12.5)
+    assert.equal(rain.lastSeen, '2026-08-19T08:00:00.000Z')
   })
 })
