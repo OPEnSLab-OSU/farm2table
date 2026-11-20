@@ -1,5 +1,6 @@
 import { useEffect, useState } from 'react'
 import SensorMenu from './components/SensorMenu'
+import SensorChart from './components/SensorChart'
 import './App.css'
 
 function App() {
@@ -52,6 +53,10 @@ function App() {
           <p>{selectedSensor.sensorName}</p>
           <p>Measurement: {selectedSensor.variable}</p>
           <p>Latest value: {selectedSensor.lastValue ?? 'N/A'}</p>
+          <SensorChart
+            stationId={stationId}
+            selectedSensor={selectedSensor}
+          />
         </div>
       )}
     </main>
