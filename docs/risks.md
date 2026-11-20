@@ -1,33 +1,83 @@
 # Farm2Table - Risk Register
 
-This document tracks risks that may affect the development and delivery of Farm2Table.
+This document tracks risks that may affect the development
+and delivery of Farm2Table.
 
-## Risk 1: Lack of Database Access
+**Last Updated:** November 20, 2026
+
+## Risk 1: Delays in Frontend Design and Integration
 
 - **Status:** Open
 - **Priority:** High
-- **Identified:** October 25, 2026
+- **Identified:** November 20, 2026
 - **Owner:** Farm2Table Team
 
 ### Description
 
-Farm2Table requires access to an existing sensor database maintained by the project partner's team. Database access and API documentation have not yet been provided, which could delay development and testing.
+Although backend data retrieval, dynamic sensor selection,
+and interactive Plotly graphs have been implemented, the
+final Figma design has not yet been approved by the project
+partner.
 
 ### Impact
 
-Without database access, the team cannot retrieve real sensor measurements for the application, potentially delaying the initial working prototype.
+Delays in finalizing the frontend design could result in
+additional development effort and delay the delivery of
+an integrated application.
 
 ### Mitigation
 
-- Follow up with Sean and Rory regarding database/API access.
-- Request documentation explaining API requests and JSON responses.
-- Use sample sensor data for initial development if access remains unavailable.
+- Finalize the Figma design with the project partner.
+- Continue developing reusable frontend components.
+- Maintain communication between team members.
+- Conduct regular integration testing.
 
 ### Decision Needed
 
-The project partner and sensor team must confirm the database access method and provide the necessary documentation, or approve temporary sample data for development.
+The team and project partner must review, finalize, and
+approve the Figma design so that frontend development
+can proceed with agreed-upon design requirements.
 
-**Needed by:** Before the November 6, 2026 TA demo.
+**Needed by:** December 4, 2026.
+
+## Risk 2: Performance with Large Sensor Datasets
+
+- **Status:** Open
+- **Priority:** Medium
+- **Identified:** November 20, 2026
+- **Owner:** Farm2Table Team
+
+### Description
+
+Increasing volumes of historical sensor data may affect
+API performance and graph rendering.
+
+### Impact
+
+Large datasets could reduce application responsiveness,
+particularly on the planned touchscreen kiosk.
+
+### Mitigation
+
+- Implement data aggregation and downsampling.
+- Optimize historical data queries.
+- Conduct performance testing with larger datasets.
+
+## Risk 3: Lack of Database Access
+
+- **Status:** Resolved
+- **Priority:** High
+- **Identified:** October 25, 2026
+- **Resolved:** November 19, 2026
+- **Owner:** Farm2Table Team
+
+### Resolution
+
+Database access has been established, and the project
+partner has populated MongoDB with synthetic sensor data.
+The team has successfully implemented and tested sensor
+data retrieval, dynamic sensor discovery, and historical
+data visualization.
 
 ## Other Risks
 
