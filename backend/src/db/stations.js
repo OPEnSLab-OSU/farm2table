@@ -4,7 +4,13 @@
  * Returns Farm2Table's reading model via translate.js, never raw documents.
  ***************************************************************/
 import { getDb } from './client.js'
-import { toReadings, toMetadata, summarizeSensors } from './translate.js'
+import {
+  toReadings,
+  toMetadata,
+  summarizeSensors,
+  latestToSummary,
+  NON_SENSOR_KEYS,
+} from './translate.js'
 
 // Device and radio info we never send to the frontend
 const HIDDEN_FIELDS = { Packet: 0, WiFi: 0, LTE: 0, LoRa: 0, Bringup: 0 }
@@ -100,7 +106,6 @@ export const getLatest = async (stationId, n, { sensor } = {}) => {
 
 // Which sensors does THIS station have? Built from its recent packets,
 // so a new sensor on any station appears automatically, with no config file.
-//todo Might change this is every sensor ever used shows up. 
 // Discover all sensors throughout the station's recording history.
 export const getSensors = async (stationId) => {
   const cursor = collection(stationId)
@@ -120,6 +125,32 @@ export const getSensors = async (stationId) => {
   }
 
   return summarizeSensors([...sensors.values()])
+}
+
+// Same result as getSensors, but MongoDB does the work: it finds the newest
+// value of every sensor field and returns one row per field, instead of
+// streaming the station's whole history into Node.
+export const getLatestValues = async (stationId) => {
+  const rows = await collection(stationId)
+    .aggregate([
+      { $match: IS_NOT_METADATA },
+      { $sort: { _id: -1 } }, // newest first (see getLatest for why _id, not the timestamp string)
+      { $project: { _id: 0, t: '$Timestamp.time_utc', kv: { $objectToArray: '$$ROOT' } } },
+      { $unwind: '$kv' }, // one row per top-level key
+      { $match: { 'kv.k': { $nin: [...NON_SENSOR_KEYS] }, 'kv.v': { $type: 'object' } } }, // sensors only
+      { $project: { t: 1, sensor: '$kv.k', f: { $objectToArray: '$kv.v' } } },
+      { $unwind: '$f' }, // one row per sensor field
+      {
+        $group: {
+          _id: { sensor: '$sensor', field: '$f.k' },
+          value: { $first: '$f.v' }, // first = newest, because of the sort above
+          time_utc: { $first: '$t' },
+        },
+      },
+    ], { allowDiskUse: true })
+    .toArray()
+
+  return latestToSummary(stationId, rows)
 }
 
 // Ear2Earth /metadata, but only THIS station's collection

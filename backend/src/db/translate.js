@@ -11,7 +11,7 @@
 /* ---------- Document structure ---------- */
 
 // Keys on a raw document that are not environmental sensors
-const NON_SENSOR_KEYS = new Set([
+export const NON_SENSOR_KEYS = new Set([
   '_id', 'Type', 'type', 'Timestamp', 'Packet', // document structure
   'WiFi', 'LTE', 'LoRa',                        // radios (signal strength, not environment)
   'Bringup',                                    // board test info (TestId), not a measurement
@@ -235,6 +235,25 @@ export const summarizeSensors = (readings) =>
       return acc
     }, {})
   ).sort((a, b) => a.sensor.localeCompare(b.sensor) || a.variable.localeCompare(b.variable))
+
+// Rows from the getLatestValues aggregation → the same summary as summarizeSensors.
+// Each row ({ _id: { sensor, field }, value, time_utc }) is rebuilt into a tiny
+// one-field packet so toReadings still decides units and quality. The display
+// name is worked out from ALL of a sensor's fields, because gas boards are
+// named by their gas field ('CO' → Carbon Monoxide), not by 'Temp(C)'.
+export const latestToSummary = (stationId, rows) => {
+  const fieldsBySensor = rows.reduce((acc, { _id, value }) => {
+    acc[_id.sensor] = { ...acc[_id.sensor], [_id.field]: value }
+    return acc
+  }, {})
+
+  return summarizeSensors(
+    rows.flatMap(({ _id, value, time_utc }) =>
+      toReadings(stationId, { Timestamp: { time_utc }, [_id.sensor]: { [_id.field]: value } })
+        .map((r) => ({ ...r, sensorName: sensorDisplayName(r.sensor, fieldsBySensor[r.sensor]) }))
+    )
+  )
+}
 
 export const toMetadata = (stationId, doc) => ({
   stationId,

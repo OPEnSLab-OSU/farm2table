@@ -9,7 +9,7 @@ import {
   getDateRange,
   getReadings,
   getLatest,
-  getSensors,
+  getLatestValues,
   getMetadata,
 } from '../db/stations.js'
 
@@ -61,7 +61,7 @@ router.get('/:id/range', async (req, res) => {
 
 // GET /api/stations/:id/sensors  → sensors on THIS station with their latest values
 router.get('/:id/sensors', async (req, res) => {
-  res.json(await getSensors(req.params.id))
+  res.json(await getLatestValues(req.params.id))
 })
 
 // GET /api/stations/:id/metadata  → deployment date, location, owner
@@ -78,7 +78,7 @@ router.get('/:id/readings', async (req, res) => {
   const { start, end, latest, sensor } = req.query
 
   if (sensor !== undefined) {
-    const sensors = await getSensors(req.params.id)
+    const sensors = await getLatestValues(req.params.id)
     if (!sensors.some((s) => s.sensor === sensor)) {
       return res.status(404).json({ error: 'This station has no such sensor' })
     }
