@@ -1,5 +1,5 @@
 
-# RFC: Where Farm2Table Stores Sensor Time-Series Data
+# RFC: Optimizing Sensor Time-Series Queries in Farm2Table's MongoDB
 
 | Field | Value |
 | --- | --- |
@@ -15,13 +15,13 @@
 
 Farm2Table is an interactive web application developed with OSU's College of Agricultural Sciences and OPEnS Lab to visualize agricultural sensor data. The sensors collect environmental measurements such as soil moisture, temperature, and humidity. Farm2Table stores these readings so users can view historical trends, compare measurements across stations, and export data for further analysis.
 
-We must decide how Farm2Table should store this time-series data. Ear2Earth, the platform we build on, currently uses MongoDB. Our main features, including plots ranging from 24 hours to a full growing season, station comparisons, and CSV exports, depend on how efficiently the database can retrieve readings over a selected time range.
+Farm2Table already uses MongoDB as its database, which is managed by OPEnS Lab. The remaining decision is how to optimize sensor time-series queries within the existing infrastructure while respecting our read-only database access. Our main features, including plots ranging from 24 hours to a full growing season, station comparisons, and CSV exports, depend on how efficiently the backend retrieves readings over a selected time range.
 
 As the number of sensors and stored readings increases, longer queries may become slower. For example, a sensor recording every 15 minutes generates 96 readings per day, or approximately 17,280 readings over a 180-day growing season. With multiple sensors and stations, the amount of data grows quickly. This is an illustrative estimate, not a measurement of the current Farm2Table database.
 
-This decision is hard to reverse. Once the API, plotting components, and export functionality depend on a particular storage design, changing it could require migrating data and rewriting queries. Making the decision now is cheaper than changing the architecture after those features are completed.
+This decision becomes harder to reverse as development progresses. Once the API, plotting components, and export functionality depend on a particular query design, changing it could require rewriting backend logic and retesting multiple features. Making the decision now reduces the risk of performance problems appearing after those features are completed.
 
-The partner may also consider MongoDB part of the inherited infrastructure, so we need measurable evidence before proposing a major change. If we do nothing, we keep the current collections, which may be sufficient, but their performance on full-season queries has not yet been verified.
+If we do nothing, Farm2Table will continue using its existing MongoDB queries. These may be sufficient for short time ranges, but their performance on full-season queries has not yet been verified.
 
 ## Options
 
@@ -64,9 +64,7 @@ Farm2Table could store sensor readings in TimescaleDB and use PostGIS for geogra
 - Requires rewriting the data access layer.
 - Creates additional migration and integration risks.
 
-This option is appropriate if MongoDB cannot meet our performance or data-modeling requirements and the benefits justify the additional infrastructure.
-
-TimescaleDB documentation explains how hypertables partition time-series data into chunks so queries can access relevant portions of a dataset [2].
+This option could be appropriate if MongoDB cannot meet our performance or data-modeling requirements. However, Farm2Table has already committed to MongoDB, and the database infrastructure is managed by OPEnS Lab. Moving to TimescaleDB would require partner approval, additional hosting, and significant changes to the backend. Therefore, this option is not recommended under our current project constraints.
 
 ### Option C: Do Nothing
 
@@ -220,6 +218,8 @@ The proposed acceptance targets are:
 - No query timeouts or retrieval errors.
 - Complete and correctly ordered results.
 
+As with the 30-day test, we will run at least 30 requests after warming up the database and calculate the 95th-percentile response time.
+
 This test addresses the concern that a database may perform well for 30-day queries but struggle when processing an entire season.
 
 The performance targets are proposed values and should be confirmed with the team and partner.
@@ -306,7 +306,7 @@ I used AI tools to help summarize MongoDB and TimescaleDB documentation, organiz
 
 AI assistance was also used to identify possible technical tradeoffs and develop verification criteria.
 
-The recommendation is a proposed engineering decision, not a claim that the alternatives have already been benchmarked.
+The selected approach has been accepted, but its performance improvements have not yet been verified through benchmarks.
 
 ### Documentation Checks
 
@@ -328,7 +328,7 @@ Before implementing a change, the following points require direct validation:
 
 The most important validation points are schema design, query performance, and migration correctness because mistakes in these areas could cause incorrect graphs, lost readings, or major rework.
 
-The team should document the results of these checks before changing the RFC's decision status.
+The team will document the results of these checks to verify whether the accepted approach meets our performance and correctness requirements. If the results reveal significant limitations, we will revisit the decision.
 
 ## Decision
 
@@ -369,8 +369,8 @@ https://www.mongodb.com/docs/manual/core/timeseries/timeseries-best-practices/
 | --- | --- | --- | --- |
 | Alexander Jiang | Provide more context about the sensors and explain how Farm2Table uses the stored data. | Changed | Problem and Context: added examples of sensor measurements and explained how historical data supports visualization, station comparisons, and CSV exports. |
 | Alexander Jiang | Include the expected amount of sensor data and explain why query speed matters. | Changed | Problem and Context: added an example of data volume over a growing season and explained how larger datasets affect query performance. |
-| Alexander Jiang | Consider improving the existing database setup through indexing and query optimization. | Changed | Options: added Option D, which focuses on optimizing existing MongoDB collections before considering migration. |
-| Alexander Jiang | Fix the PDF formatting because Markdown syntax was still visible. | Changed | Final submission: headings, tables, and other Markdown elements will be properly rendered when exporting to PDF. |
+| Alexander Jiang | Consider improving the existing database setup through indexing and query optimization. | Changed | Options: added Option D, which focuses on optimizing backend MongoDB queries without modifying the partner-owned collections. |
+| Alexander Jiang | Improve PDF formatting because Markdown syntax was visible. | Changed | Kept the RFC in Markdown and used proper Markdown rendering when exporting the final PDF. |
 | Christopher Lopez | Test full-season queries instead of focusing only on 30-day queries. | Changed | Recommendation and Verification Plan: added a full-season performance test using a representative 180-day period. |
 | Christopher Lopez | Verify that the database can handle the larger amount of data required for full-season plots. | Changed | Recommendation and Verification Plan: added response-time targets, repeated performance tests, and visualization data limits. |
 | TA | Add more project introduction and context so readers unfamiliar with Farm2Table can understand the decision. | Changed | Problem and Context: added a brief explanation of Farm2Table, its sensors, and how the stored data supports visualization and analysis. |
