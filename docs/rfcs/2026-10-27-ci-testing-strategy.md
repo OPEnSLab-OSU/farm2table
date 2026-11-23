@@ -1,10 +1,4 @@
-<!-- docs/rfcs/YYYY-MM-DD-short-title.md (or docs/adr/, whichever your repo uses) -->
-
 # RFC: [CI Testing Strategy]
-
-<!-- Decision record header. Leave Status as "Proposed" until your team decides,
-     before or after the reviews. Then fill in the outcome and the decision date.
-     The document stays where it is; this header is what makes it a record. -->
 
 | Field | Value |
 | --- | --- |
@@ -21,9 +15,11 @@ Farm2Table is developing an interactive web app that helps farmers and educators
 
 Farm2Table is still in early development. The team has established a GitHub repository, research on requirements, as well as developing a Figma prototype. Farm2Table does not have a working application at the moment or a continuous integration (CI) pipeline. As the Quality Owner, I am responsible for helping to ensure our code meets the quality standards of our team, as well as keeping the main branch reliable.
 
-Why now. As we begin creating and implementing th application, the number of features and dependencies will increase. Creating a testing strategy early will allow us to create consistent expectations before our code base grows. Consistent expectations will lead the team so sucess in keeping the main branch reliable. Changing our team's testing practices after building features and workflows would lead to more work in the future.
+Why now. As we begin creating and implementing the application, the number of features and dependencies will increase. Creating a testing strategy early will allow us to create consistent expectations before our code base grows. Consistent expectations will lead the team so success in keeping the main branch reliable. Changing our team's testing practices after building features and workflows would lead to more work in the future.
 
 What happens if we do nothing. Without a testing strategy, the team may test their code differently or miss problems that could affect other components. For example, a change to sensor data processing could lead to an incorrect display of data visualization in the app. Or even fail to display anything at all if readings are missing. These problems may not be discovered until they are already merged and tested by other developers on the team.
+
+Even a small error could negatively affect farmers and educators using the application. For example, if soil moisture readings are displayed incorrectly, farmers could misunderstand the conditions of their crops. For educators, they could use this inaccurate information when showing environmental changes. This demonstrates why its important for our team to catch errors before the users depend on the web app.
 
 ## Options
 
@@ -57,18 +53,30 @@ Costs: Without automatic checks, the team can overlook errors or could have inco
 
 When is this the right choice: During early research and prototype stages. When there is little amounts of code to test, creating a CI system may not be proven beneficial as there is not much code to test.
 
+### Option D: Manual Testing
+
+Use manual testing and code reviews instead of implementing a CI pipeline. Developers would be responsible for testing changes locally before pushing the code to the main branch. Another team member would review the code to check for possible errors or problems that team member may have missed.
+
+For Farm2Table, manual testing could involve checking that the dashboard displays sensor readings properly, the graphs update when choosing different time ranges, and the web app can handle missing or invalid data. The team could also use a checklist to make sure that the same important features still work before merging to the main branch.
+
+Benefits: Manual testing doesnt require the team to set up and configure or maintain a CI pipeline. It would also allow the team to interact with the web app and find visual or usability problems that an automated test may not find. Code reviews could help team members identify errors and better understand changes that are made to the web app.
+
+Costs: Manual testing would become fairly time consuming as the web app grows, more features are added, it would become complex fast. The team would need to check the same features over and over again to ensure that new changes have not caused any problems. Testing could also be inconsistent due to human error of a team member, leading to some errors being overlooked. Code reviews are also costly as it would require more time for team members to check each change, slowing down the team overall.
+
+When this is the right choice: When Farm2table is still in the early stages of development and has a limited amount of code to actually test. This could also be proven useful in regard to testing the appearance and usabiltiy of the dashboard, even if the team decides to switch to a CI platform.
+
 ## Analysis
 
-| Criterion | GitHub Actions | Jenkins | Do Nothing |
+| Criterion | GitHub Actions | Jenkins | Manual Testing | Do Nothing |
 | --- | --- | --- | --- |
-| Initial setup | Low | High | None |
-| Automated testing | Yes | Yes | No |
-| GitHub integration | Built-in | Requires configuration | None |
-| Server maintenance | Not required | Required if self-hosted | None |
-| Flexibility | High | Very high | Limited |
-| Infrastructure cost | Depends on usage | Hosting and maintenance | None |
-| Ongoing maintenance | Workflows and tests | Server, plugins, pipelines, and tests | Manual debugging |
-| Best fit | Small GitHub-based teams | Custom testing environments | Early prototyping |
+| Initial setup | Low | High | Low | None |
+| Automated testing | Yes | Yes | No | No|
+| GitHub integration | Built-in | Requires configuration | Through reviews | None |
+| Server maintenance | Not required | Required if self-hosted | Not required | None |
+| Flexibility | High | Very high | High| Limited |
+| Infrastructure cost | Depends on usage | Hosting and maintenance | None | None |
+| Ongoing maintenance | Workflows and tests | Server, plugins, pipelines, and tests | Repeated testing and reviews | Manual debugging |
+| Best fit | Small GitHub-based teams | Custom testing environments | Small projects and usability testing | Early prototyping |
 
 Reliability: Both GitHub Actions and Jenkins can automatically execute tests and report failures. GitHub Actions uses pushes and pull requests to trigger workflows [1]. Jenkins uses configurable pipelines and integrations with source control [4]. Both platforms could help identify problems before code is merged. This doesn't mean that automated testing is perfect. Tests only detect problems covered by existing tests, therefore there is no guarantee that the application will be bug free.
 
@@ -84,7 +92,7 @@ GitHub Actions: I recommend GitHub Actions because it integrates with our reposi
 
 1. Create a workflow in GitHub Actions
 2. Configure it to run on pull and push requests.
-3. Add build commands and tests to ensure CI runs safely and efficently.
+3. Add build commands and tests to ensure CI runs safely and efficiently.
 
 Initial CI Implementation:
 - [ ] **Workflow execution:** Verify pushes and pull requests trigger the workflow.
@@ -92,8 +100,10 @@ Initial CI Implementation:
 - [ ] **Failure detection:** create a failing test and verify that CI reports the failure.
 - [ ] **Sensor testing:** Test valid, missing, and invalid sensor readings.
 - [ ] **Branch protection:** Verify failing checks prevent pull requests from merging.
+- [ ] **Code coverage:** Generate a code coverage report during automated testing. As an initial goal the team can aim for at least 80% statement coverage of the applications testable code. This target will need to be reviewed once the team creates a baseline.
+- [ ] **Missing tests:** Review new features to make sure important functionality and error conditions are covered. If the code were to drop below the agreed threshold, the team should review the missing tests before merging changes.
 
-These tests will be completed during our initial CI setup before the team relies on automated checks to approve the code.
+Sensor Testing: Our team has already created automated tests and sample datasets to help verify how Farm2table handles sensor readings. These include weather data from the CRVO AgriMet station in Corvallis, Oregon, as well as simulated soil moisture readings. The dataset has measurements such as: temperature, humidity, wind direction, solar radiation, and precipitation. Since GitHub actions does not require physical sensors connected to the servers, we can use these as placeholder testing datasets to test how the application processes and displays the readings. For example, we can check for missing or invalid measurements, incorrect unit conversions, and duplicate timestamps. This would allow the team to identify potential problems automatically whenever changes are pushed to the repository, without needing access to actual sensors or the database.
 
 ## Constraints
 
@@ -105,7 +115,7 @@ IP: Testing the code needs to follow the team's project agreements and requireme
 
 Confidentiality: Sensor data, database credentials, and teammate information should not appear in the public repository or CI logs.
 
-Development constraints: Our team has not established any technologies yet. 
+Development constraints: Our team is still deciding on some of the technologies that will be used. However, we have created automated tests using JavaScript and Node.js, and prepared JSON datasets for testing sensor data. We are also using Figma to prototype the frontend and plan to retrieve sensor readings from the project partner's MongoDB. GitHub actions is currently our preferred platform but the workflow has not yet been configured. As we continue developing, we will need to update the CI pipeline to support frameworks, dependencies, and testing tools that our team selects. 
 
 ## Delegation and Validation
 
@@ -116,7 +126,7 @@ What is assessed is in the [AI policy](https://capstone.alexulbrich.com/assignme
 
 ## Decision
 
-Proposed.
+Proposed: I recommend using GitHub Actions as Farm2Tables CI platform because it integrates with our GitHub repository and requires less management than Jenkins. Our team has not configured the workflow yet, so we will need to verify that it supports our testing requirements before relying on it. 
 
 ## Sources
 
@@ -125,3 +135,4 @@ Proposed.
 [3] [GitHub Actions Billing](https://docs.github.com/en/billing/concepts/product-billing/github-actions)
 [4] [Jenkins Pipeline Documentation](https://www.jenkins.io/doc/book/pipeline/)
 [5] [Jenkins Security Documentation](https://www.jenkins.io/doc/book/security/)
+
