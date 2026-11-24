@@ -22,7 +22,7 @@ function App() {
 
   return (
     <main>
-      <h1>Farm2Table Test</h1>
+      <h1>Farm2Table</h1>
 
       <label>Select Station: </label>
 
