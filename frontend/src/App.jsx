@@ -1,6 +1,7 @@
 import { useEffect, useState } from 'react'
 import SensorMenu from './components/SensorMenu'
 import './App.css'
+import toothlessGif from './assets/Toothless_dancing.gif'
 
 function App() {
   const [stations, setStations] = useState([])
@@ -22,7 +23,10 @@ function App() {
   return (
     <main>
       <h1>Farm2Table</h1>
-
+      <h3>Hello World!</h3>
+      <div>
+      <img src={toothlessGif} alt="Loading animation" />
+      </div>
       <label>Select Station: </label>
 
       <select
